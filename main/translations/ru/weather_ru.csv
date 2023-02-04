@@ -1,0 +1,24 @@
+term,value,context,context value
+@topic,Погода,,
+@author,Valeria Agaeva,,
+@author_local,Валерия Агаева,,
+winter,зима,season,сезон
+spring,весна,season,сезон
+summer,лето,season,сезон
+autumn,осень,season,сезон
+cloudy,облачно,,
+cold,холодно,,
+cool,прохладно,,
+dry,сухо,,
+foggy,туман,,
+freezing,мороз,,
+icy,лед,,
+hot,жарко,,
+rainy,дождливо,,
+snowy,снег,,
+sunny,солнцe,,
+temperature,температура,,
+thermometer,термометр,,
+warm,тепло,,
+wet,влажно,,
+windy,ветренно,,
