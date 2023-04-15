@@ -1,75 +1,64 @@
-term,value,context,context value,image,pointer
-@topic,Человек.Тело,,,,
-@author,Kazbek Byasov,,,,
-face,лицо,,,body1.jpg,1
-mouth,рот,,,body1.jpg,2
-chin,подбородок,,,body1.jpg,3
-neck,шея,,,body1.jpg,4
-shoulder,плечо,,,body1.jpg,5
-arm,рука,,,body1.jpg,6
-upper arm,плечо,,,body1.jpg,7
-elbow,локоть,,,body1.jpg,8
-forearm,предплечье,,,body1.jpg,9
-armpit,подмышка,,,body1.jpg,10
-back,спина,,,body1.jpg,11
-chest,грудь,,,body1.jpg,12
-waist,талия,,,body1.jpg,13
-abdomen,живот,,,body1.jpg,14
-buttocks,ягодицы,,,body1.jpg,15
-hip,бедро,,,body1.jpg,16
-leg,нога,,,body1.jpg,17
-thigh,бедро,,,body1.jpg,18
-knee,колено,,,body1.jpg,19
-calf,голень,,,body1.jpg,20
-wrist,запястье,,,hand1.jpg,21
-knuckle,костяшка,,,hand1.jpg,22
-fingernail,ноготь,,,hand1.jpg,23
-thumb,большой палец,,,hand1.jpg,24
-index finger,указательный палец,,,hand1.jpg,25
-middle finger,средний палец,,,hand1.jpg,26
-ring finger,безымянный палец,,,hand1.jpg,27
-little finger,мизинец,,,hand1.jpg,28
-palm,ладонь,,,hand1.jpg,29
-hair,волосы,,,head1.jpg,30
-part,головная часть,,,head1.jpg,31
-forehead,лоб,,,head1.jpg,32
-sideburn,бакенбарды,,,head1.jpg,33
-ear,ухо,,,head1.jpg,34
-cheek,щека,,,head1.jpg,35
-nose,нос,,,head1.jpg,36
-nostril,ноздря,,,head1.jpg,37
-jaw,челюсть,,,head1.jpg,38
-beard,борода,,,head1.jpg,39
-mustache,усы,,,head1.jpg,40
-tongue,язык,,,head1.jpg,41
-tooth,зуб,,,head1.jpg,42
-lip,губа,,,head1.jpg,43
-eyebrow,бровь,,,eye1.jpg,44
-eyelid,веко,,,eye1.jpg,45
-eyelashes,ресницы,,,eye1.jpg,46
-iris,радужная оболочка,,,eye1.jpg,47
-pupil,зрачок,,,eye1.jpg,48
-ankle,лодыжка,,,foot1.jpg,49
-heel,пятка,,,foot1.jpg,50
-instep,подъем,,,foot1.jpg,51
-ball,подушечка,,,foot1.jpg,52
-big toe,большой палец,,,foot1.jpg,53
-toe,палец,,,foot1.jpg,54
-little toe,мизинец,,,foot1.jpg,55
-toenail,ноготь,,,foot1.jpg,56
-brain,мозг,,,head_internals.jpg,57
-spinal cord,спинной мозг,,,head_internals.jpg,58
-throat,глотка,,,head_internals.jpg,59
-windpipe,трахея,,,head_internals.jpg,60
-esophagus,пищевод,,,head_internals.jpg,61
-muscle,мышца,,,body_internals1.jpg,62
-lung,легкое,,,body_internals1.jpg,63
-heart,сердце,,,body_internals1.jpg,64
-liver,печень,,,body_internals1.jpg,65
-stomach,желудок,,,body_internals1.jpg,66
-intestines,кишки,,,body_internals1.jpg,67
-vein,вена,,,body_internals2.jpg,68
-artery,артерия,,,body_internals2.jpg,69
-kidney,почка,,,body_internals2.jpg,70
-pancreas,поджелудочная железа,,,body_internals2.jpg,71
-bladder,мочевой пузырь,,,body_internals2.jpg,72
+term,value,context,context value,image
+@topic,Человек.Тело,,,
+@author,Kazbek Byasov,,,
+face,лицо,,,
+mouth,рот,,,
+chin,подбородок,,,
+neck,шея,,,
+shoulder,плечо,,,
+arm,рука,,,
+upper arm,плечо,,,
+elbow,локоть,,,
+forearm,предплечье,,,
+armpit,подмышка,,,
+back,спина,,,
+chest,грудь,,,
+waist,талия,,,
+abdomen,живот,,,
+buttocks,ягодицы,,,
+hip,бедро,,,
+leg,нога,,,
+thigh,бедро,,,
+knee,колено,,,
+calf,голень,,,
+wrist,запястье,,,
+knuckle,костяшка,,,
+fingernail,ноготь,,,
+thumb,большой палец,,,
+index finger,указательный палец,,,
+middle finger,средний палец,,,
+ring finger,безымянный палец,,,
+little finger,мизинец,,,
+palm,ладонь,,,
+hair,волосы,,,
+part,головная часть,,,
+forehead,лоб,,,
+sideburn,бакенбарды,,,
+ear,ухо,,,
+cheek,щека,,,
+nose,нос,,,
+nostril,ноздря,,,
+jaw,челюсть,,,
+beard,борода,,,
+mustache,усы,,,
+tongue,язык,,,
+tooth,зуб,,,
+lip,губа,,,
+eyebrow,бровь,,,
+eyelid,веко,,,
+eyelashes,ресницы,,,
+iris,радужная оболочка,,,
+pupil,зрачок,,,
+ankle,лодыжка,,,
+heel,пятка,,,
+instep,подъем,,,
+ball,подушечка,,,
+big toe,большой палец,,,
+toe,палец,,,
+little toe,мизинец,,,
+toenail,ноготь,,,
+brain,мозг,,,
+spinal cord,спинной мозг,,,
+throat,глотка,,,
+windpipe,трахея,,,
+esophagus,пищевод,,,
