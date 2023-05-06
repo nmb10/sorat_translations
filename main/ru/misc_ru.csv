@@ -164,19 +164,19 @@ stick,палка,,,
 stump,пень,,,
 table,треножник,,,
 wrong,неверно,,,
-hang around,шляться,,,
+hang around,шляться,,,misc/hang around/image1.gif
 wineglass,бокал,,,
 flank,сторона,,,
 lapdog,болонка,,,
 dangling,болтающийся,,,misc/dangling/image1.gif
 harrow,борона,,,
 bravo,браво,,,misc/bravo/image1.gif
-defective,бракованный,,,
+defective,бракованный,,,misc/defective/image1.gif
 bracelet,браслет,,,
-spatter,брызганье,,,
+spatter,брызганье,,,misc/spatter/image1.gif
 cloak,бурка,,,
 cotton wool,вата,,,
-Venus,Венера,,,
+venus,Венера,,,
 disheveled,взъерошенный,,,
 upside down,вниз головой,,,misc/upside down/image1.gif
 tuesday,вторник,,,
@@ -186,12 +186,12 @@ ledge,выступ,,,
 clay,глина,,,
 mockery,глумление,,,misc/mockery/image1.gif
 headache,головная боль,,,misc/headache/image1.gif
-proud,гордый,,,
+proud,гордый,,,misc/proud/image1.gif
 king,государь,,,misc/king/image1.gif
 rake,грабли,,,
 rowing,гребля,,,misc/rowing/image1.gif
 priming,грунт,,,
-king,дамка,,,
+king,король,,,misc/king/image1.gif
 country house,дача,,,
 wooden chain,деревянная цепь,,,
 fraction,дробь (ружейная),,,
@@ -204,7 +204,7 @@ desolation,запустение,,,misc/desolation/image1.gif
 yawn,зевать,,,misc/yawn/image1.gif
 go backwards,идти задом,,,misc/go backwards/image1.gif
 image,изображение,,,
-bloodhound,ищейка,,,
+bloodhound,ищейка,,,misc/bloodhound/image1.gif
 helmet,каска,,,
 mallet,киянка,,,
 button,кнопка,,,
@@ -216,12 +216,12 @@ trough,корыто,,,
 round flat stone,круглый плоский камень,,,
 cup,кубок,,,
 bunch,кучка,,,
-bedridden patient,лежачий больной,,,
+bedridden patient,лежачий больной,,,misc/bedridden patient/image1.gif
 rainfall,ливень,,,misc/rainfall/image1.gif
 scrap,лом,,,
 mattress,матрац,,,
 bread in milk,хлеб в молоке,,,
-alert,насторожиться,,,
+alert,тревога,,,misc/alert/image1.gif
 invisible,невидимый,,,misc/invisible/image1.gif
 one-sided,однобокий,,,
 squire,оруженосец,,,misc/squire/image1.gif
@@ -241,7 +241,7 @@ gift,подарок,,,misc/gift/image1.gif
 pallet,поддон,,,
 tripod,тренога костровая,,,
 piston,поршень,,,
-stretch,потягиваться,,,
+stretch,потягиваться,,,misc/stretch/image1.gif
 satiation,пресыщение,,,misc/satiation/image1.gif
 glimpse,проблеск,,,
 product,произведение (мат.),,,
@@ -264,7 +264,7 @@ thesaurus,справочник,,,
 sealing wax,сургуч,,,
 happiness,счастье,,,misc/happiness/image1.gif
 shooting,съемка,,,
-shadow,тень,,,
+shadow,тень,,,misc/shadow/image1.gif
 hewn stone,тесаный камень,,,
 adze,тесло,,,
 whetstone,точильный камень,,,misc/whetstone/image1.gif
@@ -272,17 +272,16 @@ urinary tube,трубка для мочи,,,
 tuberculosis,туберкулез,,,
 turban,тюрбан,,,
 corner,угол,,,
-wonder,удивление,,,
+wonder,удивление,,,misc/wonder/image1.gif
 hive,улей,,,
-clever,умный,,,
-ghoul,упырь,,,
+clever,умный,,,misc/clever/image1.gif
+ghoul,упырь,,,misc/ghoul/image1.gif
 facade,фасад,,,
 wick,фитиль,,,
 cotton,хлопок,,,
 scull,череп,,,
 shawl,шаль,,,
-noise,шум,,,
-auroch,auroch,,,
+noise,шум,,,misc/noise/image1.gif
 ball,мяч,,,
 basket,корзина,,,
 bathe,купаться,,,misc/bathe/image1.gif
@@ -296,7 +295,7 @@ carpet,ковер,,,
 chestnut,каштан,,,
 collar,воротник,,,
 crampon,кошки,,,
-diary,дневник,,,
+diary,дневник,,,misc/diary/image1.gif
 doubt,сомнение,,,misc/doubt/image1.gif
 dress,платье,,,
 drop,бросать,,,
@@ -323,7 +322,7 @@ right,право,,,misc/right/image1.gif
 road,дорога,,,
 roller,вал,,,
 sail,паруc ,,,
-search,искать,,,
+search,искать,,,misc/search/image1.gif
 slave,раб,,,
 soup plate,глубокая тарелка,,,
 stamp,штамп,,,
