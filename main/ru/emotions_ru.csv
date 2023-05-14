@@ -1,15 +1,15 @@
-term,value,context,context value,image
-@topic,Эмоции,,,
-@author,Kazbek Byasov,,,
-anger,гнев,,,emotions/anger/image1.gif
-contempt,презрение,,,emotions/contempt/image1.gif
-disgust,отвращение,,,emotions/disgust/image1.gif
-fear,страх,,,emotions/fear/image1.gif
-guilt,вина,,,emotions/guilt/image1.gif
-hostility,враждебность,,,emotions/hostility/image1.gif
-interest,интерес,,,emotions/interest/image1.gif
-joy,радость,,,emotions/joy/image1.gif
-sadness,грусть,,,emotions/sadness/image1.gif
-shame,стыд,,,emotions/shame/image1.gif
-shyness,застенчивость,,,emotions/shyness/image1.gif
-surprise,сюрприз,,,emotions/surprise/image1.gif
+term,value
+@topic,Эмоции
+@author,Kazbek Byasov
+anger,гнев
+contempt,презрение
+disgust,отвращение
+fear,страх
+guilt,вина
+hostility,враждебность
+interest,интерес
+joy,радость
+sadness,грусть
+shame,стыд
+shyness,застенчивость
+surprise,сюрприз

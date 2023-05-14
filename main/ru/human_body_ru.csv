@@ -1,64 +1,64 @@
-term,value,context,context value,image
-@topic,Человек.Тело,,,
-@author,Kazbek Byasov,,,
-face,лицо,,,
-mouth,рот,,,
-chin,подбородок,,,
-neck,шея,,,
-shoulder,плечо,,,
-arm,рука,,,
-upper arm,плечо,,,
-elbow,локоть,,,
-forearm,предплечье,,,
-armpit,подмышка,,,
-back,спина,,,
-chest,грудь,,,
-waist,талия,,,
-abdomen,живот,,,
-buttocks,ягодицы,,,
-hip,бедро,,,
-leg,нога,,,
-thigh,бедро,,,
-knee,колено,,,
-calf,голень,,,
-wrist,запястье,,,
-knuckle,костяшка,,,
-fingernail,ноготь,,,
-thumb,большой палец,,,
-index finger,указательный палец,,,
-middle finger,средний палец,,,
-ring finger,безымянный палец,,,
-little finger,мизинец,,,
-palm,ладонь,,,
-hair,волосы,,,
-part,головная часть,,,
-forehead,лоб,,,
-sideburn,бакенбарды,,,
-ear,ухо,,,
-cheek,щека,,,
-nose,нос,,,
-nostril,ноздря,,,
-jaw,челюсть,,,
-beard,борода,,,
-mustache,усы,,,
-tongue,язык,,,
-tooth,зуб,,,
-lip,губа,,,
-eyebrow,бровь,,,
-eyelid,веко,,,
-eyelashes,ресницы,,,
-iris,радужная оболочка,,,
-pupil,зрачок,,,
-ankle,лодыжка,,,
-heel,пятка,,,
-instep,подъем,,,
-ball,подушечка,,,
-big toe,большой палец,,,
-toe,палец,,,
-little toe,мизинец,,,
-toenail,ноготь,,,
-brain,мозг,,,
-spinal cord,спинной мозг,,,
-throat,глотка,,,
-windpipe,трахея,,,
-esophagus,пищевод,,,
+term,value
+@topic,Человек.Тело
+@author,Kazbek Byasov
+face,лицо
+mouth,рот
+chin,подбородок
+neck,шея
+shoulder,плечо
+arm,рука
+upper arm,плечо
+elbow,локоть
+forearm,предплечье
+armpit,подмышка
+back,спина
+chest,грудь
+waist,талия
+abdomen,живот
+buttocks,ягодицы
+hip,бедро
+leg,нога
+thigh,бедро
+knee,колено
+calf,голень
+wrist,запястье
+knuckle,костяшка
+fingernail,ноготь
+thumb,большой палец
+index finger,указательный палец
+middle finger,средний палец
+ring finger,безымянный палец
+little finger,мизинец
+palm,ладонь
+hair,волосы
+part,головная часть
+forehead,лоб
+sideburn,бакенбарды
+ear,ухо
+cheek,щека
+nose,нос
+nostril,ноздря
+jaw,челюсть
+beard,борода
+mustache,усы
+tongue,язык
+tooth,зуб
+lip,губа
+eyebrow,бровь
+eyelid,веко
+eyelashes,ресницы
+iris,радужная оболочка
+pupil,зрачок
+ankle,лодыжка
+heel,пятка
+instep,подъем
+ball,подушечка
+big toe,большой палец
+toe,палец
+little toe,мизинец
+toenail,ноготь
+brain,мозг
+spinal cord,спинной мозг
+throat,глотка
+windpipe,трахея
+esophagus,пищевод

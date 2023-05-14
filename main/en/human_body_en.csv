@@ -1,64 +1,64 @@
-term,value,context,context value,image
-@topic,Humans.Body,,,
-@author,Kazbek Byasov,,,
-face,face,,,
-mouth,mouth,,,
-chin,chin,,,
-neck,neck,,,
-shoulder,shoulder,,,
-arm,arm,,,
-upper arm,upper arm,,,
-elbow,elbow,,,
-forearm,forearm,,,
-armpit,armpit,,,
-back,back,,,
-chest,chest,,,
-waist,waist,,,
-abdomen,abdomen,,,
-buttocks,buttocks,,,
-hip,hip,,,
-leg,leg,,,
-thigh,thigh,,,
-knee,knee,,,
-calf,calf,,,
-wrist,wrist,,,
-knuckle,knuckle,,,
-fingernail,fingernail,,,
-thumb,thumb,,,
-index finger,index finger,,,
-middle finger,middle finger,,,
-ring finger,ring finger,,,
-little finger,little finger,,,
-palm,palm,,,
-hair,hair,,,
-part,part,,,
-forehead,forehead,,,
-sideburn,sideburn,,,
-ear,ear,,,
-cheek,cheek,,,
-nose,nose,,,
-nostril,nostril,,,
-jaw,jaw,,,
-beard,beard,,,
-mustache,mustache,,,
-tongue,tongue,,,
-tooth,tooth,,,
-lip,lip,,,
-eyebrow,eyebrow,,,
-eyelid,eyelid,,,
-eyelashes,eyelashes,,,
-iris,iris,,,
-pupil,pupil,,,
-ankle,ankle,,,
-heel,heel,,,
-instep,instep,,,
-ball,ball,,,
-big toe,big toe,,,
-toe,toe,,,
-little toe,little toe,,,
-toenail,toenail,,,
-brain,brain,,,
-spinal cord,spinal cord,,,
-throat,throat,,,
-windpipe,windpipe,,,
-esophagus,esophagus,,,
+term,value
+@topic,Humans.Body
+@author,Kazbek Byasov
+face,face
+mouth,mouth
+chin,chin
+neck,neck
+shoulder,shoulder
+arm,arm
+upper arm,upper arm
+elbow,elbow
+forearm,forearm
+armpit,armpit
+back,back
+chest,chest
+waist,waist
+abdomen,abdomen
+buttocks,buttocks
+hip,hip
+leg,leg
+thigh,thigh
+knee,knee
+calf,calf
+wrist,wrist
+knuckle,knuckle
+fingernail,fingernail
+thumb,thumb
+index finger,index finger
+middle finger,middle finger
+ring finger,ring finger
+little finger,little finger
+palm,palm
+hair,hair
+part,part
+forehead,forehead
+sideburn,sideburn
+ear,ear
+cheek,cheek
+nose,nose
+nostril,nostril
+jaw,jaw
+beard,beard
+mustache,mustache
+tongue,tongue
+tooth,tooth
+lip,lip
+eyebrow,eyebrow
+eyelid,eyelid
+eyelashes,eyelashes
+iris,iris
+pupil,pupil
+ankle,ankle
+heel,heel
+instep,instep
+ball,ball
+big toe,big toe
+toe,toe
+little toe,little toe
+toenail,toenail
+brain,brain
+spinal cord,spinal cord
+throat,throat
+windpipe,windpipe
+esophagus,esophagus

@@ -1,58 +1,58 @@
-term,value,context,context value,image
-@topic,Адæймаг.Буар,,,
-@author,Биасти Георги Фурт Хъазибег,,,
-face,цæсгом,,,
-mouth,дзых,,,
-chin,роцъо,,,
-neck,бæрзæй,,,
-shoulder,æккой,,,
-arm,къух,,,
-upper arm,æккой,,,
-elbow,рæмбыныкæдз,,,
-forearm,мæкъуыстæг,,,
-armpit,дæларм,,,
-back,фæсон,,,
-chest,риу,,,
-waist,ронбаст,,,
-abdomen,гуыбын,,,
-buttocks,лæбæз,,,
-hip,син,,,
-leg,къах,,,
-thigh,агъд,,,
-knee,уæраг,,,
-calf,зæнг,,,
-wrist,фæсарм,,,
-knuckle,тымбылкъух,,,
-fingernail,ных,,,
-thumb,хистæр æнгуылдз,,,
-index finger,амонæг æнгуылдз,,,
-middle finger,астæуыккаг æнгуылдз,,,
-ring finger,æнæном æнгуылдз,,,
-little finger,кæстæр æнгуылдз,,,
-palm,армытъæпæн,,,
-hair,сæрыхъуын,,,
-forehead,тæрных,,,
-ear,хъус,,,
-cheek,рус,,,
-nose,фындз,,,
-nostril,фындзыхуынкъ,,,
-jaw,æфсæр,,,
-beard,боцъо,,,
-mustache,рихитæ,,,
-tongue,æвзаг,,,
-tooth,дæндаг,,,
-lip,был,,,
-eyebrow,æрфыг,,,
-eyelid,уæлтъыфал,,,
-eyelashes,цæстыхау,,,
-pupil,гагуы,,,
-heel,зæвæт,,,
-big toe,хистæр æнгуылдз,,,
-toe,æнгуылдз,,,
-little toe,кæстæр æнгуылдз,,,
-toenail,ных,,,
-brain,магъз,,,
-spinal cord,астæуыстæджы магъз,,,
-throat,ныхъуырæн,,,
-windpipe,хурхуадындз,,,
-esophagus,ласæггаг,,,
+term,value
+@topic,Адæймаг.Буар
+@author,Биасти Георги Фурт Хъазибег
+face,цæсгом
+mouth,дзых
+chin,роцъо
+neck,бæрзæй
+shoulder,æккой
+arm,къух
+upper arm,æккой
+elbow,рæмбыныкæдз
+forearm,мæкъуыстæг
+armpit,дæларм
+back,фæсон
+chest,риу
+waist,ронбаст
+abdomen,гуыбын
+buttocks,лæбæз
+hip,син
+leg,къах
+thigh,агъд
+knee,уæраг
+calf,зæнг
+wrist,фæсарм
+knuckle,тымбылкъух
+fingernail,ных
+thumb,хистæр æнгуылдз
+index finger,амонæг æнгуылдз
+middle finger,астæуыккаг æнгуылдз
+ring finger,æнæном æнгуылдз
+little finger,кæстæр æнгуылдз
+palm,армытъæпæн
+hair,сæрыхъуын
+forehead,тæрных
+ear,хъус
+cheek,рус
+nose,фындз
+nostril,фындзыхуынкъ
+jaw,æфсæр
+beard,боцъо
+mustache,рихитæ
+tongue,æвзаг
+tooth,дæндаг
+lip,был
+eyebrow,æрфыг
+eyelid,уæлтъыфал
+eyelashes,цæстыхау
+pupil,гагуы
+heel,зæвæт
+big toe,хистæр æнгуылдз
+toe,æнгуылдз
+little toe,кæстæр æнгуылдз
+toenail,ных
+brain,магъз
+spinal cord,астæуыстæджы магъз
+throat,ныхъуырæн
+windpipe,хурхуадындз
+esophagus,ласæггаг
