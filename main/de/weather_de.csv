@@ -1,0 +1,24 @@
+term,value,context,context value
+@topic,Wetter,,
+@author,Milena Byasova,,
+@author_local,Милена Бясова,,
+winter,der Winter,season,jahreszeit
+spring,der Frühling,season,jahreszeit
+summer,der Sommer,season,jahreszeit
+autumn,der Herbst,season,jahreszeit
+cloudy,bewölkt,,
+cold,kalt,,
+cool,kühl,,
+dry,trocken,,
+foggy,neblig,,
+freezing,frostig,,
+icy,eisig,,
+hot,heiss,,
+rainy,regnerisch,,
+snowy,verschneiten,,
+sunny,die Sonne,,
+temperature,die Temperatur,,
+thermometer,der Thermometer,,
+warm,warm,,
+wet,nass,,
+windy,windig,,
