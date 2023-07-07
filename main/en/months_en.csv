@@ -1,15 +1,16 @@
-term,value
+term,value,context,context value,level
 @topic,Months
 @author,Kazbek Byasov
-january,january
-february,february
-march,march
-april,april
-may,may
-june,june
-july,july
-august,august
-september,september
-october,october
-november,november
-december,december
+@set,simple
+april,april,,,simple
+august,august,,,simple
+december,december,,,simple
+february,february,,,simple
+january,january,,,simple
+july,july,,,simple
+june,june,,,simple
+march,march,,,simple
+may,may,,,simple
+november,november,,,simple
+october,october,,,simple
+september,september,,,simple

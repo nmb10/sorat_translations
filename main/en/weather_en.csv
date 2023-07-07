@@ -1,23 +1,23 @@
-term,value,context,context value
+term,value,context,context value,level
 @topic,Weather,,
 @author,Kazbek Byasov,,
-winter,winter,season,
-spring,spring,season,
-summer,summer,season,
-autumn,autumn,season,
-cloudy,cloudy,,
-cold,cold,,
-cool,cool,,
-dry,dry,,
-foggy,foggy,,
-freezing,freezing,,
-icy,icy,,
-hot,hot,,
-rainy,rainy,,
-snowy,snowy,,
-sunny,sunny,,
-temperature,temperature,,
-thermometer,thermometer,,
-warm,warm,,
-wet,wet,,
-windy,windy,,
+autumn,autumn,season,,simple
+cloudy,cloudy,,,normal
+cold,cold,,,simple
+cool,cool,,,normal
+dry,dry,,,simple
+foggy,foggy,,,simple
+freezing,freezing,,,simple
+hot,hot,,,simple
+icy,icy,,,normal
+rainy,rainy,,,simple
+snowy,snowy,,,simple
+spring,spring,season,,simple
+summer,summer,season,,simple
+sunny,sunny,,,simple
+temperature,temperature,,,normal
+thermometer,thermometer,,,hard
+warm,warm,,,simple
+wet,wet,,,normal
+windy,windy,,,normal
+winter,winter,season,,simple

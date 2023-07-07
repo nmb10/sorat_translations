@@ -1,102 +1,102 @@
-term,value
+term,value,context,context value,level
 @topic,Animals.Birds
 @author,Kazbek Byasov
-cormorant,cormorant
-snipe,snipe
-white partridge,white partridge
-snowy owl,snowy owl
-griffin,griffin
-golden eagle,golden eagle
-bearded vulture,bearded vulture
-thunderbird,thunderbird
-woodcock,woodcock
-bluethroat,bluethroat
-wryneck,wryneck
-sparrow,sparrow
-crow,crow
-bittern,bittern
-brambling,brambling
-loon,loon
-jackdaw,jackdaw
-wood-grouse,wood-grouse
-pigeon,pigeon
-redstart,redstart
-rook,rook
-vulture,vulture
-goose,goose
-thrush,thrush
-bustard,bustard
-woodpecker,woodpecker
-lark,lark
-crane,crane
-demoiselle crane,demoiselle crane
-finch,finch
-oriole,oriole
-turkey,turkey
-turkey-cock,turkey-cock
-caucasian black grouse,caucasian black grouse
-branta,branta
-cockatoo,cockatoo
-canary,canary
-buzzard,buzzard
-spotted nutcracker,spotted nutcracker
-crossbill,crossbill
-chough,chough
-nightjar,nightjar
-humming-bird,humming-bird
-kinglet,kinglet
-corn crake,corn crake
-kite,kite
-giildenstadt’s redstart,giildenstadt’s redstart
-merlin arctic falcon,merlin arctic falcon
-mallard quack,mallard quack
-cuckoo,cuckoo
-sandspiper,sandspiper
-hen,hen
-partridge,partridge
-swallow,swallow
-swan,swan
-pied bushchat,pied bushchat
-harrier,harrier
-fly-catcher,fly-catcher
-ruddy shelduck,ruddy shelduck
-eagle,eagle
-peacock,peacock
-common shelduck,common shelduck
-quail,quail
-penguin,penguin
-nuthatch,nuthatch
-parrot,parrot
-snow bunting,snow bunting
-kestrel,kestrel
-pink starling,pink starling
-hazel hen,hazel hen
-titmouse,titmouse
-starling,starling
-bullfinch,bullfinch
-owl,owl
-jay,jay
-falcon,falcon
-nightingale,nightingale
-magpie,magpie
-little bustard,little bustard
-sand martin,sand martin
-horned owl,horned owl
-blackcock,blackcock
-toucan,toucan
-hoopoe,hoopoe
-snowcock,snowcock
-duck,duck
-duckbill,duckbill
-the long-eared bat,the long-eared bat
-pheasant,pheasant
-eagle owl,eagle owl
-flamingo,flamingo
-heron,heron
-pearl-hen,pearl-hen
-poult,poult
-gull,gull
-lapwing,lapwing
-hawk,hawk
-pipit,pipit
-cock,cock
+bearded vulture,bearded vulture,,,normal
+bittern,bittern,,,normal
+blackcock,blackcock,,,normal
+bluethroat,bluethroat,,,hard
+brambling,brambling,,,normal
+branta,branta,,,hard
+bullfinch,bullfinch,,,normal
+bustard,bustard,,,normal
+buzzard,buzzard,,,normal
+canary,canary,,,simple
+caucasian black grouse,caucasian black grouse,,,hard
+chough,chough,,,hard
+cock,cock,,,simple
+cockatoo,cockatoo,,,normal
+common shelduck,common shelduck,,,hard
+cormorant,cormorant,,,hard
+corn crake,corn crake,,,hard
+crane,crane,,,simple
+crossbill,crossbill,,,hard
+crow,crow,,,simple
+cuckoo,cuckoo,,,simple
+demoiselle crane,demoiselle crane,,,normal
+duck,duck,,,simple
+duckbill,duckbill,,,normal
+eagle,eagle,,,simple
+eagle owl,eagle owl,,,normal
+falcon,falcon,,,simple
+finch,finch,,,normal
+flamingo,flamingo,,,simple
+fly-catcher,fly-catcher,,,hard
+giildenstadt’s redstart,giildenstadt’s redstart,,,hard
+golden eagle,golden eagle,,,simple
+goose,goose,,,simple
+griffin,griffin,,,hard
+gull,gull,,,normal
+harrier,harrier,,,hard
+hawk,hawk,,,normal
+hazel hen,hazel hen,,,normal
+hen,hen,,,simple
+heron,heron,,,simple
+hoopoe,hoopoe,,,normal
+horned owl,horned owl,,,hard
+humming-bird,humming-bird,,,simple
+jackdaw,jackdaw,,,normal
+jay,jay,,,normal
+kestrel,kestrel,,,hard
+kinglet,kinglet,,,normal
+kite,kite,,,simple
+lapwing,lapwing,,,hard
+lark,lark,,,normal
+little bustard,little bustard,,,normal
+loon,loon,,,normal
+magpie,magpie,,,simple
+mallard quack,mallard quack,,,hard
+merlin arctic falcon,merlin arctic falcon,,,hard
+nightingale,nightingale,,,simple
+nightjar,nightjar,,,hard
+nuthatch,nuthatch,,,hard
+oriole,oriole,,,normal
+owl,owl,,,simple
+parrot,parrot,,,simple
+partridge,partridge,,,normal
+peacock,peacock,,,simple
+pearl-hen,pearl-hen,,,normal
+penguin,penguin,,,simple
+pheasant,pheasant,,,normal
+pied bushchat,pied bushchat,,,hard
+pigeon,pigeon,,,simple
+pink starling,pink starling,,,normal
+pipit,pipit,,,normal
+poult,poult,,,simple
+quail,quail,,,normal
+redstart,redstart,,,hard
+rook,rook,,,normal
+ruddy shelduck,ruddy shelduck,,,hard
+sand martin,sand martin,,,normal
+sandspiper,sandspiper,,,hard
+snipe,snipe,,,hard
+snow bunting,snow bunting,,,hard
+snowcock,snowcock,,,normal
+snowy owl,snowy owl,,,normal
+sparrow,sparrow,,,simple
+spotted nutcracker,spotted nutcracker,,,hard
+starling,starling,,,normal
+swallow,swallow,,,simple
+swan,swan,,,simple
+the long-eared bat,the long-eared bat,,,hard
+thrush,thrush,,,simple
+thunderbird,thunderbird,,,normal
+titmouse,titmouse,,,normal
+toucan,toucan,,,normal
+turkey,turkey,,,simple
+turkey-cock,turkey-cock,,,simple
+vulture,vulture,,,simple
+white partridge,white partridge,,,hard
+wood-grouse,wood-grouse,,,normal
+woodcock,woodcock,,,hard
+woodpecker,woodpecker,,,simple
+wryneck,wryneck,,,hard

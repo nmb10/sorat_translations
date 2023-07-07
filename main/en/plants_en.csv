@@ -1,312 +1,312 @@
-term,value
+term,value,context,context value,level
 @topic,Plants
 @author,Kazbek Byasov
-apricot,apricot
-azalea,azalea
-shrimp,shrimp
-grape,grape
-calamus,calamus
-erodium,erodium
-apple quince,apple quince
-acacia,acacia
-aloe,aloe
-althaea,althaea
-cherry-plum,cherry-plum
-orange,orange
-watermelon,watermelon
-aster,aster
-astragalus,astragalus
-labrador tea,labrador tea
-aubergine,aubergine
-bamboo,bamboo
-banana,banana
-monkey-bread,monkey-bread
-barberry,barberry
-marigold,marigold
-begonia,begonia
-colclicum magnificent,colclicum magnificent
-henbane,henbane
-calla,calla
-white boletus,white boletus
-euonymus,euonymus
-birch,birch
-thistle,thistle
-hemlock,hemlock
-boletus,boletus
-cow parsnip,cow parsnip
-hawthorn,hawthorn
-bromeliad,bromeliad
-cowberry,cowberry
-rutabaga,rutabaga
-grassy elderberry,grassy elderberry
-black elderberry,black elderberry
-beech,beech
-beetroot,beetroot
-valerian,valerian
-cornflower,cornflower
-meadowrue,meadowrue
-pussy-willow,pussy-willow
-camel-thorn,camel-thorn
-heather,heather
-anemone,anemone
-grape,grape
-cherry,cherry
-alga,alga
-columbine,columbine
-cowberry caucasian,cowberry caucasian
-caltrop,caltrop
-daphne,daphne
-crow’s eye,crow’s eye
-bindweed,bindweed
-elm,elm
-carnation,carnation
-geranium,geranium
-meadow geranium,meadow geranium
-dahlia,dahlia
-gledichia,gledichia
-blueberry,blueberry
-highlander alpine,highlander alpine
-lychnis,lychnis
-peas,peas
-peas mouse,peas mouse
-mustard,mustard
-hornbeam,hornbeam
-pomegranate,pomegranate
-tamarisk,tamarisk
-gentian,gentian
-buckwheat,buckwheat
-mushrooms,mushrooms
-pear,pear
-gagea,gagea
-elecampane,elecampane
-puffball,puffball
-melicot,melicot
-oak,oak
-angelica,angelica
-datura,datura
-clot bur,clot bur
-oregam,oregam
-melon,melon
-cocksfoot,cocksfoot
-blackberry,blackberry
-spruce,spruce
-jasmine,jasmine
-common buckthorn,common buckthorn
-ginseng,ginseng
-acorn,acorn
-honey-suckle,honey-suckle
-chickweed,chickweed
-tutsan,tutsan
-strawberry,strawberry
-willow,willow
-smooth elm-tree,smooth elm-tree
-fig,fig
-iris,iris
-marrow,marrow
-cactus,cactus
-viburnum,viburnum
-marsh marigold,marsh marigold
-saxifrage,saxifrage
-reed,reed
-cabbage,cabbage
-potato,potato
-chestnut,chestnut
-cedar,cedar
-cornel,cornel
-cypress,cypress
-shamrock,shamrock
-clover,clover
-palmcrist,palmcrist
-maple,maple
-cranberry,cranberry
-feather grass,feather grass
-coconut,coconut
-bellflower,bellflower
-hemp,hemp
-asarum,asarum
-coriander,coriander
-mullein,mullein
-brom grass,brom grass
-stone bramble,stone bramble
-nettle,nettle
-garden cress watercress,garden cress watercress
-burnet,burnet
-buckthorn,buckthorn
-gooseberry,gooseberry
-egg-pod,egg-pod
-spatter-dock,spatter-dock
-corn cockle,corn cockle
-corn,corn
-haircap,haircap
-globe-flower,globe-flower
-chervil,chervil
-bay,bay
-lily of the valley,lily of the valley
-cinquefoil,cinquefoil
-quinoa,quinoa
-hazel,hazel
-flax,flax
-liana,liana
-lily,lily
-lemon,lemon
-linden,linden
-chanterelles,chanterelles
-foxtail,foxtail
-larch,larch
-lichen,lichen
-agaric honey,agaric honey
-patsy,patsy
-lotus,lotus
-onion,onion
-buttercup,buttercup
-magnolia,magnolia
-poppy,poppy
-raspberry,raspberry
-mallow,mallow
-tangerine,tangerine
-arrowroot,arrowroot
-madder,madder
-olive,olive
-coltsfoot,coltsfoot
-lungwort,lungwort
-mimosa,mimosa
-juniper,juniper
-spurge,spurge
-carrot,carrot
-cloudberry,cloudberry
-moss,moss
-fly-agaric,fly-agaric
-medlar,medlar
-pepper-mint,pepper-mint
-meadow grass,meadow grass
-foxglove,foxglove
-narcissus,narcissus
-touch-me-not,touch-me-not
-forget-me-not,forget-me-not
-leucanthemum,leucanthemum
-sea-buckthorn,sea-buckthorn
-oats,oats
-wild oats,wild oats
-cucumber,cucumber
-dandelion,dandelion
-luzula,luzula
-oleander,oleander
-alder,alder
-mistletoe,mistletoe
-honey agaric,honey agaric
-walnut,walnut
-orchid,orchid
-aspen,aspen
-sedge,sedge
-field sowthistle,field sowthistle
-stonecrop,stonecrop
-holly,holly
-palm,palm
-fern,fern
-primrose,primrose
-pepper,pepper
-black pepper,black pepper
-peach tree,peach tree
-parsley,parsley
-tansy,tansy
-peony,peony
-silver fir,silver fir
-weeping willow,weeping willow
-club moss,club moss
-ivy,ivy
-brown cap boletus,brown cap boletus
-plantain,plantain
-orange cap boletus,orange cap boletus
-snowdrop,snowdrop
-sunflower,sunflower
-wormwood,wormwood
-tomato,tomato
-purslane,purslane
-bovista,bovista
-bluebell,bluebell
-millet,millet
-pasqueflower,pasqueflower
-bladder-wort,bladder-wort
-cotton grass,cotton grass
-wheat,wheat
-couch grass,couch grass
-broom,broom
-rhubarb,rhubarb
-summer-and-winter radish,summer-and-winter radish
-bur,bur
-rice,rice
-reed mace,reed mace
-caucasian rhododendron,caucasian rhododendron
-rye,rye
-rose,rose
-camomile,camomile
-dew plant,dew plant
-saffron milk cap,saffron milk cap
-mountain ash,mountain ash
-duckweed,duckweed
-saxaul,saxaul
-box tree,box tree
-satan’s mushroom,satan’s mushroom
-sugar beet,sugar beet
-sugar cane,sugar cane
-beet,beet
-dogwood,dogwood
-bermuda grass,bermuda grass
-celery,celery
-seed,seed
-lilac,lilac
-scabies,scabies
-plum,plum
-viscaria vulgaris,viscaria vulgaris
-currant,currant
-movel,movel
-licorice,licorice
-sorgo,sorgo
-pine,pine
-soy,soy
-spathiphyllum,spathiphyllum
-sagitaria,sagitaria
-bittercress,bittercress
-sphagnum,sphagnum
-russule,russule
-stratiotes-lat,stratiotes-lat
-blackthorn,blackthorn
-sloe,sloe
-herd’s grass,herd’s grass
-fescue grass,fescue grass
-yew,yew
-caraway,caraway
-poplar,poplar
-mulberry,mulberry
-milfoil,milfoil
-pumpkin,pumpkin
-tulip,tulip
-fennel,fennel
-haricot,haricot
-violet,violet
-equisetum,equisetum
-cotton plant,cotton plant
-chlorophytum,chlorophytum
-hop,hop
-radish,radish
-horse radish,horse radish
-chrysanthemum,chrysanthemum
-persimmon,persimmon
-sage,sage
-champignon field,champignon field
-briar,briar
-cone,cone
-dock,dock
-hellebore,hellebore
-wild leek,wild leek
-bird cherry,bird cherry
-garlic,garlic
-lentil,lentil
-celandine,celandine
-eucalyptus,eucalyptus
-apple,apple
-apple tree,apple tree
-ash tree,ash tree
-woodruff,woodruff
-orchis,orchis
-barley,barley
+acacia,acacia,,,simple
+acorn,acorn,,,normal
+agaric honey,agaric honey,,,hard
+alder,alder,,,normal
+alga,alga,,,simple
+aloe,aloe,,,normal
+althaea,althaea,,,hard
+anemone,anemone,,,hard
+angelica,angelica,,,hard
+apple,apple,,,simple
+apple quince,apple quince,,,simple
+apple tree,apple tree,,,simple
+apricot,apricot,,,simple
+arrowroot,arrowroot,,,hard
+asarum,asarum,,,hard
+ash tree,ash tree,,,normal
+aspen,aspen,,,normal
+aster,aster,,,normal
+astragalus,astragalus,,,normal
+aubergine,aubergine,,,simple
+azalea,azalea,,,normal
+bamboo,bamboo,,,simple
+banana,banana,,,simple
+barberry,barberry,,,normal
+barley,barley,,,normal
+bay,bay,,,normal
+beech,beech,,,normal
+beet,beet,,,simple
+beetroot,beetroot,,,hard
+begonia,begonia,,,hard
+bellflower,bellflower,,,normal
+bermuda grass,bermuda grass,,,hard
+bindweed,bindweed,,,normal
+birch,birch,,,simple
+bird cherry,bird cherry,,,normal
+bittercress,bittercress,,,hard
+black elderberry,black elderberry,,,hard
+black pepper,black pepper,,,normal
+blackberry,blackberry,,,normal
+blackthorn,blackthorn,,,normal
+bladder-wort,bladder-wort,,,hard
+bluebell,bluebell,,,hard
+blueberry,blueberry,,,normal
+boletus,boletus,,,normal
+bovista,bovista,,,hard
+box tree,box tree,,,simple
+briar,briar,,,simple
+brom grass,brom grass,,,hard
+bromeliad,bromeliad,,,hard
+broom,broom,,,hard
+brown cap boletus,brown cap boletus,,,normal
+buckthorn,buckthorn,,,hard
+buckwheat,buckwheat,,,normal
+bur,bur,,,normal
+burnet,burnet,,,hard
+buttercup,buttercup,,,normal
+cabbage,cabbage,,,simple
+cactus,cactus,,,simple
+calamus,calamus,,,hard
+calla,calla,,,hard
+caltrop,caltrop,,,hard
+camel-thorn,camel-thorn,,,normal
+camomile,camomile,,,simple
+caraway,caraway,,,normal
+carnation,carnation,,,normal
+carrot,carrot,,,simple
+caucasian rhododendron,caucasian rhododendron,,,hard
+cedar,cedar,,,normal
+celandine,celandine,,,normal
+celery,celery,,,normal
+champignon field,champignon field,,,normal
+chanterelles,chanterelles,,,normal
+cherry,cherry,,,simple
+cherry-plum,cherry-plum,,,normal
+chervil,chervil,,,hard
+chestnut,chestnut,,,simple
+chickweed,chickweed,,,hard
+chlorophytum,chlorophytum,,,hard
+chrysanthemum,chrysanthemum,,,normal
+cinquefoil,cinquefoil,,,hard
+clot bur,clot bur,,,hard
+cloudberry,cloudberry,,,hard
+clover,clover,,,normal
+club moss,club moss,,,hard
+cocksfoot,cocksfoot,,,hard
+coconut,coconut,,,simple
+colclicum magnificent,colclicum magnificent,,,hard
+coltsfoot,coltsfoot,,,normal
+columbine,columbine,,,hard
+common buckthorn,common buckthorn,,,hard
+cone,cone,,,simple
+coriander,coriander,,,normal
+corn,corn,,,simple
+corn cockle,corn cockle,,,hard
+cornel,cornel,,,simple
+cornflower,cornflower,,,normal
+cotton grass,cotton grass,,,hard
+cotton plant,cotton plant,,,normal
+couch grass,couch grass,,,normal
+cow parsnip,cow parsnip,,,hard
+cowberry,cowberry,,,normal
+cowberry caucasian,cowberry caucasian,,,hard
+cranberry,cranberry,,,normal
+crow’s eye,crow’s eye,,,hard
+cucumber,cucumber,,,simple
+currant,currant,,,simple
+cypress,cypress,,,normal
+dahlia,dahlia,,,hard
+dandelion,dandelion,,,simple
+daphne,daphne,,,hard
+datura,datura,,,normal
+dew plant,dew plant,,,normal
+dock,dock,,,normal
+dogwood,dogwood,,,hard
+duckweed,duckweed,,,normal
+egg-pod,egg-pod,,,hard
+elecampane,elecampane,,,hard
+elm,elm,,,normal
+equisetum,equisetum,,,normal
+erodium,erodium,,,hard
+eucalyptus,eucalyptus,,,normal
+euonymus,euonymus,,,hard
+feather grass,feather grass,,,normal
+fennel,fennel,,,simple
+fern,fern,,,simple
+fescue grass,fescue grass,,,hard
+field sowthistle,field sowthistle,,,hard
+fig,fig,,,simple
+flax,flax,,,normal
+fly-agaric,fly-agaric,,,simple
+forget-me-not,forget-me-not,,,normal
+foxglove,foxglove,,,hard
+foxtail,foxtail,,,hard
+gagea,gagea,,,hard
+garden cress watercress,garden cress watercress,,,normal
+garlic,garlic,,,simple
+gentian,gentian,,,hard
+geranium,geranium,,,normal
+ginseng,ginseng,,,hard
+gledichia,gledichia,,,hard
+globe-flower,globe-flower,,,hard
+gooseberry,gooseberry,,,simple
+grape,grape,,,simple
+grape,grape,,,simple
+grassy elderberry,grassy elderberry,,,hard
+haircap,haircap,,,hard
+haricot,haricot,,,simple
+hawthorn,hawthorn,,,hard
+hazel,hazel,,,normal
+heather,heather,,,normal
+hellebore,hellebore,,,hard
+hemlock,hemlock,,,hard
+hemp,hemp,,,normal
+henbane,henbane,,,hard
+herd’s grass,herd’s grass,,,normal
+highlander alpine,highlander alpine,,,hard
+holly,holly,,,hard
+honey agaric,honey agaric,,,hard
+honey-suckle,honey-suckle,,,normal
+hop,hop,,,normal
+hornbeam,hornbeam,,,normal
+horse radish,horse radish,,,normal
+iris,iris,,,normal
+ivy,ivy,,,normal
+jasmine,jasmine,,,normal
+juniper,juniper,,,normal
+labrador tea,labrador tea,,,normal
+larch,larch,,,normal
+lemon,lemon,,,simple
+lentil,lentil,,,normal
+leucanthemum,leucanthemum,,,hard
+liana,liana,,,normal
+lichen,lichen,,,hard
+licorice,licorice,,,hard
+lilac,lilac,,,simple
+lily,lily,,,simple
+lily of the valley,lily of the valley,,,normal
+linden,linden,,,normal
+lotus,lotus,,,normal
+lungwort,lungwort,,,hard
+luzula,luzula,,,hard
+lychnis,lychnis,,,hard
+madder,madder,,,hard
+magnolia,magnolia,,,normal
+mallow,mallow,,,hard
+maple,maple,,,normal
+marigold,marigold,,,hard
+marrow,marrow,,,simple
+marsh marigold,marsh marigold,,,hard
+meadow geranium,meadow geranium,,,hard
+meadow grass,meadow grass,,,normal
+meadowrue,meadowrue,,,hard
+medlar,medlar,,,normal
+melicot,melicot,,,hard
+melon,melon,,,simple
+milfoil,milfoil,,,normal
+millet,millet,,,normal
+mimosa,mimosa,,,normal
+mistletoe,mistletoe,,,hard
+monkey-bread,monkey-bread,,,normal
+moss,moss,,,simple
+mountain ash,mountain ash,,,normal
+movel,movel,,,normal
+mulberry,mulberry,,,normal
+mullein,mullein,,,hard
+mushrooms,mushrooms,,,simple
+mustard,mustard,,,normal
+narcissus,narcissus,,,simple
+nettle,nettle,,,simple
+oak,oak,,,simple
+oats,oats,,,normal
+oleander,oleander,,,hard
+olive,olive,,,normal
+onion,onion,,,simple
+orange,orange,,,simple
+orange cap boletus,orange cap boletus,,,normal
+orchid,orchid,,,normal
+orchis,orchis,,,hard
+oregam,oregam,,,normal
+palm,palm,,,simple
+palmcrist,palmcrist,,,hard
+parsley,parsley,,,simple
+pasqueflower,pasqueflower,,,hard
+patsy,patsy,,,simple
+peach tree,peach tree,,,simple
+pear,pear,,,simple
+peas,peas,,,simple
+peas mouse,peas mouse,,,hard
+peony,peony,,,normal
+pepper,pepper,,,simple
+pepper-mint,pepper-mint,,,normal
+persimmon,persimmon,,,simple
+pine,pine,,,simple
+plantain,plantain,,,simple
+plum,plum,,,simple
+pomegranate,pomegranate,,,simple
+poplar,poplar,,,simple
+poppy,poppy,,,normal
+potato,potato,,,simple
+primrose,primrose,,,hard
+puffball,puffball,,,hard
+pumpkin,pumpkin,,,simple
+purslane,purslane,,,hard
+pussy-willow,pussy-willow,,,simple
+quinoa,quinoa,,,normal
+radish,radish,,,simple
+raspberry,raspberry,,,simple
+reed,reed,,,normal
+reed mace,reed mace,,,simple
+rhubarb,rhubarb,,,hard
+rice,rice,,,simple
+rose,rose,,,simple
+russule,russule,,,hard
+rutabaga,rutabaga,,,hard
+rye,rye,,,normal
+saffron milk cap,saffron milk cap,,,hard
+sage,sage,,,normal
+sagitaria,sagitaria,,,hard
+satan’s mushroom,satan’s mushroom,,,normal
+saxaul,saxaul,,,hard
+saxifrage,saxifrage,,,hard
+scabies,scabies,,,hard
+sea-buckthorn,sea-buckthorn,,,normal
+sedge,sedge,,,normal
+seed,seed,,,simple
+shamrock,shamrock,,,hard
+shrimp,shrimp,,,hard
+silver fir,silver fir,,,normal
+sloe,sloe,,,normal
+smooth elm-tree,smooth elm-tree,,,normal
+snowdrop,snowdrop,,,simple
+sorgo,sorgo,,,normal
+soy,soy,,,normal
+spathiphyllum,spathiphyllum,,,hard
+spatter-dock,spatter-dock,,,normal
+sphagnum,sphagnum,,,hard
+spruce,spruce,,,simple
+spurge,spurge,,,hard
+stone bramble,stone bramble,,,hard
+stonecrop,stonecrop,,,hard
+stratiotes-lat,stratiotes-lat,,,hard
+strawberry,strawberry,,,simple
+sugar beet,sugar beet,,,normal
+sugar cane,sugar cane,,,normal
+summer-and-winter radish,summer-and-winter radish,,,simple
+sunflower,sunflower,,,simple
+tamarisk,tamarisk,,,hard
+tangerine,tangerine,,,simple
+tansy,tansy,,,hard
+thistle,thistle,,,normal
+tomato,tomato,,,simple
+touch-me-not,touch-me-not,,,hard
+tulip,tulip,,,simple
+tutsan,tutsan,,,normal
+valerian,valerian,,,hard
+viburnum,viburnum,,,normal
+violet,violet,,,simple
+viscaria vulgaris,viscaria vulgaris,,,hard
+walnut,walnut,,,simple
+watermelon,watermelon,,,simple
+weeping willow,weeping willow,,,normal
+wheat,wheat,,,simple
+white boletus,white boletus,,,normal
+wild leek,wild leek,,,normal
+wild oats,wild oats,,,normal
+willow,willow,,,simple
+woodruff,woodruff,,,hard
+wormwood,wormwood,,,normal
+yew,yew,,,normal

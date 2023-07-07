@@ -1,124 +1,124 @@
-term,value
+term,value,context,context value,level
 @topic,Numbers
 @author,Kazbek Byasov
-zero,zero
-one,one
-two,two
-three,three
-four,four
-five,five
-six,six
-seven,seven
-eight,eight
-nine,nine
-ten,ten
-eleven,eleven
-twelve,twelve
-thirteen,thirteen
-fourteen,fourteen
-fifteen,fifteen
-sixteen,sixteen
-seventeen,seventeen
-eighteen,eighteen
-nineteen,nineteen
-twenty,twenty
-twenty-one,twenty-one
-twenty-two,twenty-two
-twenty-three,twenty-three
-twenty-four,twenty-four
-twenty-five,twenty-five
-twenty-six,twenty-six
-twenty-seven,twenty-seven
-twenty-eight,twenty-eight
-twenty-nine,twenty-nine
-thirty,thirty
-thirty-one,thirty-one
-thirty-two,thirty-two
-thirty-three,thirty-three
-thirty-four,thirty-four
-thirty-five,thirty-five
-thirty-six,thirty-six
-thirty-seven,thirty-seven
-thirty-eight,thirty-eight
-thirty-nine,thirty-nine
-forty,forty
-forty-one,forty-one
-forty-two,forty-two
-forty-three,forty-three
-forty-four,forty-four
-forty-five,forty-five
-forty-six,forty-six
-forty-seven,forty-seven
-forty-eight,forty-eight
-forty-nine,forty-nine
-fifty,fifty
-fifty-one,fifty-one
-fifty-two,fifty-two
-fifty-three,fifty-three
-fifty-four,fifty-four
-fifty-five,fifty-five
-fifty-six,fifty-six
-fifty-seven,fifty-seven
-fifty-eight,fifty-eight
-fifty-nine,fifty-nine
-sixty,sixty
-sixty-one,sixty-one
-sixty-two,sixty-two
-sixty-three,sixty-three
-sixty-four,sixty-four
-sixty-five,sixty-five
-sixty-six,sixty-six
-sixty-seven,sixty-seven
-sixty-eight,sixty-eight
-sixty-nine,sixty-nine
-seventy,seventy
-seventy-one,seventy-one
-seventy-two,seventy-two
-seventy-three,seventy-three
-seventy-four,seventy-four
-seventy-five,seventy-five
-seventy-six,seventy-six
-seventy-seven,seventy-seven
-seventy-eight,seventy-eight
-seventy-nine,seventy-nine
-eighty,eighty
-eighty-one,eighty-one
-eighty-two,eighty-two
-eighty-three,eighty-three
-eighty-four,eighty-four
-eighty-five,eighty-five
-eighty-six,eighty-six
-eighty-seven,eighty-seven
-eighty-eight,eighty-eight
-eighty-nine,eighty-nine
-ninety,ninety
-ninety-one,ninety-one
-ninety-two,ninety-two
-ninety-three,ninety-three
-ninety-four,ninety-four
-ninety-five,ninety-five
-ninety-six,ninety-six
-ninety-seven,ninety-seven
-ninety-eight,ninety-eight
-ninety-nine,ninety-nine
-one hundred,one hundred
-one thousand,one thousand
-two thousand,two thousand
-three thousand,three thousand
-four thousand,four thousand
-five thousand,five thousand
-six thousand,six thousand
-seven thousand,seven thousand
-eight thousand,eight thousand
-nine thousand,nine thousand
-ten thousand,ten thousand
-one thousand and thirty-four,one thousand and thirty-four
-one thousand and forty-eight,one thousand and forty-eight
-one thousand eight hundred and thirty-four,one thousand eight hundred and thirty-four
-six thousand two hundred and thirty-four,six thousand two hundred and thirty-four
-eight thousand two hundred and twenty,eight thousand two hundred and twenty
-eleven thousand two hundred and thirty-four,eleven thousand two hundred and thirty-four
-eighteen thousand six hundred and thirty-four,eighteen thousand six hundred and thirty-four
-one million,one million
-one million eight hundred and twenty-five thousand three hundred and twenty-five,one million eight hundred and twenty-five thousand three hundred and twenty-five
-three million eight hundred and twenty-five thousand three hundred and twenty-five,three million eight hundred and twenty-five thousand three hundred and twenty-five
+eight,eight,,,simple
+eight thousand,eight thousand,,,normal
+eight thousand two hundred and twenty,eight thousand two hundred and twenty,,,hard
+eighteen,eighteen,,,normal
+eighteen thousand six hundred and thirty-four,eighteen thousand six hundred and thirty-four,,,hard
+eighty,eighty,,,normal
+eighty-eight,eighty-eight,,,normal
+eighty-five,eighty-five,,,normal
+eighty-four,eighty-four,,,normal
+eighty-nine,eighty-nine,,,normal
+eighty-one,eighty-one,,,normal
+eighty-seven,eighty-seven,,,normal
+eighty-six,eighty-six,,,normal
+eighty-three,eighty-three,,,normal
+eighty-two,eighty-two,,,normal
+eleven,eleven,,,normal
+eleven thousand two hundred and thirty-four,eleven thousand two hundred and thirty-four,,,hard
+fifteen,fifteen,,,normal
+fifty,fifty,,,normal
+fifty-eight,fifty-eight,,,normal
+fifty-five,fifty-five,,,normal
+fifty-four,fifty-four,,,normal
+fifty-nine,fifty-nine,,,normal
+fifty-one,fifty-one,,,normal
+fifty-seven,fifty-seven,,,normal
+fifty-six,fifty-six,,,normal
+fifty-three,fifty-three,,,normal
+fifty-two,fifty-two,,,normal
+five,five,,,simple
+five thousand,five thousand,,,normal
+forty,forty,,,normal
+forty-eight,forty-eight,,,normal
+forty-five,forty-five,,,normal
+forty-four,forty-four,,,normal
+forty-nine,forty-nine,,,normal
+forty-one,forty-one,,,normal
+forty-seven,forty-seven,,,normal
+forty-six,forty-six,,,normal
+forty-three,forty-three,,,normal
+forty-two,forty-two,,,normal
+four,four,,,simple
+four thousand,four thousand,,,normal
+fourteen,fourteen,,,normal
+nine,nine,,,simple
+nine thousand,nine thousand,,,normal
+nineteen,nineteen,,,normal
+ninety,ninety,,,normal
+ninety-eight,ninety-eight,,,normal
+ninety-five,ninety-five,,,normal
+ninety-four,ninety-four,,,normal
+ninety-nine,ninety-nine,,,normal
+ninety-one,ninety-one,,,normal
+ninety-seven,ninety-seven,,,normal
+ninety-six,ninety-six,,,normal
+ninety-three,ninety-three,,,normal
+ninety-two,ninety-two,,,normal
+one,one,,,simple
+one hundred,one hundred,,,normal
+one million,one million,,,normal
+one million eight hundred and twenty-five thousand three hundred and twenty-five,one million eight hundred and twenty-five thousand three hundred and twenty-five,,,hard
+one thousand,one thousand,,,normal
+one thousand and forty-eight,one thousand and forty-eight,,,hard
+one thousand and thirty-four,one thousand and thirty-four,,,hard
+one thousand eight hundred and thirty-four,one thousand eight hundred and thirty-four,,,hard
+seven,seven,,,simple
+seven thousand,seven thousand,,,normal
+seventeen,seventeen,,,normal
+seventy,seventy,,,normal
+seventy-eight,seventy-eight,,,normal
+seventy-five,seventy-five,,,normal
+seventy-four,seventy-four,,,normal
+seventy-nine,seventy-nine,,,normal
+seventy-one,seventy-one,,,normal
+seventy-seven,seventy-seven,,,normal
+seventy-six,seventy-six,,,normal
+seventy-three,seventy-three,,,normal
+seventy-two,seventy-two,,,normal
+six,six,,,simple
+six thousand,six thousand,,,normal
+six thousand two hundred and thirty-four,six thousand two hundred and thirty-four,,,hard
+sixteen,sixteen,,,normal
+sixty,sixty,,,normal
+sixty-eight,sixty-eight,,,normal
+sixty-five,sixty-five,,,normal
+sixty-four,sixty-four,,,normal
+sixty-nine,sixty-nine,,,normal
+sixty-one,sixty-one,,,normal
+sixty-seven,sixty-seven,,,normal
+sixty-six,sixty-six,,,normal
+sixty-three,sixty-three,,,normal
+sixty-two,sixty-two,,,normal
+ten,ten,,,simple
+ten thousand,ten thousand,,,normal
+thirteen,thirteen,,,normal
+thirty,thirty,,,normal
+thirty-eight,thirty-eight,,,normal
+thirty-five,thirty-five,,,normal
+thirty-four,thirty-four,,,normal
+thirty-nine,thirty-nine,,,normal
+thirty-one,thirty-one,,,normal
+thirty-seven,thirty-seven,,,normal
+thirty-six,thirty-six,,,normal
+thirty-three,thirty-three,,,normal
+thirty-two,thirty-two,,,normal
+three,three,,,simple
+three million eight hundred and twenty-five thousand three hundred and twenty-five,three million eight hundred and twenty-five thousand three hundred and twenty-five,,,hard
+three thousand,three thousand,,,normal
+twelve,twelve,,,normal
+twenty,twenty,,,normal
+twenty-eight,twenty-eight,,,normal
+twenty-five,twenty-five,,,normal
+twenty-four,twenty-four,,,normal
+twenty-nine,twenty-nine,,,normal
+twenty-one,twenty-one,,,normal
+twenty-seven,twenty-seven,,,normal
+twenty-six,twenty-six,,,normal
+twenty-three,twenty-three,,,normal
+twenty-two,twenty-two,,,normal
+two,two,,,simple
+two thousand,two thousand,,,normal
+zero,zero,,,simple

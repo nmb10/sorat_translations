@@ -1,34 +1,35 @@
-term,value
+term,value,context,context value,level
 @topic,Colours
 @author,Kazbek Byasov
-red,red
-blue,blue
-green,green
-yellow,yellow
-purple,purple
-pink,pink
-orange,orange
-brown,brown
-black,black
-white,white
-gray,gray
-gold,gold
-silver,silver
-navy blue,navy blue
-sky blue,sky blue
-lime green,lime green
-teal,teal
-indigo,indigo
-magenta,magenta
-violet,violet
-khaki,khaki
-salmon,salmon
-crimson,crimson
-lavender,lavender
-plum,plum
-blue violet,blue violet
-olive,olive
-cyan,cyan
-maroon,maroon
-beige,beige
-chestnut,chestnut
+@set,simple
+beige,beige,,,normal
+black,black,,,simple
+blue,blue,,,simple
+blue violet,blue violet,,,hard
+brown,brown,,,simple
+chestnut,chestnut,,,
+crimson,crimson,,,normal
+cyan,cyan,,,simple
+gold,gold,,,normal
+gray,gray,,,simple
+green,green,,,simple
+indigo,indigo,,,hard
+khaki,khaki,,,normal
+lavender,lavender,,,hard
+lime green,lime green,,,hard
+magenta,magenta,,,hard
+maroon,maroon,,,normal
+navy blue,navy blue,,,normal
+olive,olive,,,hard
+orange,orange,,,simple
+pink,pink,,,simple
+plum,plum,,,hard
+purple,purple,,,normal
+red,red,,,simple
+salmon,salmon,,,hard
+silver,silver,,,normal
+sky blue,sky blue,,,simple
+teal,teal,,,hard
+violet,violet,,,simple
+white,white,,,simple
+yellow,yellow,,,simple

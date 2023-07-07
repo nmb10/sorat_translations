@@ -1,15 +1,15 @@
-term,value
+term,value,context,context value,level
 @topic,Emotions
 @author,Kazbek Byasov
-anger,anger
-contempt,contempt
-disgust,disgust
-fear,fear
-guilt,guilt
-hostility,hostility
-interest,interest
-joy,joy
-sadness,sadness
-shame,shame
-shyness,shyness
-surprise,surprise
+anger,anger,,,simple
+contempt,contempt,,,simple
+disgust,disgust,,,simple
+fear,fear,,,simple
+guilt,guilt,,,simple
+hostility,hostility,,,simple
+interest,interest,,,simple
+joy,joy,,,simple
+sadness,sadness,,,simple
+shame,shame,,,simple
+shyness,shyness,,,simple
+surprise,surprise,,,normal
