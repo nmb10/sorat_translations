@@ -1,124 +1,124 @@
-term,value
-@topic,Числа
-@author,Kazbek Byasov
-zero,ноль
-one,один
-two,два
-three,три
-four,четыре
-five,пять
-six,шесть
-seven,семь
-eight,восемь
-nine,девять
-ten,десять
-eleven,одиннадцать
-twelve,двенадцать
-thirteen,тринадцать
-fourteen,четырнадцать
-fifteen,пятнадцать
-sixteen,шестнадцать
-seventeen,семнадцать
-eighteen,восемнадцать
-nineteen,девятнадцать
-twenty,двадцать
-twenty-one,двадцать один
-twenty-two,двадцать два
-twenty-three,двадцать три
-twenty-four,двадцать четыре
-twenty-five,двадцать пять
-twenty-six,двадцать шесть
-twenty-seven,двадцать семь
-twenty-eight,двадцать восемь
-twenty-nine,двадцать девять
-thirty,тридцать
-thirty-one,тридцать один
-thirty-two,тридцать два
-thirty-three,тридцать три
-thirty-four,тридцать четыре
-thirty-five,тридцать пять
-thirty-six,тридцать шесть
-thirty-seven,тридцать семь
-thirty-eight,тридцать восемь
-thirty-nine,тридцать девять
-forty,сорок
-forty-one,сорок один
-forty-two,сорок два
-forty-three,сорок три
-forty-four,сорок четыре
-forty-five,сорок пять
-forty-six,сорок шесть
-forty-seven,сорок семь
-forty-eight,сорок восемь
-forty-nine,сорок девять
-fifty,пятьдесят
-fifty-one,пятьдесят один
-fifty-two,пятьдесят два
-fifty-three,пятьдесят три
-fifty-four,пятьдесят четыре
-fifty-five,пятьдесят пять
-fifty-six,пятьдесят шесть
-fifty-seven,пятьдесят семь
-fifty-eight,пятьдесят восемь
-fifty-nine,пятьдесят девять
-sixty,шестьдесят
-sixty-one,шестьдесят один
-sixty-two,шестьдесят два
-sixty-three,шестьдесят три
-sixty-four,шестьдесят четыре
-sixty-five,шестьдесят пять
-sixty-six,шестьдесят шесть
-sixty-seven,шестьдесят семь
-sixty-eight,шестьдесят восемь
-sixty-nine,шестьдесят девять
-seventy,семьдесят
-seventy-one,семьдесят один
-seventy-two,семьдесят два
-seventy-three,семьдесят три
-seventy-four,семьдесят четыре
-seventy-five,семьдесят пять
-seventy-six,семьдесят шесть
-seventy-seven,семьдесят семь
-seventy-eight,семьдесят восемь
-seventy-nine,семьдесят девять
-eighty,восемьдесят
-eighty-one,восемьдесят один
-eighty-two,восемьдесят два
-eighty-three,восемьдесят три
-eighty-four,восемьдесят четыре
-eighty-five,восемьдесят пять
-eighty-six,восемьдесят шесть
-eighty-seven,восемьдесят семь
-eighty-eight,восемьдесят восемь
-eighty-nine,восемьдесят девять
-ninety,девяносто
-ninety-one,девяносто один
-ninety-two,девяносто два
-ninety-three,девяносто три
-ninety-four,девяносто четыре
-ninety-five,девяносто пять
-ninety-six,девяносто шесть
-ninety-seven,девяносто семь
-ninety-eight,девяносто восемь
-ninety-nine,девяносто девять
-one hundred,сто
-one thousand,одна тысяча
-two thousand,две тысячи
-three thousand,три тысячи
-four thousand,четыре тысячи
-five thousand,пять тысяч
-six thousand,шесть тысяч
-seven thousand,семь тысяч
-eight thousand,восемь тысяч
-nine thousand,девять тысяч
-ten thousand,десять тысяч
-one thousand and thirty-four,одна тысяча тридцать четыре
-one thousand and forty-eight,одна тысяча сорок восемь
-one thousand eight hundred and thirty-four,одна тысяча восемьсот тридцать четыре
-six thousand two hundred and thirty-four,шесть тысяч двести тридцать четыре
-eight thousand two hundred and twenty,восемь тысяч двести двадцать
-eleven thousand two hundred and thirty-four,одиннадцать тысяч двести тридцать четыре
-eighteen thousand six hundred and thirty-four,восемнадцать тысяч шестьсот тридцать четыре
-one million,один миллион
-one million eight hundred and twenty-five thousand three hundred and twenty-five,один миллион восемьсот двадцать пять тысяч триста двадцать пять
-three million eight hundred and twenty-five thousand three hundred and twenty-five,три миллиона восемьсот двадцать пять тысяч триста двадцать пять
+term,value,context,context value,level
+@topic,Числа,,,
+@author,Kazbek Byasov,,,
+zero,ноль,,,simple
+one,один,,,simple
+two,два,,,simple
+three,три,,,simple
+four,четыре,,,simple
+five,пять,,,simple
+six,шесть,,,simple
+seven,семь,,,simple
+eight,восемь,,,simple
+nine,девять,,,simple
+ten,десять,,,simple
+eleven,одиннадцать,,,normal
+twelve,двенадцать,,,normal
+thirteen,тринадцать,,,normal
+fourteen,четырнадцать,,,normal
+fifteen,пятнадцать,,,normal
+sixteen,шестнадцать,,,normal
+seventeen,семнадцать,,,normal
+eighteen,восемнадцать,,,normal
+nineteen,девятнадцать,,,normal
+twenty,двадцать,,,normal
+twenty-one,двадцать один,,,normal
+twenty-two,двадцать два,,,normal
+twenty-three,двадцать три,,,normal
+twenty-four,двадцать четыре,,,normal
+twenty-five,двадцать пять,,,normal
+twenty-six,двадцать шесть,,,normal
+twenty-seven,двадцать семь,,,normal
+twenty-eight,двадцать восемь,,,normal
+twenty-nine,двадцать девять,,,normal
+thirty,тридцать,,,normal
+thirty-one,тридцать один,,,normal
+thirty-two,тридцать два,,,normal
+thirty-three,тридцать три,,,normal
+thirty-four,тридцать четыре,,,normal
+thirty-five,тридцать пять,,,normal
+thirty-six,тридцать шесть,,,normal
+thirty-seven,тридцать семь,,,normal
+thirty-eight,тридцать восемь,,,normal
+thirty-nine,тридцать девять,,,normal
+forty,сорок,,,normal
+forty-one,сорок один,,,normal
+forty-two,сорок два,,,normal
+forty-three,сорок три,,,normal
+forty-four,сорок четыре,,,normal
+forty-five,сорок пять,,,normal
+forty-six,сорок шесть,,,normal
+forty-seven,сорок семь,,,normal
+forty-eight,сорок восемь,,,normal
+forty-nine,сорок девять,,,normal
+fifty,пятьдесят,,,normal
+fifty-one,пятьдесят один,,,normal
+fifty-two,пятьдесят два,,,normal
+fifty-three,пятьдесят три,,,normal
+fifty-four,пятьдесят четыре,,,normal
+fifty-five,пятьдесят пять,,,normal
+fifty-six,пятьдесят шесть,,,normal
+fifty-seven,пятьдесят семь,,,normal
+fifty-eight,пятьдесят восемь,,,normal
+fifty-nine,пятьдесят девять,,,normal
+sixty,шестьдесят,,,normal
+sixty-one,шестьдесят один,,,normal
+sixty-two,шестьдесят два,,,normal
+sixty-three,шестьдесят три,,,normal
+sixty-four,шестьдесят четыре,,,normal
+sixty-five,шестьдесят пять,,,normal
+sixty-six,шестьдесят шесть,,,normal
+sixty-seven,шестьдесят семь,,,normal
+sixty-eight,шестьдесят восемь,,,normal
+sixty-nine,шестьдесят девять,,,normal
+seventy,семьдесят,,,normal
+seventy-one,семьдесят один,,,normal
+seventy-two,семьдесят два,,,normal
+seventy-three,семьдесят три,,,normal
+seventy-four,семьдесят четыре,,,normal
+seventy-five,семьдесят пять,,,normal
+seventy-six,семьдесят шесть,,,normal
+seventy-seven,семьдесят семь,,,normal
+seventy-eight,семьдесят восемь,,,normal
+seventy-nine,семьдесят девять,,,normal
+eighty,восемьдесят,,,normal
+eighty-one,восемьдесят один,,,normal
+eighty-two,восемьдесят два,,,normal
+eighty-three,восемьдесят три,,,normal
+eighty-four,восемьдесят четыре,,,normal
+eighty-five,восемьдесят пять,,,normal
+eighty-six,восемьдесят шесть,,,normal
+eighty-seven,восемьдесят семь,,,normal
+eighty-eight,восемьдесят восемь,,,normal
+eighty-nine,восемьдесят девять,,,normal
+ninety,девяносто,,,normal
+ninety-one,девяносто один,,,normal
+ninety-two,девяносто два,,,normal
+ninety-three,девяносто три,,,normal
+ninety-four,девяносто четыре,,,normal
+ninety-five,девяносто пять,,,normal
+ninety-six,девяносто шесть,,,normal
+ninety-seven,девяносто семь,,,normal
+ninety-eight,девяносто восемь,,,normal
+ninety-nine,девяносто девять,,,normal
+one hundred,сто,,,normal
+one thousand,одна тысяча,,,normal
+two thousand,две тысячи,,,normal
+three thousand,три тысячи,,,normal
+four thousand,четыре тысячи,,,normal
+five thousand,пять тысяч,,,normal
+six thousand,шесть тысяч,,,normal
+seven thousand,семь тысяч,,,normal
+eight thousand,восемь тысяч,,,normal
+nine thousand,девять тысяч,,,normal
+ten thousand,десять тысяч,,,normal
+one thousand and thirty-four,одна тысяча тридцать четыре,,,hard
+one thousand and forty-eight,одна тысяча сорок восемь,,,hard
+one thousand eight hundred and thirty-four,одна тысяча восемьсот тридцать четыре,,,hard
+six thousand two hundred and thirty-four,шесть тысяч двести тридцать четыре,,,hard
+eight thousand two hundred and twenty,восемь тысяч двести двадцать,,,hard
+eleven thousand two hundred and thirty-four,одиннадцать тысяч двести тридцать четыре,,,hard
+eighteen thousand six hundred and thirty-four,восемнадцать тысяч шестьсот тридцать четыре,,,hard
+one million,один миллион,,,normal
+one million eight hundred and twenty-five thousand three hundred and twenty-five,один миллион восемьсот двадцать пять тысяч триста двадцать пять,,,hard
+three million eight hundred and twenty-five thousand three hundred and twenty-five,три миллиона восемьсот двадцать пять тысяч триста двадцать пять,,,hard

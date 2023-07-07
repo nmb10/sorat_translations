@@ -1,33 +1,33 @@
-term,value
-@topic,Цвета
-@author,Kazbek Byasov
-red,красный
-blue,синий
-green,зеленый
-yellow,желтый
-purple,пурпурный
-pink,розовый
-orange,оранжевый
-brown,коричневый
-black,черный
-white,белый
-gray,серый
-gold,золотой
-silver,серебрянный
-navy blue,темно синий
-sky blue,голубой
-lime green,лимонно-зеленый
-teal,бирюзовый
-indigo,индиго
-magenta,пурпурный
-violet,фиолетовый
-khaki,хаки
-crimson,малиновый
-lavender,лавандовый
-plum,сливовый
-blue violet,сине-фиолетовый
-olive,оливковый
-cyan,голубой
-maroon,бордовый
-beige,бежевый
-salmon,оранжево-розовый
+term,value,context,context value,level
+@topic,Цвета,,,
+@author,Kazbek Byasov,,,
+red,красный,,,simple
+blue,синий,,,simple
+green,зеленый,,,simple
+yellow,желтый,,,simple
+purple,пурпурный,,,normal
+pink,розовый,,,simple
+orange,оранжевый,,,simple
+brown,коричневый,,,simple
+black,черный,,,simple
+white,белый,,,simple
+gray,серый,,,simple
+gold,золотой,,,normal
+silver,серебрянный,,,normal
+navy blue,темно синий,,,normal
+sky blue,голубой,,,simple
+lime green,лимонно-зеленый,,,hard
+teal,бирюзовый,,,hard
+indigo,индиго,,,hard
+magenta,пурпурный,,,hard
+violet,фиолетовый,,,simple
+khaki,хаки,,,normal
+crimson,малиновый,,,normal
+lavender,лавандовый,,,hard
+plum,сливовый,,,hard
+blue violet,сине-фиолетовый,,,hard
+olive,оливковый,,,hard
+cyan,голубой,,,simple
+maroon,бордовый,,,normal
+beige,бежевый,,,normal
+salmon,оранжево-розовый,,,hard

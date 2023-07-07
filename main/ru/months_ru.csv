@@ -1,15 +1,15 @@
-term,value
-@topic,Месяцы
-@author,Kazbek Byasov
-january,январь
-february,февраль
-march,март
-april,апрель
-may,май
-june,июнь
-july,июль
-august,август
-september,сентябрь
-october,октябрь
-november,ноябрь
-december,декабрь
+term,value,context,context value,level
+@topic,Месяцы,,,
+@author,Kazbek Byasov,,,
+january,январь,,,simple
+february,февраль,,,simple
+march,март,,,simple
+april,апрель,,,simple
+may,май,,,simple
+june,июнь,,,simple
+july,июль,,,simple
+august,август,,,simple
+september,сентябрь,,,simple
+october,октябрь,,,simple
+november,ноябрь,,,simple
+december,декабрь,,,simple

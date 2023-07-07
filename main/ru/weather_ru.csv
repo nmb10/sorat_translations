@@ -1,24 +1,24 @@
-term,value,context,context value
-@topic,Погода,,
-@author,Valeria Agaeva,,
-@author_local,Валерия Агаева,,
-winter,зима,season,сезон
-spring,весна,season,сезон
-summer,лето,season,сезон
-autumn,осень,season,сезон
-cloudy,облачно,,
-cold,холодно,,
-cool,прохладно,,
-dry,сухо,,
-foggy,туман,,
-freezing,мороз,,
-icy,лед,,
-hot,жарко,,
-rainy,дождливо,,
-snowy,снег,,
-sunny,солнцe,,
-temperature,температура,,
-thermometer,термометр,,
-warm,тепло,,
-wet,влажно,,
-windy,ветренно,,
+term,value,context,context value,level
+@topic,Погода,,,
+@author,Valeria Agaeva,,,
+@author_local,Валерия Агаева,,,
+winter,зима,season,сезон,simple
+spring,весна,season,сезон,simple
+summer,лето,season,сезон,simple
+autumn,осень,season,сезон,simple
+cloudy,облачно,,,normal
+cold,холодно,,,simple
+cool,прохладно,,,normal
+dry,сухо,,,simple
+foggy,туман,,,simple
+freezing,мороз,,,simple
+icy,лед,,,normal
+hot,жарко,,,simple
+rainy,дождливо,,,simple
+snowy,снег,,,simple
+sunny,солнцe,,,simple
+temperature,температура,,,normal
+thermometer,термометр,,,hard
+warm,тепло,,,simple
+wet,влажно,,,normal
+windy,ветренно,,,normal

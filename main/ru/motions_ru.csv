@@ -1,26 +1,26 @@
-term,value
-@topic,Движения
-@author,Kazbek Byasov
-amble,иноходь
-bounce,отскакивать
-bump,толкать
-dart,метать
-dance,танцевать
-jog,бежать трусцой
-laugh,смеяться
-limp,хромать
-lope,скакать
-roll,катиться
-run,бегать
-saunter,прогуливаться
-scamper,убегать
-scurry,беготня
-spin,вращаться
-stagger,шататься
-strut,гордая поступь
-swagger,чванство
-sway,качаться
-tiptoe,идти на цыпочках
-traipse,тащиться
-walk,ходить
-work,работать
+term,value,context,context value,level
+@topic,Движения,,,
+@author,Kazbek Byasov,,,
+amble,иноходь,,,hard
+bounce,отскакивать,,,normal
+bump,толкать,,,simple
+dart,метать,,,normal
+dance,танцевать,,,simple
+jog,бежать трусцой,,,normal
+laugh,смеяться,,,simple
+limp,хромать,,,simple
+lope,скакать,,,normal
+roll,катиться,,,simple
+run,бегать,,,simple
+saunter,прогуливаться,,,normal
+scamper,убегать,,,normal
+scurry,беготня,,,normal
+spin,вращаться,,,normal
+stagger,шататься,,,normal
+strut,гордая поступь,,,hard
+swagger,чванство,,,hard
+sway,качаться,,,simple
+tiptoe,идти на цыпочках,,,simple
+traipse,тащиться,,,normal
+walk,ходить,,,simple
+work,работать,,,simple

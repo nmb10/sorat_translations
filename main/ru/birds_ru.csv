@@ -1,102 +1,102 @@
-term,value
-@topic,Птицы
-@author,Kazbek Byasov
-cormorant,баклан
-snipe,бекас
-white partridge,белая куропатка
-snowy owl,белая сова
-griffin,белоголовый сип
-golden eagle,беркут
-bearded vulture,бородач
-thunderbird,буревестник
-woodcock,вальдшнеп
-bluethroat,варакушка
-wryneck,вертишейка
-sparrow,воробей
-crow,ворона
-bittern,выпь
-brambling,вьюрок
-loon,гагара
-jackdaw,галка
-wood-grouse,глухарь
-pigeon,голубь
-redstart,горихвостка
-rook,грач
-vulture,стервятник
-goose,гусь
-thrush,дрозд
-bustard,дрофа
-woodpecker,дятел
-lark,жаворонок
-crane,журавль
-demoiselle crane,журавль-красавка
-finch,зяблик
-oriole,иволга
-turkey,индейка
-turkey-cock,индюк
-caucasian black grouse,кавказский тетерев
-branta,казарка
-cockatoo,какаду
-canary,канарейка
-buzzard,сарыч
-spotted nutcracker,кедровка
-crossbill,клест
-chough,клушица
-nightjar,козодой
-humming-bird,колибри
-kinglet,королёк
-corn crake,коростель
-kite,коршун
-giildenstadt’s redstart,краснобрюхая горихвостка
-merlin arctic falcon,кречет
-mallard quack,кряква
-cuckoo,кукушка
-sandspiper,кулик
-hen,курица
-partridge,куропатка
-swallow,ласточка
-swan,лебедь
-pied bushchat,луговой чекан
-harrier,лунь
-fly-catcher,мухоловка
-ruddy shelduck,огарь
-eagle,орёл
-peacock,павлин
-common shelduck,пеганка
-quail,перепел
-penguin,пингвин
-nuthatch,поползень
-parrot,попугай
-snow bunting,пуночка
-kestrel,пустельга
-pink starling,розовый скворец
-hazel hen,рябчик
-titmouse,синица
-starling,скворец
-bullfinch,снегирь
-owl,сова
-jay,сойка
-falcon,сокол
-nightingale,соловей
-magpie,сорока
-little bustard,стрепет
-sand martin,стриж
-horned owl,сыч
-blackcock,тетерев
-toucan,тукан
-hoopoe,удод
-snowcock,улар
-duck,утка
-duckbill,утконос
-the long-eared bat,ушан
-pheasant,фазан
-eagle owl,филин
-flamingo,фламинго
-heron,цапля
-pearl-hen,цесарка
-poult,цыплёнок
-gull,чайка
-lapwing,чибис
-hawk,ястреб
-pipit,конёк
-cock,петух
+term,value,context,context value,level
+@topic,Птицы,,,
+@author,Kazbek Byasov,,,
+cormorant,баклан,,,hard
+snipe,бекас,,,hard
+white partridge,белая куропатка,,,hard
+snowy owl,белая сова,,,normal
+griffin,белоголовый сип,,,hard
+golden eagle,беркут,,,simple
+bearded vulture,бородач,,,normal
+thunderbird,буревестник,,,normal
+woodcock,вальдшнеп,,,hard
+bluethroat,варакушка,,,hard
+wryneck,вертишейка,,,hard
+sparrow,воробей,,,simple
+crow,ворона,,,simple
+bittern,выпь,,,normal
+brambling,вьюрок,,,normal
+loon,гагара,,,normal
+jackdaw,галка,,,normal
+wood-grouse,глухарь,,,normal
+pigeon,голубь,,,simple
+redstart,горихвостка,,,hard
+rook,грач,,,normal
+vulture,стервятник,,,simple
+goose,гусь,,,simple
+thrush,дрозд,,,simple
+bustard,дрофа,,,normal
+woodpecker,дятел,,,simple
+lark,жаворонок,,,normal
+crane,журавль,,,simple
+demoiselle crane,журавль-красавка,,,normal
+finch,зяблик,,,normal
+oriole,иволга,,,normal
+turkey,индейка,,,simple
+turkey-cock,индюк,,,simple
+caucasian black grouse,кавказский тетерев,,,hard
+branta,казарка,,,hard
+cockatoo,какаду,,,normal
+canary,канарейка,,,simple
+buzzard,сарыч,,,normal
+spotted nutcracker,кедровка,,,hard
+crossbill,клест,,,hard
+chough,клушица,,,hard
+nightjar,козодой,,,hard
+humming-bird,колибри,,,simple
+kinglet,королёк,,,normal
+corn crake,коростель,,,hard
+kite,коршун,,,simple
+giildenstadt’s redstart,краснобрюхая горихвостка,,,hard
+merlin arctic falcon,кречет,,,hard
+mallard quack,кряква,,,hard
+cuckoo,кукушка,,,simple
+sandspiper,кулик,,,hard
+hen,курица,,,simple
+partridge,куропатка,,,normal
+swallow,ласточка,,,simple
+swan,лебедь,,,simple
+pied bushchat,луговой чекан,,,hard
+harrier,лунь,,,hard
+fly-catcher,мухоловка,,,hard
+ruddy shelduck,огарь,,,hard
+eagle,орёл,,,simple
+peacock,павлин,,,simple
+common shelduck,пеганка,,,hard
+quail,перепел,,,normal
+penguin,пингвин,,,simple
+nuthatch,поползень,,,hard
+parrot,попугай,,,simple
+snow bunting,пуночка,,,hard
+kestrel,пустельга,,,hard
+pink starling,розовый скворец,,,normal
+hazel hen,рябчик,,,normal
+titmouse,синица,,,normal
+starling,скворец,,,normal
+bullfinch,снегирь,,,normal
+owl,сова,,,simple
+jay,сойка,,,normal
+falcon,сокол,,,simple
+nightingale,соловей,,,simple
+magpie,сорока,,,simple
+little bustard,стрепет,,,normal
+sand martin,стриж,,,normal
+horned owl,сыч,,,hard
+blackcock,тетерев,,,normal
+toucan,тукан,,,normal
+hoopoe,удод,,,normal
+snowcock,улар,,,normal
+duck,утка,,,simple
+duckbill,утконос,,,normal
+the long-eared bat,ушан,,,hard
+pheasant,фазан,,,normal
+eagle owl,филин,,,normal
+flamingo,фламинго,,,simple
+heron,цапля,,,simple
+pearl-hen,цесарка,,,normal
+poult,цыплёнок,,,simple
+gull,чайка,,,normal
+lapwing,чибис,,,hard
+hawk,ястреб,,,normal
+pipit,конёк,,,normal
+cock,петух,,,simple

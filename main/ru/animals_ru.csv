@@ -1,339 +1,341 @@
-term,value
+term,value,context,context value,level
 @topic,Животные
 @author,Kazbek Byasov
-asp,аспид
-butterfly,бабочка
-cormorant,баклан
-ram,баран
-snow leopard,барс
-badger,барсук
-hippopotamus,бегемот
-ahodonta,беззубки
-snipe,бекас
-white rat,белая крыса
-white partridge,белая куропатка
-snowy owl,белая сова
-squirrel,белка
-flying squirrel,белка-летяга
-griffin,белоголовый сип
-the beluga,белуга
-white bear,белый медведь
-golden eagle,беркут
-stag deer,благородный олень
-flea,блоха
-beaver,бобр
-mantis,богомол
-ladybird,божья коровка
-greyhound,борзая
-bearded vulture,бородач
-buffalo,буйвол
-thunderbird,буревестник
-chipmunk,бурундук
-brown bear,бурый медведь
-bull,бык
-steer,бычок
-woodcock,вальдшнеп
-bluethroat,варакушка
-monitor lizard,варан
-wild boar,кабан
-camel,верблюд
-wryneck,вертишейка
-vobla,вобла
-water strider,водомерки
-wolf,волк
-sparrow,воробей
-crow,ворона
-tartar sand boa,восточный удавчик
-sucking louse,вошь
-carassius veiltail,вуалехвост
-otter,выдра
-bittern,выпь
-weather loach misgurnus,вьюн
-brambling,вьюрок
-loon,гагара
-adder,уж
-gazelle,джейран
-jackdaw,галка
-cheetah,гепард
-gibbon,гиббон
-hyena,гиена
-helminth intestinal worm,глист
-wood-grouse,глухарь
-loach,голец
-tadpole,головастик
-pigeon,голубь
-copper-butterfly,голубянка
-redstart,горихвостка
-ermine,горностай
-rook,грач
-great crested newt,гребенчатый тритон
-vulture,стервятник
-rodent,грызун
-guppies,гуппи
-caterpillar,гусеница
-goose,гусь
-viper,гюрза
-dolphin,дельфин
-earthworm,дождевой червь
-longhorne beetle,дровосек
-thrush,дрозд
-bustard,дрофа
-woodpecker,дятел
-raccoon,енот
-spiny anteater,ехидна
-hedgehog,ёж
-toad,жаба
-lark,жаворонок
-glass-lizard,желтопузик
-colias hyade,желтушка
-stallion,жеребец
-colt,жеребёнок
-giraffe,жираф
-carabus ground beetle,жужелица
-bug,клоп
-blaps beetle,жук-медляк
-grave digger,жук-могильщик
-unicorn beetle,жук-носорог
-stag beetle,жук-олень
-crane,журавль
-demoiselle crane,журавль-красавка
-hare,заяц
-blue hare,заяц-беляк
-zebra,зебра
-shrew,землеройка
-lacewings,златоглазки
-snake,змея
-goldfish,золотая рыбка
-auroch bison,зубр
-finch,зяблик
-oriole,иволга
-turkey,индейка
-turkey-cock,индюк
-caucasian black grouse,кавказский тетерев
-branta,казарка
-cockatoo,какаду
-squid,кальмар
-flounder,камбала
-canary,канарейка
-buzzard,сарыч
-white cabbage butterfly,капустница
-black widow,каракурт
-crucian,карась
-carp,карп
-red ramshorn snail,катушки
-spotted nutcracker,кедровка
-kangaroo,кенгуру
-whale,кит
-crossbill,клест
-acarid,клещ
-bug tell-tale,клоп-солдатик
-chough,клушица
-cobra,кобра
-red-footed falcon,кобчик
-mare,кобыла
-goat,коза
-kid,козлёнок
-nightjar,козодой
-humming-bird,колибри
-mosquito,комар
-pipit,конёк
-cow,корова
-bark beetle,короед
-kinglet,королёк
-corn crake,коростель
-steppe fox,корсак
-kite,коршун
-roe deer,косуля
-cat,кот
-fur seal,котик
-crab,краб
-small tortoiseshell,крапивница
-giildenstadt’s redstart,краснобрюхая горихвостка
-forest caterpillar hunter,красотел пахучий
-shrimp,креветки
-merlin arctic falcon,кречет
-crocodile,крокодил
-rabbit,кролик
-mole,крот
-fruit-bat,крылан
-rat,крыса
-mallard quack,кряква
-grasshopper,кузнечик
-cuckoo,кукушка
-onager,кулан
-sandspiper,кулик
-marten,куница
-hen,курица
-partridge,куропатка
-lama,лама
-doe,лань
-weasel,хорёк
-swallow,ласточка
-swan,лебедь
-lion,лев
-lemming,лемминг
-leopard,леопард
-bat,летучая мышь
-fox,лиса
-salmon,лосось
-elk,лось
-horse,лошадь
-pied bushchat,луговой чекан
-harrier,лунь
-lioness,львица
-frog,лягушка
-paradise fish,макропод
-mammoth,мамонт
-swallowtail,махаон
-mole-cricket,медведка
-bear,медведь
-jellyfish,медуза
-platyfish,меченосец
-centipede,сороконожка
-wood louse,мокрица
-moth,моль
-walrus,морж
-guinea-pig,морская свинка
-(sea) scallops,морские гребешки
-starfish,морские звёзды
-sea-horse,морские коньки
-mule,мул
-ant,муравей
-anteater,муравьед
-fly,муха
-fly-catcher,мухоловка
-mouse,мышь
-mink,норка
-rhinoceros,носорог
-monkey,обезьяна
-common ruffe,обыкновенный ёрш
-gadfly,овод
-sheep,овца
-ruddy shelduck,огарь
-perch,окунь
-female deer,оленья самка
-orangoutan,орангутанг
-eagle,орёл
-wasp,оса
-donkey,осёл
-burro baby-ass,ослик
-octopus,осьминог
-peacock,павлин
-panda,панда
-spider,паук
-common shelduck,пеганка
-pelican,пеликан
-marbled polecat,перевязка
-quail,перепел
-margaritana,перловица
-polar fox,песец
-zygaenidae,пестрянка
-cock,петух
-penguin,пингвин
-python,питон
-pika,пищуха
-bloodsucker,пиявка
-phiclides podalirius,подалирий
-arvicolinae,полевка
-nuthatch,поползень
-parrot,попугай
-piglet,поросёнок
-limnaeidae pond-snails,прудовики
-puma,пума
-snow bunting,пуночка
-kestrel,пустельги
-bee,пчела
-crawfish,рак
-pink starling,розовый скворец
-fish,рыба
-lynx,рысь
-hazel hen,рябчик
-ciprinus carpio carp,сазан
-saiga,сайгак
-locust,саранча
-sardine,сардина
-cricket,сверчок
-glowworm,светлячок
-pig,свинья
-northern deer,северный олень
-stellate sturgeon,севрюга
-herring,сельд
-chamois,серна
-titmouse,синица
-scalare,скалярий
-batoidea,скат
-starling,скворец
-scorpion,скорпион
-skunk,скунс
-horsefly,слепень
-slug,слизень
-elephant,слон
-bullfinch,снегирь
-dog,собака
-sable,соболь
-owl,сова
-jay,сойка
-falcon,сокол
-nightingale,соловей
-catfish,сом
-magpie,сорока
-pine moth,сосновый шелкопряд
-steppe viper,степная гадюка
-ostrich,страус
-dragonfly,стрекоза
-little bustard,стрепет
-sand martin,стриж
-zander pike-perch,судак
-marmot,сурок
-gopher,суслик
-horned owl,сыч
-cockroach,таракан
-tarantula,тарантул
-roach,тарань
-telescopus,телескоп
-calf,телёнок
-heifer,тёлка
-termite,термит
-blackcock,тетерев
-tiger,тигр
-aphid,тля
-bankcod,треска
-eft,тритон
-wagtail,трясогузка
-toucan,тукан
-capra,тур
-jerboa,тушканчик
-seal,тюлень
-grig,угорь
-anaconda,удав
-hoopoe,удод
-snowcock,улар (горные индейки)
-snail,улитка
-duck,утка
-duckbill,утконос
-the long-eared bat,ушан
-phrynocephalus mystaceus,ушастая круглоголовка
-pheasant,фазан
-eagle owl,филин
-flamingo,фламинго
-trout,форель
-chameleon,хамелеон
-hamster,хомяк
-corydalis,хохлатка
-heron,цапля
-pearl-hen,цесарка
-poult,цыплёнок
-gull,чайка
-worm,червь
-tortoise,черепаха
-lapwing,чибис
-jackal,шакал
-bumblebee,шмель
-puppy,щенок
-gloydius,щитомордник
-pike,щука
-lamb,ягнёнок
-jaguar,ягуар
-yak,як
-hawk,ястреб
-lizard,ящерица
+@images,animals
+@set,hard
+(sea) scallops,морские гребешки,,,hard
+acarid,клещ,,,normal
+adder,уж,,,hard
+ahodonta,беззубки,,,hard
+anaconda,удав,,,normal
+ant,муравей,,,simple
+anteater,муравьед,,,simple
+aphid,тля,,,normal
+arvicolinae,полевка,,,normal
+asp,аспид,,,hard
+auroch bison,зубр,,,normal
+badger,барсук,,,
+bankcod,треска,,,hard
+bark beetle,короед,,,hard
+bat,летучая мышь,,,simple
+batoidea,скат,,,normal
+bear,медведь,,,simple
+bearded vulture,бородач,,,hard
+beaver,бобр,,,normal
+bee,пчела,,,simple
+bittern,выпь,,,normal
+black widow,каракурт,,,normal
+blackcock,тетерев,,,normal
+blaps beetle,жук-медляк,,,hard
+bloodsucker,пиявка,,,hard
+blue hare,заяц-беляк,,,normal
+bluethroat,варакушка,,,hard
+brambling,вьюрок,,,hard
+branta,казарка,,,hard
+brown bear,бурый медведь,,,normal
+buffalo,буйвол,,,simple
+bug,клоп,,,hard
+bug tell-tale,клоп-солдатик,,,normal
+bull,бык,,,simple
+bullfinch,снегирь,,,hard
+bumblebee,шмель,,,normal
+burro baby-ass,ослик,,,simple
+bustard,дрофа,,,normal
+butterfly,бабочка,,,simple
+buzzard,сарыч,,,hard
+calf,телёнок,,,hard
+camel,верблюд,,,simple
+canary,канарейка,,,normal
+capra,тур,,,simple
+carabus ground beetle,жужелица,,,hard
+carassius veiltail,вуалехвост,,,hard
+carp,карп,,,normal
+cat,кот,,,simple
+caterpillar,гусеница,,,hard
+catfish,сом,,,hard
+caucasian black grouse,кавказский тетерев,,,hard
+centipede,сороконожка,,,normal
+chameleon,хамелеон,,,normal
+chamois,серна,,,normal
+cheetah,гепард,,,normal
+chipmunk,бурундук,,,normal
+chough,клушица,,,hard
+ciprinus carpio carp,сазан,,,hard
+cobra,кобра,,,normal
+cock,петух,,,simple
+cockatoo,какаду,,,normal
+cockroach,таракан,,,normal
+colias hyade,желтушка,,,normal
+colt,жеребёнок,,,normal
+common ruffe,обыкновенный ёрш,,,hard
+common shelduck,пеганка,,,hard
+copper-butterfly,голубянка,,,hard
+cormorant,баклан,,,
+corn crake,коростель,,,hard
+corydalis,хохлатка,,,hard
+cow,корова,,,simple
+crab,краб,,,simple
+crane,журавль,,,normal
+crawfish,рак,,,hard
+cricket,сверчок,,,hard
+crocodile,крокодил,,,simple
+crossbill,клест,,,normal
+crow,ворона,,,simple
+crucian,карась,,,normal
+cuckoo,кукушка,,,normal
+demoiselle crane,журавль-красавка,,,hard
+doe,лань,,,normal
+dog,собака,,,simple
+dolphin,дельфин,,,normal
+donkey,осёл,,,simple
+dragonfly,стрекоза,,,hard
+duck,утка,,,simple
+duckbill,утконос,,,simple
+eagle,орёл,,,normal
+eagle owl,филин,,,hard
+earthworm,дождевой червь,,,normal
+eft,тритон,,,hard
+elephant,слон,,,simple
+elk,лось,,,hard
+ermine,горностай,,,hard
+falcon,сокол,,,normal
+female deer,оленья самка,,,simple
+finch,зяблик,,,normal
+fish,рыба,,,simple
+flamingo,фламинго,,,normal
+flea,блоха,,,normal
+flounder,камбала,,,normal
+fly,муха,,,simple
+fly-catcher,мухоловка,,,normal
+flying squirrel,белка-летяга,,,hard
+forest caterpillar hunter,красотел пахучий,,,hard
+fox,лиса,,,simple
+frog,лягушка,,,simple
+fruit-bat,крылан,,,hard
+fur seal,котик,,,normal
+gadfly,овод,,,hard
+gazelle,джейран,,,normal
+gibbon,гиббон,,,normal
+giildenstadt’s redstart,краснобрюхая горихвостка,,,hard
+giraffe,жираф,,,simple
+glass-lizard,желтопузик,,,hard
+glowworm,светлячок,,,hard
+gloydius,щитомордник,,,hard
+goat,коза,,,normal
+golden eagle,беркут,,,normal
+goldfish,золотая рыбка,,,normal
+goose,гусь,,,simple
+gopher,суслик,,,hard
+grasshopper,кузнечик,,,hard
+grave digger,жук-могильщик,,,hard
+great crested newt,гребенчатый тритон,,,hard
+greyhound,борзая,,,hard
+griffin,белоголовый сип,,,hard
+grig,угорь,,,normal
+guinea-pig,морская свинка,,,hard
+gull,чайка,,,hard
+guppies,гуппи,,,hard
+hamster,хомяк,,,hard
+hare,заяц,,,simple
+harrier,лунь,,,hard
+hawk,ястреб,,,normal
+hazel hen,рябчик,,,hard
+hedgehog,ёж,,,simple
+heifer,тёлка,,,hard
+helminth intestinal worm,глист,,,normal
+hen,курица,,,simple
+heron,цапля,,,normal
+herring,сельд,,,hard
+hippopotamus,бегемот,,,simple
+hoopoe,удод,,,normal
+horned owl,сыч,,,normal
+horse,лошадь,,,simple
+horsefly,слепень,,,hard
+humming-bird,колибри,,,normal
+hyena,гиена,,,normal
+jackal,шакал,,,normal
+jackdaw,галка,,,normal
+jaguar,ягуар,,,normal
+jay,сойка,,,hard
+jellyfish,медуза,,,normal
+jerboa,тушканчик,,,normal
+kangaroo,кенгуру,,,simple
+kestrel,пустельги,,,hard
+kid,козлёнок,,,normal
+kinglet,королёк,,,hard
+kite,коршун,,,hard
+lacewings,златоглазки,,,hard
+ladybird,божья коровка,,,simple
+lama,лама,,,normal
+lamb,ягнёнок,,,hard
+lapwing,чибис,,,hard
+lark,жаворонок,,,normal
+lemming,лемминг,,,normal
+leopard,леопард,,,normal
+limnaeidae pond-snails,прудовики,,,hard
+lion,лев,,,simple
+lioness,львица,,,normal
+little bustard,стрепет,,,hard
+lizard,ящерица,,,hard
+loach,голец,,,normal
+locust,саранча,,,hard
+longhorne beetle,дровосек,,,normal
+loon,гагара,,,hard
+lynx,рысь,,,normal
+magpie,сорока,,,hard
+mallard quack,кряква,,,hard
+mammoth,мамонт,,,normal
+mantis,богомол,,,hard
+marbled polecat,перевязка,,,hard
+mare,кобыла,,,hard
+margaritana,перловица,,,hard
+marmot,сурок,,,hard
+marten,куница,,,hard
+merlin arctic falcon,кречет,,,normal
+mink,норка,,,normal
+mole,крот,,,normal
+mole-cricket,медведка,,,normal
+monitor lizard,варан,,,normal
+monkey,обезьяна,,,simple
+mosquito,комар,,,simple
+moth,моль,,,simple
+mouse,мышь,,,simple
+mule,мул,,,hard
+nightingale,соловей,,,normal
+nightjar,козодой,,,hard
+northern deer,северный олень,,,hard
+nuthatch,поползень,,,hard
+octopus,осьминог,,,normal
+onager,кулан,,,normal
+orangoutan,орангутанг,,,normal
+oriole,иволга,,,hard
+ostrich,страус,,,simple
+otter,выдра,,,hard
+owl,сова,,,simple
+panda,панда,,,normal
+paradise fish,макропод,,,hard
+parrot,попугай,,,simple
+partridge,куропатка,,,normal
+peacock,павлин,,,normal
+pearl-hen,цесарка,,,normal
+pelican,пеликан,,,normal
+penguin,пингвин,,,simple
+perch,окунь,,,hard
+pheasant,фазан,,,hard
+phiclides podalirius,подалирий,,,hard
+phrynocephalus mystaceus,ушастая круглоголовка,,,hard
+pied bushchat,луговой чекан,,,hard
+pig,свинья,,,simple
+pigeon,голубь,,,simple
+piglet,поросёнок,,,simple
+pika,пищуха,,,hard
+pike,щука,,,hard
+pine moth,сосновый шелкопряд,,,hard
+pink starling,розовый скворец,,,hard
+pipit,конёк,,,normal
+platyfish,меченосец,,,hard
+polar fox,песец,,,hard
+poult,цыплёнок,,,simple
+puma,пума,,,normal
+puppy,щенок,,,simple
+python,питон,,,hard
+quail,перепел,,,normal
+rabbit,кролик,,,simple
+raccoon,енот,,,normal
+ram,баран,,,simple
+rat,крыса,,,simple
+red ramshorn snail,катушки,,,normal
+red-footed falcon,кобчик,,,hard
+redstart,горихвостка,,,hard
+rhinoceros,носорог,,,normal
+roach,тарань,,,normal
+rodent,грызун,,,normal
+roe deer,косуля,,,simple
+rook,грач,,,normal
+ruddy shelduck,огарь,,,hard
+sable,соболь,,,hard
+saiga,сайгак,,,hard
+salmon,лосось,,,hard
+sand martin,стриж,,,hard
+sandspiper,кулик,,,hard
+sardine,сардина,,,hard
+scalare,скалярий,,,hard
+scorpion,скорпион,,,normal
+sea-horse,морские коньки,,,hard
+seal,тюлень,,,normal
+sheep,овца,,,simple
+shrew,землеройка,,,normal
+shrimp,креветки,,,normal
+skunk,скунс,,,normal
+slug,слизень,,,hard
+small tortoiseshell,крапивница,,,hard
+snail,улитка,,,normal
+snake,змея,,,simple
+snipe,бекас,,,hard
+snow bunting,пуночка,,,hard
+snow leopard,барс,,,simple
+snowcock,улар (горные индейки),,,normal
+snowy owl,белая сова,,,hard
+sparrow,воробей,,,hard
+spider,паук,,,simple
+spiny anteater,ехидна,,,normal
+spotted nutcracker,кедровка,,,hard
+squid,кальмар,,,normal
+squirrel,белка,,,simple
+stag beetle,жук-олень,,,hard
+stag deer,благородный олень,,,hard
+stallion,жеребец,,,normal
+starfish,морские звёзды,,,hard
+starling,скворец,,,normal
+steer,бычок,,,normal
+stellate sturgeon,севрюга,,,hard
+steppe fox,корсак,,,hard
+steppe viper,степная гадюка,,,hard
+sucking louse,вошь,,,simple
+swallow,ласточка,,,simple
+swallowtail,махаон,,,normal
+swan,лебедь,,,normal
+tadpole,головастик,,,hard
+tarantula,тарантул,,,normal
+tartar sand boa,восточный удавчик,,,hard
+telescopus,телескоп,,,hard
+termite,термит,,,normal
+the beluga,белуга,,,hard
+the long-eared bat,ушан,,,hard
+thrush,дрозд,,,hard
+thunderbird,буревестник,,,hard
+tiger,тигр,,,simple
+titmouse,синица,,,normal
+toad,жаба,,,hard
+tortoise,черепаха,,,simple
+toucan,тукан,,,hard
+trout,форель,,,normal
+turkey,индейка,,,simple
+turkey-cock,индюк,,,normal
+unicorn beetle,жук-носорог,,,hard
+viper,гюрза,,,hard
+vobla,вобла,,,normal
+vulture,стервятник,,,normal
+wagtail,трясогузка,,,hard
+walrus,морж,,,hard
+wasp,оса,,,normal
+water strider,водомерки,,,hard
+weasel,хорёк,,,normal
+weather loach misgurnus,вьюн,,,hard
+whale,кит,,,simple
+white bear,белый медведь,,,normal
+white cabbage butterfly,капустница,,,hard
+white partridge,белая куропатка,,,hard
+white rat,белая крыса,,,hard
+wild boar,кабан,,,simple
+wolf,волк,,,simple
+wood louse,мокрица,,,hard
+wood-grouse,глухарь,,,normal
+woodcock,вальдшнеп,,,hard
+woodpecker,дятел,,,normal
+worm,червь,,,simple
+wryneck,вертишейка,,,normal
+yak,як,,,normal
+zander pike-perch,судак,,,hard
+zebra,зебра,,,simple
+zygaenidae,пестрянка,,,hard

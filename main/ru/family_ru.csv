@@ -1,23 +1,23 @@
-term,value
-@topic,Семья
-@author,Kazbek Byasov
-baby,малыш
-boy,мальчик
-bride,невеста
-brothers,братья
-children,дети
-daughter,дочь
-family,семья
-father,отец
-girl,девочка
-grandfather,дедушка
-grandmother,бабушка
-groom,жених
-husband,муж
-man,мужчина
-mother,мать
-parents,родители
-son,сын
-twins,близнецы
-wife,жена
-woman,женщина
+term,value,context,context value,level
+@topic,Семья,,,
+@author,Kazbek Byasov,,,
+baby,малыш,,,simple
+boy,мальчик,,,simple
+bride,невеста,,,simple
+brothers,братья,,,simple
+children,дети,,,simple
+daughter,дочь,,,simple
+family,семья,,,simple
+father,отец,,,simple
+girl,девочка,,,simple
+grandfather,дедушка,,,simple
+grandmother,бабушка,,,simple
+groom,жених,,,normal
+husband,муж,,,normal
+man,мужчина,,,simple
+mother,мать,,,simple
+parents,родители,,,simple
+son,сын,,,simple
+twins,близнецы,,,normal
+wife,жена,,,normal
+woman,женщина,,,simple

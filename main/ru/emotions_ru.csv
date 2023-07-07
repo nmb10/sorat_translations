@@ -1,15 +1,15 @@
-term,value
-@topic,Эмоции
-@author,Kazbek Byasov
-anger,гнев
-contempt,презрение
-disgust,отвращение
-fear,страх
-guilt,вина
-hostility,враждебность
-interest,интерес
-joy,радость
-sadness,грусть
-shame,стыд
-shyness,застенчивость
-surprise,сюрприз
+term,value,context,context value,level
+@topic,Эмоции,,,
+@author,Kazbek Byasov,,,
+anger,гнев,,,simple
+contempt,презрение,,,simple
+disgust,отвращение,,,simple
+fear,страх,,,simple
+guilt,вина,,,simple
+hostility,враждебность,,,simple
+interest,интерес,,,simple
+joy,радость,,,simple
+sadness,грусть,,,simple
+shame,стыд,,,simple
+shyness,застенчивость,,,simple
+surprise,сюрприз,,,normal
