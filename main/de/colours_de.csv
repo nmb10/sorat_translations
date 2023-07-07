@@ -1,33 +1,33 @@
-term,value
+term,value,context,context value,level
 @topic,Blumen
 @author,Milena Byasova
-red,rot
-blue,blau
-green,grün
-yellow,gelb
-purple,lila
-pink,rosa
-orange,orange
-brown,braun
-black,schwarz
-white,white
-gray,gray
-gold,gold
-silver,silber
-navy blue,marineblau
-sky blue,himmelblau
-lime green,lindgrün
-teal,blaugrün
-indigo,indigo
-magenta,magenta
-violet,violette
-khaki,kaki
-crimson,purpurrot
-lavender,lavendel
-plum,pflaum
-blue violet,blau-lila
-olive,olivgrün
-cyan,zyan
-maroon,kastanienbraun
-beige,beige
-salmon,lachsfarbe
+beige,beige,,,normal
+black,schwarz,,,simple
+blue,blau,,,simple
+blue violet,blau-lila,,,hard
+brown,braun,,,simple
+crimson,purpurrot,,,normal
+cyan,zyan,,,simple
+gold,gold,,,normal
+gray,gray,,,simple
+green,grün,,,simple
+indigo,indigo,,,hard
+khaki,kaki,,,normal
+lavender,lavendel,,,hard
+lime green,lindgrün,,,hard
+magenta,magenta,,,hard
+maroon,kastanienbraun,,,normal
+navy blue,marineblau,,,normal
+olive,olivgrün,,,hard
+orange,orange,,,simple
+pink,rosa,,,simple
+plum,pflaum,,,hard
+purple,lila,,,normal
+red,rot,,,simple
+salmon,lachsfarbe,,,hard
+silver,silber,,,normal
+sky blue,himmelblau,,,simple
+teal,blaugrün,,,hard
+violet,violette,,,simple
+white,white,,,simple
+yellow,gelb,,,simple

@@ -1,62 +1,62 @@
-term,value
+term,value,context,context value,level
 @topic,Menschlich.Körper
 @author,Milena Byasova
-face,das Gesicht
-mouth,der Mund
-chin,das Kinn
-neck,der Hals
-shoulder,die Schulter
-arm,der Arm
-upper arm,der Oberarm
-elbow,der Ellbogen
-forearm,der Unterarm
-armpit,die Achselhöhle
-back,der Rücken
-chest,die Brust
-waist,die Taille
-abdomen,der Bauch
-buttocks,das Gesäß
-hip,die Hüfte
-leg,das Bein
-thigh,der Oberschenkel
-knee,das Knie
-calf,der Unterschenkel
-wrist,das Handgelenk
-knuckle,der Fingerknöchel
-fingernail,der Nagel
-thumb,der Daumen
-index finger,der Zeigefinger
-middle finger,der Mittelfinger
-ring finger,der Ringfinger
-little finger,der kleine Finger
-palm,die Handfläche
-hair,die Haare
-forehead,der Stirn
-sideburn,die Koteletten
-ear,das Ohr
-cheek,die Wange
-nose,die Nase
-nostril,das Nasenloch
-jaw,der Kiefer
-beard,der Bart
-mustache,der Schnurrbart
-tongue,der Zunge
-tooth,der Zahn
-lip,die Lippe
-eyebrow,die Augenbraue
-eyelid,das Augenlid
-eyelashes,die Wimpern
-iris,die Iris
-pupil,die Pupille
-ankle,der Knöchel
-heel,die Ferse
-instep,der Rist
-big toe,großer Zeh
-toe,die Zehe
-little toe,kleiner Finger
-toenail,der Zehennagel
-brain,das Gehirn
-spinal cord,das Rückenmark
-throat,die Kehle
-windpipe,die Luftröhre
-esophagus,die Speiseröhre
+abdomen,der Bauch,,,simple
+ankle,der Knöchel,,,hard
+arm,der Arm,,,simple
+armpit,die Achselhöhle,,,normal
+back,der Rücken,,,simple
+beard,der Bart,,,normal
+big toe,großer Zeh,,,simple
+brain,das Gehirn,,,normal
+buttocks,das Gesäß,,,normal
+calf,der Unterschenkel,,,normal
+cheek,die Wange,,,simple
+chest,die Brust,,,simple
+chin,das Kinn,,,simple
+ear,das Ohr,,,simple
+elbow,der Ellbogen,,,simple
+esophagus,die Speiseröhre,,,hard
+eyebrow,die Augenbraue,,,normal
+eyelashes,die Wimpern,,,normal
+eyelid,das Augenlid,,,normal
+face,das Gesicht,,,simple
+fingernail,der Nagel,,,simple
+forearm,der Unterarm,,,normal
+forehead,der Stirn,,,simple
+hair,die Haare,,,simple
+heel,die Ferse,,,normal
+hip,die Hüfte,,,normal
+index finger,der Zeigefinger,,,simple
+instep,der Rist,,,normal
+iris,die Iris,,,hard
+jaw,der Kiefer,,,normal
+knee,das Knie,,,simple
+knuckle,der Fingerknöchel,,,hard
+leg,das Bein,,,simple
+lip,die Lippe,,,simple
+little finger,der kleine Finger,,,simple
+little toe,kleiner Finger,,,simple
+middle finger,der Mittelfinger,,,simple
+mouth,der Mund,,,simple
+mustache,der Schnurrbart,,,normal
+neck,der Hals,,,simple
+nose,die Nase,,,simple
+nostril,das Nasenloch,,,hard
+palm,die Handfläche,,,simple
+pupil,die Pupille,,,hard
+ring finger,der Ringfinger,,,simple
+shoulder,die Schulter,,,simple
+sideburn,die Koteletten,,,hard
+spinal cord,das Rückenmark,,,hard
+thigh,der Oberschenkel,,,normal
+throat,die Kehle,,,hard
+thumb,der Daumen,,,simple
+toe,die Zehe,,,simple
+toenail,der Zehennagel,,,simple
+tongue,der Zunge,,,simple
+tooth,der Zahn,,,simple
+upper arm,der Oberarm,,,simple
+waist,die Taille,,,hard
+windpipe,die Luftröhre,,,hard
+wrist,das Handgelenk,,,hard

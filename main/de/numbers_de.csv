@@ -1,124 +1,124 @@
-term,value
+term,value,context,context value,level
 @topic,Zahlen
 @author,Milena Byasov
-zero,null
-one,eins
-two,zwei
-three,drei
-four,vier
-five,fünf
-six,sechs
-seven,sieben
-eight,acht
-nine,neun
-ten,zehn
-eleven,elf
-twelve,zwölf
-thirteen,dreizehn
-fourteen,vierzehn
-fifteen,fünfzehn
-sixteen,sechzehn
-seventeen,siebzehn
-eighteen,achtzehn
-nineteen,neunzehn
-twenty,zwanzig
-twenty-one,einundzwanzig
-twenty-two,zweiundzwanzig
-twenty-three,dreiundzwanzig
-twenty-four,vierundzwanzig
-twenty-five,fünfundzwanzig
-twenty-six,sechsundzwanzig
-twenty-seven,siebenundzwanzig
-twenty-eight,achtundzwanzig
-twenty-nine,neunundzwanzig
-thirty,dreißig
-thirty-one,einunddreißig
-thirty-two,zweiunddreißig
-thirty-three,dreiunddreißig
-thirty-four,vierunddreißig
-thirty-five,fünfunddreißig
-thirty-six,sechsunddreißig
-thirty-seven,siebenunddreißig
-thirty-eight,achtunddreißig
-thirty-nine,neununddreißig
-forty,vierzig
-forty-one,einundvierzig
-forty-two,zweiundvierzig
-forty-three,dreiundvierzig
-forty-four,vierundvierzig
-forty-five,fünfundvierzig
-forty-six,sechsundvierzig
-forty-seven,siebenundvierzig
-forty-eight,achtundvierzig
-forty-nine,neunundvierzig
-fifty, fünfzig
-fifty-one,einundfünfzig
-fifty-two,zweiundfünfzig
-fifty-three,dreiundfünfzig
-fifty-four,vierundfünfzig
-fifty-five,fünfundfünfzig
-fifty-six,sechsundfünfzig
-fifty-seven,siebenundfünfzig
-fifty-eight,achtundfünfzig
-fifty-nine,neunundfünfzig
-sixty,sechzig
-sixty-one,einundsechzig
-sixty-two,zweiundsechzig
-sixty-three,dreiundsechzig
-sixty-four,vierundsechzig
-sixty-five,fünfundsechzig
-sixty-six,sechsundsechzig
-sixty-seven,siebenundsechzig
-sixty-eight,achtundsechzig
-sixty-nine,neunundsechzig
-seventy,siebzig
-seventy-one,einundsiebzig
-seventy-two,zweiundsiebzig
-seventy-three,dreiundsiebzig
-seventy-four,vierundsiebzig
-seventy-five,fünfundsiebzig
-seventy-six,sechsundsiebzig
-seventy-seven,siebenundsiebzig
-seventy-eight,achtundsiebzig
-seventy-nine,neunundsiebzig
-eighty,hundertachtzig
-eighty-one,einundachtzig
-eighty-two,zweiundachtzig
-eighty-three,dreiundachtzig
-eighty-four,vierundachtzig
-eighty-five,fünfundachtzig
-eighty-six,sechsundachtzig
-eighty-seven,siebenundachtzig
-eighty-eight,achtundachtzig
-eighty-nine,neunundachtzig
-ninety,neunzig
-ninety-one,einundneunzig
-ninety-two,zweiundneunzig
-ninety-three,dreiundneunzig
-ninety-four,vierundneunzig
-ninety-five,fünfundneunzig
-ninety-six,sechsundneunzig
-ninety-seven,siebenundneunzig
-ninety-eight,achtundneunzig
-ninety-nine,neunundneunzig
-one hundred,einhundert
-one thousand,eintausend
-two thousand,zweitausend
-three thousand,dreitausend
-four thousand,viertausend
-five thousand,fünftausend
-six thousand,sechstausend
-seven thousand,siebentausend
-eight thousand,achttausend
-nine thousand,neuntausend
-ten thousand,zehntausend
-one thousand and thirty-four,eintausendvierunddreißig
-one thousand and forty-eight,eintausendachtundvierzig
-one thousand eight hundred and thirty-four,eintausendachthundertvierunddreißig
-six thousand two hundred and thirty-four,sechstausendzweihundertvierunddreißig
-eight thousand two hundred and twenty,achttausendzweihundertzwanzig
-eleven thousand two hundred and thirty-four,elftausendzweihundertvierunddreißig
-eighteen thousand six hundred and thirty-four,achtzehntausend sechshundertvierunddreißig
-one million,eine Million
-one million eight hundred and twenty-five thousand three hundred and twenty-five,eine Million achthundertfünfundzwanzigtausend dreihundertfünfundzwanzig
-three million eight hundred and twenty-five thousand three hundred and twenty-five,drei millionen achthundertfünfundzwanzigtausend dreihundertfünfundzwanzig
+eight,acht,,,simple
+eight thousand,achttausend,,,normal
+eight thousand two hundred and twenty,achttausendzweihundertzwanzig,,,hard
+eighteen,achtzehn,,,normal
+eighteen thousand six hundred and thirty-four,achtzehntausend sechshundertvierunddreißig,,,hard
+eighty,hundertachtzig,,,normal
+eighty-eight,achtundachtzig,,,normal
+eighty-five,fünfundachtzig,,,normal
+eighty-four,vierundachtzig,,,normal
+eighty-nine,neunundachtzig,,,normal
+eighty-one,einundachtzig,,,normal
+eighty-seven,siebenundachtzig,,,normal
+eighty-six,sechsundachtzig,,,normal
+eighty-three,dreiundachtzig,,,normal
+eighty-two,zweiundachtzig,,,normal
+eleven,elf,,,normal
+eleven thousand two hundred and thirty-four,elftausendzweihundertvierunddreißig,,,hard
+fifteen,fünfzehn,,,normal
+fifty, fünfzig,,,normal
+fifty-eight,achtundfünfzig,,,normal
+fifty-five,fünfundfünfzig,,,normal
+fifty-four,vierundfünfzig,,,normal
+fifty-nine,neunundfünfzig,,,normal
+fifty-one,einundfünfzig,,,normal
+fifty-seven,siebenundfünfzig,,,normal
+fifty-six,sechsundfünfzig,,,normal
+fifty-three,dreiundfünfzig,,,normal
+fifty-two,zweiundfünfzig,,,normal
+five,fünf,,,simple
+five thousand,fünftausend,,,normal
+forty,vierzig,,,normal
+forty-eight,achtundvierzig,,,normal
+forty-five,fünfundvierzig,,,normal
+forty-four,vierundvierzig,,,normal
+forty-nine,neunundvierzig,,,normal
+forty-one,einundvierzig,,,normal
+forty-seven,siebenundvierzig,,,normal
+forty-six,sechsundvierzig,,,normal
+forty-three,dreiundvierzig,,,normal
+forty-two,zweiundvierzig,,,normal
+four,vier,,,simple
+four thousand,viertausend,,,normal
+fourteen,vierzehn,,,normal
+nine,neun,,,simple
+nine thousand,neuntausend,,,normal
+nineteen,neunzehn,,,normal
+ninety,neunzig,,,normal
+ninety-eight,achtundneunzig,,,normal
+ninety-five,fünfundneunzig,,,normal
+ninety-four,vierundneunzig,,,normal
+ninety-nine,neunundneunzig,,,normal
+ninety-one,einundneunzig,,,normal
+ninety-seven,siebenundneunzig,,,normal
+ninety-six,sechsundneunzig,,,normal
+ninety-three,dreiundneunzig,,,normal
+ninety-two,zweiundneunzig,,,normal
+one,eins,,,simple
+one hundred,einhundert,,,normal
+one million,eine Million,,,normal
+one million eight hundred and twenty-five thousand three hundred and twenty-five,eine Million achthundertfünfundzwanzigtausend dreihundertfünfundzwanzig,,,hard
+one thousand,eintausend,,,normal
+one thousand and forty-eight,eintausendachtundvierzig,,,hard
+one thousand and thirty-four,eintausendvierunddreißig,,,hard
+one thousand eight hundred and thirty-four,eintausendachthundertvierunddreißig,,,hard
+seven,sieben,,,simple
+seven thousand,siebentausend,,,normal
+seventeen,siebzehn,,,normal
+seventy,siebzig,,,normal
+seventy-eight,achtundsiebzig,,,normal
+seventy-five,fünfundsiebzig,,,normal
+seventy-four,vierundsiebzig,,,normal
+seventy-nine,neunundsiebzig,,,normal
+seventy-one,einundsiebzig,,,normal
+seventy-seven,siebenundsiebzig,,,normal
+seventy-six,sechsundsiebzig,,,normal
+seventy-three,dreiundsiebzig,,,normal
+seventy-two,zweiundsiebzig,,,normal
+six,sechs,,,simple
+six thousand,sechstausend,,,normal
+six thousand two hundred and thirty-four,sechstausendzweihundertvierunddreißig,,,hard
+sixteen,sechzehn,,,normal
+sixty,sechzig,,,normal
+sixty-eight,achtundsechzig,,,normal
+sixty-five,fünfundsechzig,,,normal
+sixty-four,vierundsechzig,,,normal
+sixty-nine,neunundsechzig,,,normal
+sixty-one,einundsechzig,,,normal
+sixty-seven,siebenundsechzig,,,normal
+sixty-six,sechsundsechzig,,,normal
+sixty-three,dreiundsechzig,,,normal
+sixty-two,zweiundsechzig,,,normal
+ten,zehn,,,simple
+ten thousand,zehntausend,,,normal
+thirteen,dreizehn,,,normal
+thirty,dreißig,,,normal
+thirty-eight,achtunddreißig,,,normal
+thirty-five,fünfunddreißig,,,normal
+thirty-four,vierunddreißig,,,normal
+thirty-nine,neununddreißig,,,normal
+thirty-one,einunddreißig,,,normal
+thirty-seven,siebenunddreißig,,,normal
+thirty-six,sechsunddreißig,,,normal
+thirty-three,dreiunddreißig,,,normal
+thirty-two,zweiunddreißig,,,normal
+three,drei,,,simple
+three million eight hundred and twenty-five thousand three hundred and twenty-five,drei millionen achthundertfünfundzwanzigtausend dreihundertfünfundzwanzig,,,hard
+three thousand,dreitausend,,,normal
+twelve,zwölf,,,normal
+twenty,zwanzig,,,normal
+twenty-eight,achtundzwanzig,,,normal
+twenty-five,fünfundzwanzig,,,normal
+twenty-four,vierundzwanzig,,,normal
+twenty-nine,neunundzwanzig,,,normal
+twenty-one,einundzwanzig,,,normal
+twenty-seven,siebenundzwanzig,,,normal
+twenty-six,sechsundzwanzig,,,normal
+twenty-three,dreiundzwanzig,,,normal
+twenty-two,zweiundzwanzig,,,normal
+two,zwei,,,simple
+two thousand,zweitausend,,,normal
+zero,null,,,simple

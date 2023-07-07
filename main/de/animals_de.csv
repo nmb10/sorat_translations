@@ -1,339 +1,339 @@
-term,value
+term,value,context,context value,level
 @topic,Tiere
 @author,Milena Byasova
-asp,der Natter
-butterfly,der Schmetterling
-cormorant,der Kormoran
-ram,der Widder
-snow leopard,der Schneeleopard
-badger,der Dachs
-hippopotamus,das Hippo
-ahodonta,anodonta
-snipe,die Schnepfe
-white rat,weiße Ratte
-white partridge,das Schneehuhn
-snowy owl,die Schnee-Eule
-squirrel,der Eichhorn
-flying squirrel,die Flughörnchen
-griffin,der Griffin
-the beluga,die Beluga
-white bear,der Polarbär
-golden eagle,der Steinadler
-stag deer,der Edelhirsch
-flea,der Floh
-beaver,der Biber
-mantis,die Gottesanbeterin
-ladybird,der Marienkäfer
-greyhound,der Windhund
-bearded vulture,der Bartgeier
-buffalo,der Büffel
-thunderbird,der Sturmvogel
-chipmunk,der Burunduk
-brown bear,der Braunbär
-bull,der Ochse
-steer,der Kaulkopf
-woodcock,der Woodcock
-bluethroat,blaukehlchen
-monitor lizard,der Waran
-wild boar,das Wildschwein
-camel,dAS Kamel
-wryneck,wendehals
-vobla,die Plötze
-water strider,wasserläufer
-wolf,der Wolf
-sparrow,der Spatz
-crow,die Krähe
-tartar sand boa,orientalischer köder
-sucking louse,die Laus
-carassius veiltail,der Schleierschwanz
-otter,der Otter
-bittern,die Rohrdommel
-weather loach misgurnus,der Loach
-brambling,der Brombeerstrauch
-loon,der Seetaucher
-adder,die Natter
-gazelle,die Gazelle
-jackdaw,die Dohle
-cheetah,der Gepard
-gibbon,der Gibbon
-hyena,die Hyäne
-helminth intestinal worm,der Wurm
-wood-grouse,der Auerhahn
-loach,der Saibling
-tadpole,die Kaulquappe
-pigeon,die Taube
-copper-butterfly,kupfer Schmetterling
-redstart,Gartenrotschwanz
-ermine,das Hermelin
-rook,die Saatkrähe
-great crested newt,kamm-Triton
-vulture,der Geier
-rodent,das Nagetier
-guppies,Guppys
-caterpillar,die Raupe
-goose,die Gans
-viper,der Viper
-dolphin,der Delphin
-earthworm,der Regenwurm
-longhorne beetle,Langhorn-Bockkäfer.
-thrush,die Drossel
-bustard,der Knarrhahn
-woodpecker,der Specht
-raccoon,der Waschbär
-spiny anteater,der Ameisenigel
-hedgehog,der Igel
-toad,die Kröte
-lark,die Lerche
-glass-lizard,Scheltopusik
-colias hyade,colias hyade
-stallion,das Hengst
-colt,das Fohlen
-giraffe,die Giraffe
-carabus ground beetle,der Laufkäfer
-bug,die Wanze
-blaps beetle,der Medljak-Käfer
-grave digger,der Grabkäfer
-unicorn beetle,der Nashornkäfer
-stag beetle,der Hirschkäfer
-crane,der Kranich
-demoiselle crane,der Jungfernkranich
-hare,der Hase
-blue hare,der Schneehase
-zebra,das Zebra
-shrew,die Spitzmaus
-lacewings,spitzenflügel
-snake,die Schlange
-goldfish,der Goldfisch
-auroch bison,der Wisent
-finch,der Buchfink
-oriole,der Pirol
-turkey,die Truthenne
-turkey-cock,der Puter
-caucasian black grouse,kaukasisches Birkhuhn
-branta,branta
-cockatoo,der Kakadu
-squid,der Kalmar
-flounder,die Flunder
-canary,der Kanarienvogel
-buzzard,der Bussard
-white cabbage butterfly,der Kohlweißling
-black widow,schwarze witwe
-crucian,die Karausche
-carp,der Karpfen
-red ramshorn snail,rote Posthornschnecke
-spotted nutcracker,der Tannenhäher
-kangaroo,Känguru
-whale,der Wal
-crossbill,der Kreuzschnabel
-acarid,die Zecke
-bug tell-tale,käfer-soldat
-chough,alpenkrähe
-cobra,die Kobra
-red-footed falcon,der Rotfußfalke
-mare,die Stute
-goat,die Ziege
-kid,das Zicklein
-nightjar,die  Nachtschwalbe
-humming-bird,der Kolibri
-mosquito,die Mücke
-pipit,pieper
-cow,die Kuh
-bark beetle,der Borkenkäfer
-kinglet,Königsküken
-corn crake,der Wachtelkönig
-steppe fox,der Korsak
-kite,der Geier
-roe deer,das Reh
-cat,Der Kater
-fur seal,der Seebär
-crab,die Krabbe
-small tortoiseshell,Kleiner Fuchs
-giildenstadt’s redstart,Riesenrotschwanz
-forest caterpillar hunter,waldraupenjäger
-shrimp,Garnelen
-merlin arctic falcon,der Gerfalke
-crocodile,das Krokodil
-rabbit,das Kaninchen
-mole,der Maulwurf
-fruit-bat,das fruchtfledermaus
-rat,die Ratte
-mallard quack,die Stockente
-grasshopper,der Grashupfer
-cuckoo,der Kuckuck
-onager,der Kulan
-sandspiper,sandspiper
-marten,der Marder
-hen,das Huhn
-partridge,das Rebhuhn
-lama,das Lama
-doe,der Damhirsch
-weasel,das Frettchen
-swallow,die Schwalbe
-swan,der Schwan
-lion,das Löwe
-lemming,der Lemming
-leopard,der Leopard
-bat,die Fledermaus
-fox,der Fuchs
-salmon,der Lachs
-elk,der Elch
-horse,das Pferd
-pied bushchat,geschecktes Buschchat
-harrier,der Weih
-lioness,die Löwin
-frog,der Frosch
-paradise fish,makropode
-mammoth,das Mammut
-swallowtail,der Schwalbenschwanz
-mole-cricket, die Maulwurfsgrille
-bear,der Bär
-jellyfish,die Qualle
-platyfish,der Schwertträger
-centipede,der Tausendfüßler
-wood louse,die Assel
-moth,die Motte
-walrus,das Walroß
-guinea-pig,Meerschweinchen
-(sea) scallops,Jakobsmuscheln
-starfish,die Seesterne
-sea-horse,das Seepferdchen
-mule,das Maultier
-ant,die Ameise
-anteater,der Ameisenbär
-fly,die Fliege
-fly-catcher,der Fliegenschnäpper
-mouse,die Maus
-mink,der Nerz
-rhinoceros,das Nashorn
-monkey,das Affe
-common ruffe,gewöhnlicher ruff
-gadfly,die Stechfliege
-sheep,ein Schaf
-ruddy shelduck,die Rostgans
-perch,der Barsch
-female deer,hirsch-weibchen
-orangoutan,der Orang-Utan
-eagle,der Adler
-wasp,das Wespe
-donkey,der Esel
-burro baby-ass,das Eselein
-octopus,der Oktopus
-peacock,der Pfau
-panda,der Panda
-spider,die Spinne
-common shelduck,die Brandgans
-pelican,der Pelikan
-marbled polecat,marmorierter Iltis
-quail,die Wachtel
-margaritana,margarita
-polar fox,der Polarfuchs
-zygaenidae,zygaenidae
-cock,der Hahn
-penguin,der Pinguin
-python,der Python
-pika,der Pfeifhase
-bloodsucker,der Blutegel
-phiclides podalirius,Podaleirios
-arvicolinae,die Wühlmaus
-nuthatch,der Kleiber
-parrot,der Papagei
-piglet,das Ferkel
-limnaeidae pond-snails,limnaeidae pond-snails
-puma,der Puma
-snow bunting,Schneeammer
-kestrel,der Turmfalken
-bee,die Biene
-crawfish,der Krebs
-pink starling,der rose Star
-fish,der Fisch
-lynx,der Luchs
-hazel hen,das Haselhuhn
-ciprinus carpio carp,der Karpfen
-saiga,der Saiga
-locust,die Heuschrecke
-sardine,die Sardinen
-cricket,die Grille
-glowworm,das Glühwürmchen
-pig,das Schwein
-northern deer,der Rentier
-stellate sturgeon,der Sternhausen
-herring,der Hering
-chamois,die Gemse
-titmouse,die Meise
-scalare,skalar
-batoidea,batoidea
-starling,der Star
-scorpion,der Skorpion
-skunk,das Stinktier
-horsefly,die Bremse
-slug,die Nacktschnecke
-elephant,der Elefant
-bullfinch,der Gimpel
-dog,der Hund
-sable,Zobel
-owl,die Eule
-jay,der Eichelhäher
-falcon,der Falke
-nightingale,die Nachtigall
-catfish,der Wels
-magpie,der Elster
-pine moth,der Seidenspinner
-steppe viper,steppenviper
-ostrich,der Strauß
-dragonfly,das Libelle
-little bustard,die Zwergtrappe
-sand martin,der Mauersegler
-zander pike-perch,der Zander
-marmot,das Murmeltier
-gopher,der Ziesel
-horned owl,der Kauz
-cockroach,der Kakerlak
-tarantula,die Tarantel
-roach,die Plötze
-telescopus,der Fernrohr
-calf,der Kalb
-heifer,die Färse
-termite,die Termite
-blackcock,der Birkhahn
-tiger,der Tiger
-aphid,die Blattlaus
-bankcod,der Kabeljau
-eft,der Triton
-wagtail,die Bachstelze
-toucan,der Tukan
-capra,die Tour
-jerboa,die Springmaus
-seal,die Robbe
-grig,der Mitesser
-anaconda,Anaconda
-hoopoe,der Wiedehopf
-snowcock,Schneehahn
-snail,die Schnecke
-duck,die Ente
-duckbill,das Schnabeltier
-the long-eared bat,Uschan
-phrynocephalus mystaceus,phrynocephalus mystaceus
-pheasant,der Fasan
-eagle owl,der Uhu
-flamingo,der Flamingo
-trout,die Forellen
-chameleon,das Chamäleon
-hamster,der Hamster
-corydalis,der Lerchensporn
-heron,der Reiher
-pearl-hen,das Perlhuhn
-poult,Vöglein
-gull,die möve
-worm,der Wurm
-tortoise,die Schildkröte
-lapwing,der Kiebitz
-jackal,der Schakal
-bumblebee,die hummel
-puppy,der Welpe
-gloydius,gloydius
-pike,der Hecht
-lamb,das Lamm
-jaguar,die jaguare
-yak,die Yaks
-hawk,die Falke
-lizard,die Eidechse
+(sea) scallops,Jakobsmuscheln,,,hard
+acarid,die Zecke,,,normal
+adder,die Natter,,,hard
+ahodonta,anodonta,,,hard
+anaconda,Anaconda,,,normal
+ant,die Ameise,,,simple
+anteater,der Ameisenbär,,,simple
+aphid,die Blattlaus,,,normal
+arvicolinae,die Wühlmaus,,,normal
+asp,der Natter,,,hard
+auroch bison,der Wisent,,,normal
+badger,der Dachs,,,
+bankcod,der Kabeljau,,,hard
+bark beetle,der Borkenkäfer,,,hard
+bat,die Fledermaus,,,simple
+batoidea,batoidea,,,normal
+bear,der Bär,,,simple
+bearded vulture,der Bartgeier,,,hard
+beaver,der Biber,,,normal
+bee,die Biene,,,simple
+bittern,die Rohrdommel,,,normal
+black widow,schwarze witwe,,,normal
+blackcock,der Birkhahn,,,normal
+blaps beetle,der Medljak-Käfer,,,hard
+bloodsucker,der Blutegel,,,hard
+blue hare,der Schneehase,,,normal
+bluethroat,blaukehlchen,,,hard
+brambling,der Brombeerstrauch,,,hard
+branta,branta,,,hard
+brown bear,der Braunbär,,,normal
+buffalo,der Büffel,,,simple
+bug,die Wanze,,,hard
+bug tell-tale,käfer-soldat,,,normal
+bull,der Ochse,,,simple
+bullfinch,der Gimpel,,,hard
+bumblebee,die hummel,,,normal
+burro baby-ass,das Eselein,,,simple
+bustard,der Knarrhahn,,,normal
+butterfly,der Schmetterling,,,simple
+buzzard,der Bussard,,,hard
+calf,der Kalb,,,hard
+camel,dAS Kamel,,,simple
+canary,der Kanarienvogel,,,normal
+capra,die Tour,,,simple
+carabus ground beetle,der Laufkäfer,,,hard
+carassius veiltail,der Schleierschwanz,,,hard
+carp,der Karpfen,,,normal
+cat,Der Kater,,,simple
+caterpillar,die Raupe,,,hard
+catfish,der Wels,,,hard
+caucasian black grouse,kaukasisches Birkhuhn,,,hard
+centipede,der Tausendfüßler,,,normal
+chameleon,das Chamäleon,,,normal
+chamois,die Gemse,,,normal
+cheetah,der Gepard,,,normal
+chipmunk,der Burunduk,,,normal
+chough,alpenkrähe,,,hard
+ciprinus carpio carp,der Karpfen,,,hard
+cobra,die Kobra,,,normal
+cock,der Hahn,,,simple
+cockatoo,der Kakadu,,,normal
+cockroach,der Kakerlak,,,normal
+colias hyade,colias hyade,,,normal
+colt,das Fohlen,,,normal
+common ruffe,gewöhnlicher ruff,,,hard
+common shelduck,die Brandgans,,,hard
+copper-butterfly,kupfer Schmetterling,,,hard
+cormorant,der Kormoran,,,
+corn crake,der Wachtelkönig,,,hard
+corydalis,der Lerchensporn,,,hard
+cow,die Kuh,,,simple
+crab,die Krabbe,,,simple
+crane,der Kranich,,,normal
+crawfish,der Krebs,,,hard
+cricket,die Grille,,,hard
+crocodile,das Krokodil,,,simple
+crossbill,der Kreuzschnabel,,,normal
+crow,die Krähe,,,simple
+crucian,die Karausche,,,normal
+cuckoo,der Kuckuck,,,normal
+demoiselle crane,der Jungfernkranich,,,hard
+doe,der Damhirsch,,,normal
+dog,der Hund,,,simple
+dolphin,der Delphin,,,normal
+donkey,der Esel,,,simple
+dragonfly,das Libelle,,,hard
+duck,die Ente,,,simple
+duckbill,das Schnabeltier,,,simple
+eagle,der Adler,,,normal
+eagle owl,der Uhu,,,hard
+earthworm,der Regenwurm,,,normal
+eft,der Triton,,,hard
+elephant,der Elefant,,,simple
+elk,der Elch,,,hard
+ermine,das Hermelin,,,hard
+falcon,der Falke,,,normal
+female deer,hirsch-weibchen,,,simple
+finch,der Buchfink,,,normal
+fish,der Fisch,,,simple
+flamingo,der Flamingo,,,normal
+flea,der Floh,,,normal
+flounder,die Flunder,,,normal
+fly,die Fliege,,,simple
+fly-catcher,der Fliegenschnäpper,,,normal
+flying squirrel,die Flughörnchen,,,hard
+forest caterpillar hunter,waldraupenjäger,,,hard
+fox,der Fuchs,,,simple
+frog,der Frosch,,,simple
+fruit-bat,das fruchtfledermaus,,,hard
+fur seal,der Seebär,,,normal
+gadfly,die Stechfliege,,,hard
+gazelle,die Gazelle,,,normal
+gibbon,der Gibbon,,,normal
+giildenstadt’s redstart,Riesenrotschwanz,,,hard
+giraffe,die Giraffe,,,simple
+glass-lizard,Scheltopusik,,,hard
+glowworm,das Glühwürmchen,,,hard
+gloydius,gloydius,,,hard
+goat,die Ziege,,,normal
+golden eagle,der Steinadler,,,normal
+goldfish,der Goldfisch,,,normal
+goose,die Gans,,,simple
+gopher,der Ziesel,,,hard
+grasshopper,der Grashupfer,,,hard
+grave digger,der Grabkäfer,,,hard
+great crested newt,kamm-Triton,,,hard
+greyhound,der Windhund,,,hard
+griffin,der Griffin,,,hard
+grig,der Mitesser,,,normal
+guinea-pig,Meerschweinchen,,,hard
+gull,die möve,,,hard
+guppies,Guppys,,,hard
+hamster,der Hamster,,,hard
+hare,der Hase,,,simple
+harrier,der Weih,,,hard
+hawk,die Falke,,,normal
+hazel hen,das Haselhuhn,,,hard
+hedgehog,der Igel,,,simple
+heifer,die Färse,,,hard
+helminth intestinal worm,der Wurm,,,normal
+hen,das Huhn,,,simple
+heron,der Reiher,,,normal
+herring,der Hering,,,hard
+hippopotamus,das Hippo,,,simple
+hoopoe,der Wiedehopf,,,normal
+horned owl,der Kauz,,,normal
+horse,das Pferd,,,simple
+horsefly,die Bremse,,,hard
+humming-bird,der Kolibri,,,normal
+hyena,die Hyäne,,,normal
+jackal,der Schakal,,,normal
+jackdaw,die Dohle,,,normal
+jaguar,die jaguare,,,normal
+jay,der Eichelhäher,,,hard
+jellyfish,die Qualle,,,normal
+jerboa,die Springmaus,,,normal
+kangaroo,Känguru,,,simple
+kestrel,der Turmfalken,,,hard
+kid,das Zicklein,,,normal
+kinglet,Königsküken,,,hard
+kite,der Geier,,,hard
+lacewings,spitzenflügel,,,hard
+ladybird,der Marienkäfer,,,simple
+lama,das Lama,,,normal
+lamb,das Lamm,,,hard
+lapwing,der Kiebitz,,,hard
+lark,die Lerche,,,normal
+lemming,der Lemming,,,normal
+leopard,der Leopard,,,normal
+limnaeidae pond-snails,limnaeidae pond-snails,,,hard
+lion,das Löwe,,,simple
+lioness,die Löwin,,,normal
+little bustard,die Zwergtrappe,,,hard
+lizard,die Eidechse,,,hard
+loach,der Saibling,,,normal
+locust,die Heuschrecke,,,hard
+longhorne beetle,Langhorn-Bockkäfer.,,,normal
+loon,der Seetaucher,,,hard
+lynx,der Luchs,,,normal
+magpie,der Elster,,,hard
+mallard quack,die Stockente,,,hard
+mammoth,das Mammut,,,normal
+mantis,die Gottesanbeterin,,,hard
+marbled polecat,marmorierter Iltis,,,hard
+mare,die Stute,,,hard
+margaritana,margarita,,,hard
+marmot,das Murmeltier,,,hard
+marten,der Marder,,,hard
+merlin arctic falcon,der Gerfalke,,,normal
+mink,der Nerz,,,normal
+mole,der Maulwurf,,,normal
+mole-cricket, die Maulwurfsgrille,,,normal
+monitor lizard,der Waran,,,normal
+monkey,das Affe,,,simple
+mosquito,die Mücke,,,simple
+moth,die Motte,,,simple
+mouse,die Maus,,,simple
+mule,das Maultier,,,hard
+nightingale,die Nachtigall,,,normal
+nightjar,die  Nachtschwalbe,,,hard
+northern deer,der Rentier,,,hard
+nuthatch,der Kleiber,,,hard
+octopus,der Oktopus,,,normal
+onager,der Kulan,,,normal
+orangoutan,der Orang-Utan,,,normal
+oriole,der Pirol,,,hard
+ostrich,der Strauß,,,simple
+otter,der Otter,,,hard
+owl,die Eule,,,simple
+panda,der Panda,,,normal
+paradise fish,makropode,,,hard
+parrot,der Papagei,,,simple
+partridge,das Rebhuhn,,,normal
+peacock,der Pfau,,,normal
+pearl-hen,das Perlhuhn,,,normal
+pelican,der Pelikan,,,normal
+penguin,der Pinguin,,,simple
+perch,der Barsch,,,hard
+pheasant,der Fasan,,,hard
+phiclides podalirius,Podaleirios,,,hard
+phrynocephalus mystaceus,phrynocephalus mystaceus,,,hard
+pied bushchat,geschecktes Buschchat,,,hard
+pig,das Schwein,,,simple
+pigeon,die Taube,,,simple
+piglet,das Ferkel,,,simple
+pika,der Pfeifhase,,,hard
+pike,der Hecht,,,hard
+pine moth,der Seidenspinner,,,hard
+pink starling,der rose Star,,,hard
+pipit,pieper,,,normal
+platyfish,der Schwertträger,,,hard
+polar fox,der Polarfuchs,,,hard
+poult,Vöglein,,,simple
+puma,der Puma,,,normal
+puppy,der Welpe,,,simple
+python,der Python,,,hard
+quail,die Wachtel,,,normal
+rabbit,das Kaninchen,,,simple
+raccoon,der Waschbär,,,normal
+ram,der Widder,,,simple
+rat,die Ratte,,,simple
+red ramshorn snail,rote Posthornschnecke,,,normal
+red-footed falcon,der Rotfußfalke,,,hard
+redstart,Gartenrotschwanz,,,hard
+rhinoceros,das Nashorn,,,normal
+roach,die Plötze,,,normal
+rodent,das Nagetier,,,normal
+roe deer,das Reh,,,simple
+rook,die Saatkrähe,,,normal
+ruddy shelduck,die Rostgans,,,hard
+sable,Zobel,,,hard
+saiga,der Saiga,,,hard
+salmon,der Lachs,,,hard
+sand martin,der Mauersegler,,,hard
+sandspiper,sandspiper,,,hard
+sardine,die Sardinen,,,hard
+scalare,skalar,,,hard
+scorpion,der Skorpion,,,normal
+sea-horse,das Seepferdchen,,,hard
+seal,die Robbe,,,normal
+sheep,ein Schaf,,,simple
+shrew,die Spitzmaus,,,normal
+shrimp,Garnelen,,,normal
+skunk,das Stinktier,,,normal
+slug,die Nacktschnecke,,,hard
+small tortoiseshell,Kleiner Fuchs,,,hard
+snail,die Schnecke,,,normal
+snake,die Schlange,,,simple
+snipe,die Schnepfe,,,hard
+snow bunting,Schneeammer,,,hard
+snow leopard,der Schneeleopard,,,simple
+snowcock,Schneehahn,,,normal
+snowy owl,die Schnee-Eule,,,hard
+sparrow,der Spatz,,,hard
+spider,die Spinne,,,simple
+spiny anteater,der Ameisenigel,,,normal
+spotted nutcracker,der Tannenhäher,,,hard
+squid,der Kalmar,,,normal
+squirrel,der Eichhorn,,,simple
+stag beetle,der Hirschkäfer,,,hard
+stag deer,der Edelhirsch,,,hard
+stallion,das Hengst,,,normal
+starfish,die Seesterne,,,hard
+starling,der Star,,,normal
+steer,der Kaulkopf,,,normal
+stellate sturgeon,der Sternhausen,,,hard
+steppe fox,der Korsak,,,hard
+steppe viper,steppenviper,,,hard
+sucking louse,die Laus,,,simple
+swallow,die Schwalbe,,,simple
+swallowtail,der Schwalbenschwanz,,,normal
+swan,der Schwan,,,normal
+tadpole,die Kaulquappe,,,hard
+tarantula,die Tarantel,,,normal
+tartar sand boa,orientalischer köder,,,hard
+telescopus,der Fernrohr,,,hard
+termite,die Termite,,,normal
+the beluga,die Beluga,,,hard
+the long-eared bat,Uschan,,,hard
+thrush,die Drossel,,,hard
+thunderbird,der Sturmvogel,,,hard
+tiger,der Tiger,,,simple
+titmouse,die Meise,,,normal
+toad,die Kröte,,,hard
+tortoise,die Schildkröte,,,simple
+toucan,der Tukan,,,hard
+trout,die Forellen,,,normal
+turkey,die Truthenne,,,simple
+turkey-cock,der Puter,,,normal
+unicorn beetle,der Nashornkäfer,,,hard
+viper,der Viper,,,hard
+vobla,die Plötze,,,normal
+vulture,der Geier,,,normal
+wagtail,die Bachstelze,,,hard
+walrus,das Walroß,,,hard
+wasp,das Wespe,,,normal
+water strider,wasserläufer,,,hard
+weasel,das Frettchen,,,normal
+weather loach misgurnus,der Loach,,,hard
+whale,der Wal,,,simple
+white bear,der Polarbär,,,normal
+white cabbage butterfly,der Kohlweißling,,,hard
+white partridge,das Schneehuhn,,,hard
+white rat,weiße Ratte,,,hard
+wild boar,das Wildschwein,,,simple
+wolf,der Wolf,,,simple
+wood louse,die Assel,,,hard
+wood-grouse,der Auerhahn,,,normal
+woodcock,der Woodcock,,,hard
+woodpecker,der Specht,,,normal
+worm,der Wurm,,,simple
+wryneck,wendehals,,,normal
+yak,die Yaks,,,normal
+zander pike-perch,der Zander,,,hard
+zebra,das Zebra,,,simple
+zygaenidae,zygaenidae,,,hard
