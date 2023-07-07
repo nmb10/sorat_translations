@@ -1,26 +1,26 @@
-term,value
+term,value,context,context value,level
 @topic,Motions
 @author,Биасти Георги фурт Хъазибег
-amble,дзоргъа
-bounce,æсхъеуын
-bump,æсхуайун
-dart,æхсун
-dance,кафун
-jog,ледзун
-laugh,ходун
-limp,къулух цæун
-lope,сæпп кæнун
-roll,толун
-run,ледзун
-saunter,тъезгъо кæнун
-scamper,ледзун
-scurry,æнтойнæ
-spin,урухсун
-stagger,æнкъусун
-strut,хъалæй цæун
-swagger,зинæнвæрсон
-sway,уегъун
-tiptoe,гъузун
-traipse,лæсун
-walk,цæун
-work,косун
+amble,дзоргъа,,,hard
+bounce,æсхъеуын,,,normal
+bump,æсхуайун,,,simple
+dance,кафун,,,simple
+dart,æхсун,,,normal
+jog,ледзун,,,normal
+laugh,ходун,,,simple
+limp,къулух цæун,,,simple
+lope,сæпп кæнун,,,normal
+roll,толун,,,simple
+run,ледзун,,,simple
+saunter,тъезгъо кæнун,,,normal
+scamper,ледзун,,,normal
+scurry,æнтойнæ,,,normal
+spin,урухсун,,,normal
+stagger,æнкъусун,,,normal
+strut,хъалæй цæун,,,hard
+swagger,зинæнвæрсон,,,hard
+sway,уегъун,,,simple
+tiptoe,гъузун,,,simple
+traipse,лæсун,,,normal
+walk,цæун,,,simple
+work,косун,,,simple

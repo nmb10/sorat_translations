@@ -1,27 +1,27 @@
-term,value
+term,value,context,context value,level
 @topic,Хузтæ
 @author,Kazbek Byasov
 @author.public,Kazbek Byasov
-red,сурх
-blue,цъæх
-green,кæрдæгхуз
-yellow,бор
-pink,рохснæг
-brown,мора
-black,сау
-white,уорс
-gray,халас
-gold,заринæ
-silver,æвзист
-navy blue,тар арвхуз
-indigo,индиго
-magenta,тар сурх
-violet,фиолетон
-khaki,хаки
-crimson,рæдæнг
-lavender,лавандæ хуз
-plum,цилауи хуз
-cyan,арвхуз
-chestnut,мудхуз
-orange,борбун сурх
-maroon,игæрхуз
+black,сау,,,simple
+blue,цъæх,,,simple
+brown,мора,,,simple
+chestnut,мудхуз,,,
+crimson,рæдæнг,,,normal
+cyan,арвхуз,,,simple
+gold,заринæ,,,normal
+gray,халас,,,simple
+green,кæрдæгхуз,,,simple
+indigo,индиго,,,hard
+khaki,хаки,,,normal
+lavender,лавандæ хуз,,,hard
+magenta,тар сурх,,,hard
+maroon,игæрхуз,,,normal
+navy blue,тар арвхуз,,,normal
+orange,борбун сурх,,,simple
+pink,рохснæг,,,simple
+plum,цилауи хуз,,,hard
+red,сурх,,,simple
+silver,æвзист,,,normal
+violet,фиолетон,,,simple
+white,уорс,,,simple
+yellow,бор,,,simple

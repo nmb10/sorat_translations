@@ -1,59 +1,59 @@
-term,value
+term,value,context,context value,level
 @topic,Адæймаг.Бауæр
 @author,Kazbek Byasov
 @author_local,Биасти Георги фурт Хъазибег
-face,цæсгон
-mouth,цъух
-chin,роцъо
-neck,бæрзæй
-shoulder,усхъæ
-arm,къох
-upper arm,усхъæ
-elbow,рæмбуйнæ
-forearm,базуг
-armpit,дæларм
-back,фæсонтæ
-chest,реу
-waist,астæу
-abdomen,губун
-buttocks,лæбæзтæ
-hip,суйнæ
-leg,къах
-leg,фад
-thigh,суйнæ
-knee,уæраг
-calf,зæнгæ
-wrist,цонгигъолæ
-knuckle,мустукъи
-fingernail,них
-thumb,дзиамбас
-index finger,æхсун æнгулдзæ
-little finger,кæстæр æнгулдзæ
-palm,армитъæпæн
-hair,хелæ
-forehead,тæрних
-sideburn,инхагæ
-ear,гъос
-cheek,рос
-nose,фий
-nostril,финдзи цъасæ
-jaw,æфсæрæ
-beard,закъе
-mustache,бецъотæ
-tongue,æвзаг
-tooth,дæндаг
-lip,билæ
-eyebrow,æрфуг
-eyelid,тъæфалæ
-eyelashes,цæстихауæ
-pupil,цæсти гагу
-ankle,фадигъолæ
-heel,зæбæт
-instep,уæлфад
-big toe,хестæр æнгулдзæ
-toe,æнгулдзæ
-little toe,кæстæр æнгулдзæ
-toenail,них
-brain,магъз
-throat,гъæлæс
-esophagus,сауæсхолæ
+abdomen,губун,,,simple
+ankle,фадигъолæ,,,hard
+arm,къох,,,simple
+armpit,дæларм,,,normal
+back,фæсонтæ,,,simple
+beard,закъе,,,normal
+big toe,хестæр æнгулдзæ,,,simple
+brain,магъз,,,normal
+buttocks,лæбæзтæ,,,normal
+calf,зæнгæ,,,normal
+cheek,рос,,,simple
+chest,реу,,,simple
+chin,роцъо,,,simple
+ear,гъос,,,simple
+elbow,рæмбуйнæ,,,simple
+esophagus,сауæсхолæ,,,hard
+eyebrow,æрфуг,,,normal
+eyelashes,цæстихауæ,,,normal
+eyelid,тъæфалæ,,,normal
+face,цæсгон,,,simple
+fingernail,них,,,simple
+forearm,базуг,,,normal
+forehead,тæрних,,,simple
+hair,хелæ,,,simple
+heel,зæбæт,,,normal
+hip,суйнæ,,,normal
+index finger,æхсун æнгулдзæ,,,simple
+instep,уæлфад,,,normal
+jaw,æфсæрæ,,,normal
+knee,уæраг,,,simple
+knuckle,мустукъи,,,hard
+leg,къах,,,simple
+leg,фад,,,simple
+lip,билæ,,,simple
+little finger,кæстæр æнгулдзæ,,,simple
+little toe,кæстæр æнгулдзæ,,,simple
+mouth,цъух,,,simple
+mustache,бецъотæ,,,normal
+neck,бæрзæй,,,simple
+nose,фий,,,simple
+nostril,финдзи цъасæ,,,hard
+palm,армитъæпæн,,,simple
+pupil,цæсти гагу,,,hard
+shoulder,усхъæ,,,simple
+sideburn,инхагæ,,,hard
+thigh,суйнæ,,,normal
+throat,гъæлæс,,,hard
+thumb,дзиамбас,,,simple
+toe,æнгулдзæ,,,simple
+toenail,них,,,simple
+tongue,æвзаг,,,simple
+tooth,дæндаг,,,simple
+upper arm,усхъæ,,,simple
+waist,астæу,,,hard
+wrist,цонгигъолæ,,,hard

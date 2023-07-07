@@ -1,24 +1,24 @@
-term,value
+term,value,context,context value,level
 @topic,Бийнонтæ
 @author,Kazbek Byasov
 @author_local,Биасти Георги фурт Казбек
-baby,бæдолæ
-boy,биццеу
-bride,ностæ
-brothers,нсувæртæ
-children,сувæллæнтæ
-daughter,кизгæ
-family,бийнонтæ
-father,фидæ
-girl,кизгæ
-grandfather,баба
-grandmother,нана
-groom,мойнаг
-husband,мойнæ
-man,лæг
-mother,мадæ
-parents,нийæргутæ
-son,фурт
-twins,фаззæттæ
-wife,уосæ
-woman,силгоймаг
+baby,бæдолæ,,,simple
+boy,биццеу,,,simple
+bride,ностæ,,,simple
+brothers,нсувæртæ,,,simple
+children,сувæллæнтæ,,,simple
+daughter,кизгæ,,,simple
+family,бийнонтæ,,,simple
+father,фидæ,,,simple
+girl,кизгæ,,,simple
+grandfather,баба,,,simple
+grandmother,нана,,,simple
+groom,мойнаг,,,normal
+husband,мойнæ,,,normal
+man,лæг,,,simple
+mother,мадæ,,,simple
+parents,нийæргутæ,,,simple
+son,фурт,,,simple
+twins,фаззæттæ,,,normal
+wife,уосæ,,,normal
+woman,силгоймаг,,,simple

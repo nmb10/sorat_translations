@@ -1,15 +1,15 @@
-term,value
+term,value,context,context value,level
 @topic,Emotions
 @author,Kazbek Byasov
-anger,фурмæст
-contempt,æгадæ
-disgust,илгъадæ
-fear,тас
-guilt,лазæ
-hostility,гегæ
-interest,игъосун
-joy,цинæ
-sadness,мæтъæл
-shame,ходуйнаг
-shyness,нимдæ
-surprise,æнæнгъæл
+anger,фурмæст,,,simple
+contempt,æгадæ,,,simple
+disgust,илгъадæ,,,simple
+fear,тас,,,simple
+guilt,лазæ,,,simple
+hostility,гегæ,,,simple
+interest,игъосун,,,simple
+joy,цинæ,,,simple
+sadness,мæтъæл,,,simple
+shame,ходуйнаг,,,simple
+shyness,нимдæ,,,simple
+surprise,æнæнгъæл,,,normal

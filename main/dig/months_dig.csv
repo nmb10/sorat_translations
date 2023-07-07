@@ -1,16 +1,16 @@
-term,value
+term,value,context,context value,level
 @topic,Мæйтæ
 @author,Kazbek Byasov
 @author_local,Биасти Георги фурт Хъазибег
-january,æнсур
-february,комахсæн
-march,комдарæн
-april,никколи мæйæ
-may,кæлвæра
-june,амистол
-july,сосæни мæйæ
-august,майрæми куадзæни мæйæ
-september,рухæн
-october,кæфти мæйæ
-november,георгуба мæйæ
-december,цæппорсæ
+april,никколи мæйæ,,,simple
+august,майрæми куадзæни мæйæ,,,simple
+december,цæппорсæ,,,simple
+february,комахсæн,,,simple
+january,æнсур,,,simple
+july,сосæни мæйæ,,,simple
+june,амистол,,,simple
+march,комдарæн,,,simple
+may,кæлвæра,,,simple
+november,георгуба мæйæ,,,simple
+october,кæфти мæйæ,,,simple
+september,рухæн,,,simple

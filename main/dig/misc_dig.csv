@@ -1,346 +1,346 @@
-term,value
+term,value,context,context value,level
 @topic,Miscellaneous
 @author,Kazbek Byasov
-anguish,ухери
-be sick,сæйгæ
-between,æхсæн
-boundary,арæн
-box,аскъæл
-brick,агори дор
-bride,ностæ
-bucket,къибила
-buttock,лæбæз
-cast iron,циуан
-chair,къела
-chimney,тохона
-circle,фæлгур
-clear,кæдзос
-coffee,скъордон
-court,тæрхон
-dirty weather,забалахъ
-earth,зæнхæ
-eat,лæперун
-familiar,вæсмард
-fraud,фæлевæн
-gems,нал
-glue,сансæ
-greed,зудæ
-greek,бердзейнаг
-groom,мойнаг
-harbor,наууат
-hawser,бидт
-hearth,къона
-heavy,харакет
-hell-fire,туфул
-hematoma,тогдæппал
-hogweed,билбатуг
-hug,хъури кæнун
-husband,мойнæ
-image,сорæт
-jointer,саласийнæ
-jump,лæуерун
-knee,зонуг
-lake,цадæ
-lathe,зурнæ
-lead,изди
-lightning,арвæртивд
-line,ханхæ
-maybe,мусийнæ
-message,уст
-mumbler,хомух
-overhang,катæ
-paddle,беслеу
-pillar,сæх
-prey,хуали
-rope,суйнаг
-rust,изгæ
-sausage,дзормæ
-share,минди
-shine,рохс
-ship,науæ
-shooting range,æхсæн
-shoulders ride,дзайдзай
-silk,дарий
-slumber,самæти
-sky,арв
-sledgehammer,лæто
-slope,тæссар
-small axe,надзахи
-smog,асмæ
-spin,урухсун
-spirit,мон
-sprouts,забад
-stairs,асийнæ
-tan,дзедзалæ
-teapot,цайдан
-temptation,монд
-thumb,дзиамбас
-toilet,пусойнæ
-torch,соли
-cunning,налат
-waiting,хезун
-wattle,сахъарали
-wide,урух
-wooden bed,урундухъ
-yawn,хомбериндзæ
-sharp,циргъ
-storm,уадæ
-flute,уадиндзæ
-cheek,уадолæ
-blister,хæппил
-hearth fence,ундугæ
-mother in law,уосимадæ
-wave,улæн
-broom,уесойнæ
-root,уедагæ
-spoon,уедуг
-puke,уомун
-faint,уæлдзæг
-shelf,уæлвæйнæг
-dawn,уæлбон
-win,уæлахиз
-back of the hand,уæларм
-crane,уæзесæн
-captivity,уацар
-fisher,балир
-small,минкъи
-pants,хæлаф
-brake,суггум
-smoked,стад
-finger ring,нихвæр
-consent,арази
-cloud,æврагъ
-acne,тæпхæл
-washer,цъæлхъос
-pupil,цъæсти гагу
-orbit,цъæсти къурфæ
-lens,цъести фæрдуг
-marrow,хъанз
-short,цъубур
-volume,медар
-ground,сикъит
-heap,æнсарæ
-candle,цирагъ
-pumice,цинадор
-honor,цитæ
-kudos,кад
-famous,цитгин
-ladle,цолпи
-circassian,цохъа
-gutter,цухцурнæ
-fry,цорун
-wedge,цорк
-gravel,цæхуарæ
-rag,къимбус
-brand,къипхæ
-bud,къомбох
-angle,къумон
-balcony,затма
-glade,æрдозæ
-spring,цъæтæ
-tremble,резун
-wrong,æнарæст
-rock,дур
-table,фингæ
-door,дуар
-house,хæдзарæ
-cone,дурæ
-inflate,дунсун
-hairless,куассæ
-apron,куатæ
-caftan,курæт
-blacksmith,курд
-forge,курдбадзæ
-brook,къада
-shovel,бел
-spot,къедта
-muzzle,къенбурбос
-snout,къенбур
-goal,къем
-stump,къодах
-peak,къонца
-cup,къос
-paddle,къохар
-hiccup,къуæзун
-stick,къуæцæл
-lump,къубус
-pooch,къудуркой
-ball,къозо
-helmet,така
-fondle,талас кæнун
-bathe,æртайун
-melt,æртайун
-drop,æртах
-warm,тавун
-basket,тæскъæ
-egg,айкæ
-lance,арист
-build,амайун
-granite,айнæгдор
-collar,æфцæкъуатæ
-dress,пъолци
-flour,инсад
-doubt,гузавæ
-sugar bowl,сæкæрдонæ
-soup plate,хъулуф тæбæгъ
-pan,тебæ
-gum,синæр
-refugee,мухадзир
-fig,муф
-fist,мустукъи
-bayonet,мудзура
-chestnut,мудхуз
-beekeeper,мудгæс
-hollow,мура
-bell,мурæ
-stamp,мухур
-road,над
-roller,наднæмæн
-sail,наупæлæз
-navel,наффæ
-touch,нидзæвун
-sing,зарун
-dangling,дзæгелæ
-search,дзæголæ
-diary,бонуг
-niche,гайла
-left,галеу
-right,рахез
-carpet,гауз
-waterskin,гæбæт
-far away,гандза
-calf,гæдзила
-leprosy,гæллæханез
-giant,гæлгой
-pot,галемæ
-notch,гæлерæ
-slave,гæлех
-pot,гæлиз
-tripod,гæлизи корæнтæ
-hang around,гæллеу
-cloak,гæллеу
-mallet,гæлмæз
-desolation,гæнистон
-squire,гæрзхæссæг
-hewn stone,гæрнадор
-crampon,гебунтæ
-tuesday,геуæргибон
-button,гибу
-mercury,гинасу
-mockery,гириз
-male hunting female,гит
-bunch,гобат
-mattress,гобан
-handgun,гобедза
-revolver,гобедза
-rug,горцъе
-plow,готон
-trough,бæлæгъ
-rowing,бæлæгътæрæн
-cotton wool,бæмпæг
-cotton,бæмпæг
-thesaurus,бæрæгуат
-piston,бæрдæн
-multiplication,бæрон
-bravo,бæрсий
-hive,бæтман
-corner,бекъæ
-stretch,бериндзун
-noise,бис
-strong man,бога
-venus,бонвæрнон
-happiness,нивæ
-image,нивæ
-blueprint,нивæзт
-shooting,нивист
-alert,ниггæмæл ун
-country house,нидæнуат
-king,падзах
-lush,пампуси
-feather,пакъу
-fluff,пакъу
-rake,пахса
-pilaf,пæлау
-wick,пелта
-flame,илауон
-king,перц
-oven,пец
-sealing wax,песет
-disheveled,пихцил
-defective,потгонд
-harrow,похци
-European,пранкаг
-spatter,пурф
-ghoul,пъæзу
-adze,пъæнæз
-pallet,пъæрæмит
-fraction,сабантъи
-round flat stone,сабæк
-thought,сагъæс
-quiver,сайдахъ
-invisible,салф
-wooden chain,самакъа
-adobe,саман
-saddle,саргъ
-turban,сарæхъ
-bloodhound,самуркуй
-shadow,сатæг
-silhouette,сауæндар
-shawl,сасуг
-mosquito,саскъæ
-tuberculosis,сасæг
-sieve,сарсийнæ
-gift,саугъа
-bracelet,сахсæн
-birthmark,саустъæлфæ
-rainfall,сахуард
-bedridden patient,сæйгæ
-bread in milk,сæкка
-satiation,сæлæт
-wonder,сæмæт
-axis,сæмæн
-sleeve,сæмæнцæг
-clever,сæрæн
-alive,сæрæгас
-upside down,сæрбунти
-comb,сæрвасæн
-freedom,сæребæрæ
-miss,сæрзад
-helmet,сæрзæнт
-scull,сæригæхцæ
-headache,сæринез
-whetstone,сæрхæ
-proud,сæрустур
-scrap,сæстæг
-spit,сæтæ
-pearl,сæтæлхуз
-sulfur,сæуæндон
-hoof,сæфтæг
-round flat stone,села
-flank,сера
-facade,сента
-one-sided,сента
-lapdog,серка
-breakfast,сехуар
-go backwards,сидзмудзи
-glimpse,сикир
-horn,сикъа
-clay,сикъит
-thorn,синдзæ
-splinter,синдзæ
-wineglass,синон
-cup,синон
-urinary tube,сиппа
-lawn,дзедзо
-pendulum,дзедзро
-amber,дзендзе
-paradise,дзенет
-boat,кема
-qualitative,келбетон
-aqua regia,кезапп
-wallet,кисæ
-knight,тонауæг
-slim,гурведауцæ
-arrow,фат
-ruby,лал
-in turn,кезугай
+European,пранкаг,,,normal
+acne,тæпхæл,,,normal
+adobe,саман,,,hard
+adze,пъæнæз,,,hard
+alert,ниггæмæл ун,,,normal
+alive,сæрæгас,,,normal
+amber,дзендзе,,,hard
+angle,къумон,,,normal
+anguish,ухери,,,normal
+apron,куатæ,,,hard
+aqua regia,кезапп,,,hard
+arrow,фат,,,normal
+axis,сæмæн,,,hard
+back of the hand,уæларм,,,hard
+balcony,затма,,,normal
+ball,къозо,,,simple
+basket,тæскъæ,,,simple
+bathe,æртайун,,,simple
+bayonet,мудзура,,,normal
+be sick,сæйгæ,,,simple
+bedridden patient,сæйгæ,,,normal
+beekeeper,мудгæс,,,normal
+bell,мурæ,,,normal
+between,æхсæн,,,simple
+birthmark,саустъæлфæ,,,simple
+blacksmith,курд,,,hard
+blister,хæппил,,,normal
+bloodhound,самуркуй,,,hard
+blueprint,нивæзт,,,normal
+boat,кема,,,simple
+boundary,арæн,,,normal
+box,аскъæл,,,simple
+bracelet,сахсæн,,,normal
+brake,суггум,,,normal
+brand,къипхæ,,,normal
+bravo,бæрсий,,,normal
+bread in milk,сæкка,,,hard
+breakfast,сехуар,,,simple
+brick,агори дор,,,simple
+bride,ностæ,,,normal
+brook,къада,,,normal
+broom,уесойнæ,,,simple
+bucket,къибила,,,simple
+bud,къомбох,,,normal
+build,амайун,,,normal
+bunch,гобат,,,simple
+buttock,лæбæз,,,simple
+button,гибу,,,normal
+caftan,курæт,,,hard
+calf,гæдзила,,,simple
+candle,цирагъ,,,simple
+captivity,уацар,,,hard
+carpet,гауз,,,simple
+cast iron,циуан,,,normal
+chair,къела,,,simple
+cheek,уадолæ,,,simple
+chestnut,мудхуз,,,normal
+chimney,тохона,,,normal
+circassian,цохъа,,,normal
+circle,фæлгур,,,hard
+clay,сикъит,,,normal
+clear,кæдзос,,,simple
+clever,сæрæн,,,normal
+cloak,гæллеу,,,normal
+cloud,æврагъ,,,simple
+coffee,скъордон,,,simple
+collar,æфцæкъуатæ,,,hard
+comb,сæрвасæн,,,simple
+cone,дурæ,,,hard
+consent,арази,,,normal
+corner,бекъæ,,,normal
+cotton,бæмпæг,,,normal
+cotton wool,бæмпæг,,,normal
+country house,нидæнуат,,,normal
+court,тæрхон,,,normal
+crampon,гебунтæ,,,hard
+crane,уæзесæн,,,normal
+cunning,налат,,,normal
+cup,къос,,,normal
+cup,синон,,,normal
+dangling,дзæгелæ,,,normal
+dawn,уæлбон,,,simple
+defective,потгонд,,,normal
+desolation,гæнистон,,,normal
+diary,бонуг,,,normal
+dirty weather,забалахъ,,,normal
+disheveled,пихцил,,,normal
+door,дуар,,,simple
+doubt,гузавæ,,,normal
+dress,пъолци,,,simple
+drop,æртах,,,simple
+earth,зæнхæ,,,simple
+eat,лæперун,,,normal
+egg,айкæ,,,simple
+facade,сента,,,normal
+faint,уæлдзæг,,,simple
+familiar,вæсмард,,,normal
+famous,цитгин,,,normal
+far away,гандза,,,simple
+feather,пакъу,,,hard
+fig,муф,,,simple
+finger ring,нихвæр,,,normal
+fisher,балир,,,normal
+fist,мустукъи,,,simple
+flame,илауон,,,normal
+flank,сера,,,normal
+flour,инсад,,,simple
+fluff,пакъу,,,normal
+flute,уадиндзæ,,,hard
+fondle,талас кæнун,,,simple
+forge,курдбадзæ,,,normal
+fraction,сабантъи,,,hard
+fraud,фæлевæн,,,normal
+freedom,сæребæрæ,,,normal
+fry,цорун,,,simple
+gems,нал,,,normal
+ghoul,пъæзу,,,hard
+giant,гæлгой,,,
+gift,саугъа,,,simple
+glade,æрдозæ,,,normal
+glimpse,сикир,,,normal
+glue,сансæ,,,normal
+go backwards,сидзмудзи,,,simple
+goal,къем,,,simple
+granite,айнæгдор,,,normal
+gravel,цæхуарæ,,,normal
+greed,зудæ,,,normal
+greek,бердзейнаг,,,normal
+groom,мойнаг,,,normal
+ground,сикъит,,,normal
+gum,синæр,,,simple
+gutter,цухцурнæ,,,normal
+hairless,куассæ,,,normal
+handgun,гобедза,,,normal
+hang around,гæллеу,,,normal
+happiness,нивæ,,,normal
+harbor,наууат,,,hard
+harrow,похци,,,hard
+hawser,бидт,,,hard
+headache,сæринез,,,normal
+heap,æнсарæ,,,normal
+hearth,къона,,,hard
+hearth fence,ундугæ,,,hard
+heavy,харакет,,,hard
+hell-fire,туфул,,,normal
+helmet,така,,,normal
+helmet,сæрзæнт,,,normal
+hematoma,тогдæппал,,,normal
+hewn stone,гæрнадор,,,normal
+hiccup,къуæзун,,,simple
+hive,бæтман,,,normal
+hogweed,билбатуг,,,hard
+hollow,мура,,,simple
+honor,цитæ,,,normal
+hoof,сæфтæг,,,normal
+horn,сикъа,,,simple
+house,хæдзарæ,,,simple
+hug,хъури кæнун,,,simple
+husband,мойнæ,,,normal
+image,сорæт,,,normal
+image,нивæ,,,normal
+in turn,кезугай,,,simple
+inflate,дунсун,,,simple
+invisible,салф,,,simple
+jointer,саласийнæ,,,normal
+jump,лæуерун,,,simple
+king,падзах,,,normal
+king,перц,,,normal
+knee,зонуг,,,simple
+knight,тонауæг,,,normal
+kudos,кад,,,normal
+ladle,цолпи,,,simple
+lake,цадæ,,,simple
+lance,арист,,,hard
+lapdog,серка,,,hard
+lathe,зурнæ,,,normal
+lawn,дзедзо,,,normal
+lead,изди,,,hard
+left,галеу,,,simple
+lens,цъести фæрдуг,,,normal
+leprosy,гæллæханез,,,hard
+lightning,арвæртивд,,,normal
+line,ханхæ,,,simple
+lump,къубус,,,simple
+lush,пампуси,,,normal
+male hunting female,гит,,,hard
+mallet,гæлмæз,,,hard
+marrow,хъанз,,,hard
+mattress,гобан,,,normal
+maybe,мусийнæ,,,simple
+melt,æртайун,,,simple
+mercury,гинасу,,,hard
+message,уст,,,simple
+miss,сæрзад,,,normal
+mockery,гириз,,,hard
+mosquito,саскъæ,,,simple
+mother in law,уосимадæ,,,normal
+multiplication,бæрон,,,
+mumbler,хомух,,,simple
+muzzle,къенбурбос,,,normal
+navel,наффæ,,,simple
+niche,гайла,,,normal
+noise,бис,,,normal
+notch,гæлерæ,,,
+one-sided,сента,,,normal
+orbit,цъæсти къурфæ,,,normal
+oven,пец,,,
+overhang,катæ,,,normal
+paddle,беслеу,,,simple
+paddle,къохар,,,simple
+pallet,пъæрæмит,,,normal
+pan,тебæ,,,normal
+pants,хæлаф,,,simple
+paradise,дзенет,,,normal
+peak,къонца,,,normal
+pearl,сæтæлхуз,,,normal
+pendulum,дзедзро,,,normal
+pilaf,пæлау,,,simple
+pillar,сæх,,,simple
+piston,бæрдæн,,,hard
+plow,готон,,,hard
+pooch,къудуркой,,,normal
+pot,галемæ,,,normal
+pot,гæлиз,,,normal
+prey,хуали,,,normal
+proud,сæрустур,,,normal
+puke,уомун,,,simple
+pumice,цинадор,,,normal
+pupil,цъæсти гагу,,,normal
+qualitative,келбетон,,,normal
+quiver,сайдахъ,,,hard
+rag,къимбус,,,simple
+rainfall,сахуард,,,simple
+rake,пахса,,,simple
+refugee,мухадзир,,,hard
+revolver,гобедза,,,normal
+right,рахез,,,simple
+road,над,,,simple
+rock,дур,,,simple
+roller,наднæмæн,,,hard
+root,уедагæ,,,simple
+rope,суйнаг,,,simple
+round flat stone,сабæк,,,hard
+round flat stone,села,,,hard
+rowing,бæлæгътæрæн,,,normal
+ruby,лал,,,normal
+rug,горцъе,,,normal
+rust,изгæ,,,normal
+saddle,саргъ,,,hard
+sail,наупæлæз,,,normal
+satiation,сæлæт,,,hard
+sausage,дзормæ,,,simple
+scrap,сæстæг,,,normal
+scull,сæригæхцæ,,,normal
+sealing wax,песет,,,hard
+search,дзæголæ,,,normal
+shadow,сатæг,,,simple
+share,минди,,,normal
+sharp,циргъ,,,normal
+shawl,сасуг,,,hard
+shelf,уæлвæйнæг,,,normal
+shine,рохс,,,simple
+ship,науæ,,,simple
+shooting,нивист,,,normal
+shooting range,æхсæн,,,normal
+short,цъубур,,,simple
+shoulders ride,дзайдзай,,,normal
+shovel,бел,,,simple
+sieve,сарсийнæ,,,normal
+silhouette,сауæндар,,,hard
+silk,дарий,,,normal
+sing,зарун,,,simple
+sky,арв,,,simple
+slave,гæлех,,,normal
+sledgehammer,лæто,,,simple
+sleeve,сæмæнцæг,,,normal
+slim,гурведауцæ,,,normal
+slope,тæссар,,,normal
+slumber,самæти,,,normal
+small,минкъи,,,simple
+small axe,надзахи,,,normal
+smog,асмæ,,,normal
+smoked,стад,,,normal
+snout,къенбур,,,normal
+soup plate,хъулуф тæбæгъ,,,normal
+spatter,пурф,,,simple
+spin,урухсун,,,simple
+spirit,мон,,,normal
+spit,сæтæ,,,
+splinter,синдзæ,,,simple
+spoon,уедуг,,,simple
+spot,къедта,,,normal
+spring,цъæтæ,,,normal
+sprouts,забад,,,normal
+squire,гæрзхæссæг,,,hard
+stairs,асийнæ,,,simple
+stamp,мухур,,,normal
+stick,къуæцæл,,,simple
+storm,уадæ,,,normal
+stretch,бериндзун,,,normal
+strong man,бога,,,normal
+stump,къодах,,,simple
+sugar bowl,сæкæрдонæ,,,normal
+sulfur,сæуæндон,,,hard
+table,фингæ,,,normal
+tan,дзедзалæ,,,normal
+teapot,цайдан,,,simple
+temptation,монд,,,hard
+thesaurus,бæрæгуат,,,normal
+thorn,синдзæ,,,normal
+thought,сагъæс,,,normal
+thumb,дзиамбас,,,simple
+toilet,пусойнæ,,,simple
+torch,соли,,,simple
+touch,нидзæвун,,,simple
+tremble,резун,,,normal
+tripod,гæлизи корæнтæ,,,hard
+trough,бæлæгъ,,,normal
+tuberculosis,сасæг,,,hard
+tuesday,геуæргибон,,,simple
+turban,сарæхъ,,,hard
+upside down,сæрбунти,,,simple
+urinary tube,сиппа,,,hard
+venus,бонвæрнон,,,normal
+volume,медар,,,normal
+waiting,хезун,,,normal
+wallet,кисæ,,,normal
+warm,тавун,,,simple
+washer,цъæлхъос,,,simple
+waterskin,гæбæт,,,hard
+wattle,сахъарали,,,normal
+wave,улæн,,,simple
+wedge,цорк,,,normal
+whetstone,сæрхæ,,,hard
+wick,пелта,,,normal
+wide,урух,,,simple
+win,уæлахиз,,,simple
+wineglass,синон,,,normal
+wonder,сæмæт,,,hard
+wooden bed,урундухъ,,,normal
+wooden chain,самакъа,,,hard
+wrong,æнарæст,,,normal
+yawn,хомбериндзæ,,,simple
