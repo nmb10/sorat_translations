@@ -1,6 +1,6 @@
 term,value,context,context value,level
-@topic,Зайæгойтæ
-@author,Kazbek Byasov
+@topic,Зайæгойтæ,,,
+@author,Kazbek Byasov,,,
 acacia,акъаци,,,simple
 acorn,гыркъо,,,normal
 agaric honey,мæнг опёнок,,,hard
@@ -226,7 +226,7 @@ parsley,басгæрдæг,,,simple
 pasqueflower,гом прострел,,,hard
 patsy,мæнтæг,,,simple
 peach tree,алтъами,,,simple
-pear,кæрдо; кæрдобæлас,,,simple
+pear,кæрдо,,,simple
 peas,тымбылхъæдур,,,simple
 peas mouse,мысты хъæдур,,,hard
 peony,пион,,,normal

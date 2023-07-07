@@ -1,34 +1,34 @@
-term,value
-@topic,Tools
-@author,Kazbek Byasov
-bolt,bolt
-nail,nail
-screwdriver,screwdriver
-bradawl,bradawl
-handsaw,handsaw
-nut,nut
-screw,screw
-wrench,wrench
-backsaw,backsaw
-mallet,mallet
-hammer,hammer
-adjustable wrench,adjustable wrench
-coping saw,coping saw
-pipe wrench,pipe wrench
-hacksaw,hacksaw
-spirit level,spirit level
-pocketknife,pocketknife
-scissors,scissors
-chainsaw,chainsaw
-drill,drill
-brace,brace
-lineman’s pliers,lineman’s pliers
-toolbox,toolbox
-corkscrew,corkscrew
-diagonal pliers,diagonal pliers
-tape measure,tape measure
-plunger,plunger
-caulking gun,caulking gun
-slip joint pliers,slip joint pliers
-stepladder,stepladder
-needle nose pliers,needle nose pliers
+term,value,context,context value,level
+@topic,Tools,,,
+@author,Kazbek Byasov,,,
+bolt,bolt,,,simple
+nail,nail,,,simple
+screwdriver,screwdriver,,,simple
+bradawl,bradawl,,,simple
+handsaw,handsaw,,,simple
+nut,nut,,,simple
+screw,screw,,,simple
+wrench,wrench,,,simple
+backsaw,backsaw,,,simple
+mallet,mallet,,,simple
+hammer,hammer,,,simple
+adjustable wrench,adjustable wrench,,,simple
+coping saw,coping saw,,,simple
+pipe wrench,pipe wrench,,,simple
+hacksaw,hacksaw,,,simple
+spirit level,spirit level,,,simple
+pocketknife,pocketknife,,,simple
+scissors,scissors,,,simple
+chainsaw,chainsaw,,,simple
+drill,drill,,,simple
+brace,brace,,,simple
+lineman’s pliers,lineman’s pliers,,,simple
+toolbox,toolbox,,,simple
+corkscrew,corkscrew,,,simple
+diagonal pliers,diagonal pliers,,,simple
+tape measure,tape measure,,,simple
+plunger,plunger,,,simple
+caulking gun,caulking gun,,,simple
+slip joint pliers,slip joint pliers,,,simple
+stepladder,stepladder,,,simple
+needle nose pliers,needle nose pliers,,,simple

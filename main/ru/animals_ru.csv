@@ -1,8 +1,7 @@
 term,value,context,context value,level
-@topic,Животные
-@author,Kazbek Byasov
-@images,animals
-@set,hard
+@topic,Животные,,,
+@author,Kazbek Byasov,,,
+@images,animals,,,
 (sea) scallops,морские гребешки,,,hard
 acarid,клещ,,,normal
 adder,уж,,,hard

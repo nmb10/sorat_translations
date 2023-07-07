@@ -1,18 +1,18 @@
-term,value
-@topic,Косæнгарз
-@author,Kazbek Byasov
-bolt,болт
-nail,зæгæл
-screwdriver,лæсгæр зелун
-bradawl,туассæ
-handsaw,хурхæ
-nut,гайкæ
-screw,лæсгæр
-wrench,дæгъæл
-hammer,дзæбокæ
-pipe wrench,хæтæли дæгъæл
-pocketknife,хиринкъа
-scissors,кæрдæн
-chainsaw,рæхис хурхæ
-drill,дрель
-brace,арван
+term,value,context,context value,level
+@topic,Косæнгарз,,,
+@author,Kazbek Byasov,,,
+bolt,болт,,,simple
+nail,зæгæл,,,simple
+screwdriver,лæсгæр зелун,,,simple
+bradawl,туассæ,,,simple
+handsaw,хурхæ,,,simple
+nut,гайкæ,,,simple
+screw,лæсгæр,,,simple
+wrench,дæгъæл,,,simple
+hammer,дзæбокæ,,,simple
+pipe wrench,хæтæли дæгъæл,,,simple
+pocketknife,хиринкъа,,,simple
+scissors,кæрдæн,,,simple
+chainsaw,рæхис хурхæ,,,simple
+drill,дрель,,,simple
+brace,арван,,,simple

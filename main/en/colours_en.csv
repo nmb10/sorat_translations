@@ -1,7 +1,6 @@
 term,value,context,context value,level
-@topic,Colours
-@author,Kazbek Byasov
-@set,simple
+@topic,Colours,,,
+@author,Kazbek Byasov,,,
 beige,beige,,,normal
 black,black,,,simple
 blue,blue,,,simple

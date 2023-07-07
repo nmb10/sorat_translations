@@ -1,11 +1,11 @@
 term,value,context,context value,level
-@topic,Хузтæ
-@author,Kazbek Byasov
-@author.public,Kazbek Byasov
+@topic,Хузтæ,,,
+@author,Kazbek Byasov,,,
+@author.public,Kazbek Byasov,,,
 black,сау,,,simple
 blue,цъæх,,,simple
 brown,мора,,,simple
-chestnut,мудхуз,,,
+chestnut,мудхуз,,,normal
 crimson,рæдæнг,,,normal
 cyan,арвхуз,,,simple
 gold,заринæ,,,normal

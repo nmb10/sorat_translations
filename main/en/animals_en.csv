@@ -1,8 +1,8 @@
 term,value,context,context value,level
-@topic,Animals
-@author,Kazbek Byasov
-@images,animals
-@set,hard
+@topic,Animals,,,
+@author,Kazbek Byasov,,,
+@images,animals,,,
+@set,hard,,,
 (sea) scallops,(sea) scallops,,,hard
 acarid,acarid,,,normal
 adder,adder,,,hard

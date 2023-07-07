@@ -1,7 +1,7 @@
 term,value,context,context value,level
-@topic,Wetter,,
-@author,Milena Byasova,,
-@author_local,Милена Бясова,,
+@topic,Wetter,,,
+@author,Milena Byasova,,,
+@author_local,Милена Бясова,,,
 autumn,der Herbst,season,jahreszeit,simple
 cloudy,bewölkt,,,normal
 cold,kalt,,,simple

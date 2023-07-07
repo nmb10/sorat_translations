@@ -1,7 +1,7 @@
 term,value,context,context value,level
-@topic,Humans.Body
-@author,Kazbek Byasov
-@set,simple
+@topic,Humans.Body,,,
+@author,Kazbek Byasov,,,
+@set,simple,,,
 abdomen,abdomen,,,simple
 ankle,ankle,,,hard
 arm,arm,,,simple
