@@ -1,339 +1,339 @@
-term,value
+term,value,context,context value,level
 @topic,Цæрæгойтæ
 @author,Kazbek Byasov
-asp,аспид
-butterfly,гæлæбу
-cormorant,баклан
-ram,фыр
-snow leopard,фыранк
-badger,зыгъарæг
-hippopotamus,бегемот
-ahodonta,беззубкæтæ
-snipe,мæга
-white rat,урс уыры
-white partridge,урс хуыргарк
-snowy owl,урс уыг
-squirrel,æхсæрсæттæг
-flying squirrel,тæхгæ æхсæрæг
-griffin,урссæр сип
-the beluga,урсгæф
-white bear,урс арс
-golden eagle,беркут
-stag deer,сæрбæрзонд саг
-flea,æхсæнкъ
-beaver,бобр
-mantis,богомол
-ladybird,майрæмыкарк
-greyhound,егар
-bearded vulture,саубоцъо цæргæс
-buffalo,къамбец
-thunderbird,уадфидиуæг
-chipmunk,бурундук
-brown bear,бур арс
-bull,гал
-steer,уæныг
-woodcock,хъæды мæга
-bluethroat,варакушкæ
-monitor lizard,варан
-wild boar,хъæддаг хуы
-camel,теуа
-wryneck,къубалтил
-vobla,воблæ
-water strider,донбарджытæ
-wolf,бирæгъ
-sparrow,сырддонцъиу
-crow,халон
-tartar sand boa,хурыскæсæйнаг æлхъивгалм
-sucking louse,сыст
-carassius veiltail,вуалехвост
-otter,уырд
-bittern,хæфсхор
-weather loach misgurnus,тыхсой кæсаг
-brambling,вьюрок
-loon,гагарæ
-adder,бурхъус калм
-gazelle,сугъахъ
-jackdaw,сауцъиу
-cheetah,гепард
-gibbon,гиббон
-hyena,гиенæ
-helminth intestinal worm,тъæнгты калм
-wood-grouse,къуырмагарк
-loach,лыстæгцæппæр кæсаг
-tadpole,къæбулæг хъунцъ
-pigeon,бæлон (хæдзарон)
-copper-butterfly,голубянкæ
-redstart,буркъæдзил цъиу
-ermine,сыбираг мыстулæг
-rook,цъиах
-great crested newt,сæрвасæнхуыз тритон
-vulture,хæдмæлхор
-rodent,æхсынæг
-guppies,гуппи
-caterpillar,æлыз
-goose,хъаз
-viper,гюрза
-dolphin,сæмгæф
-earthworm,къæвдайы уаллон
-longhorne beetle,сугдзау (хъæддзау)
-thrush,нæмыгхор
-bustard,дудахъ
-woodpecker,хъæдхой
-raccoon,енот
-spiny anteater,ехиднæ
-hedgehog,уызын
-toad,галхæфс
-lark,хæрдмæдзог цъиу
-glass-lizard,бургуыбын
-colias hyade,бургæлæбу
-stallion,уырс
-colt,байраг
-giraffe,жираф
-carabus ground beetle,хуры хъæндил
-bug,хъæдысыст
-blaps beetle,сындæгбыр хъæндил
-grave digger,мæркъахæг хъæндил
-unicorn beetle,сыкъафындз хъæндил
-stag beetle,хъæндил-саг
-crane,хърихъупп
-demoiselle crane,рæсугъд хърихъупп
-hare,тæрхъус
-blue hare,урс тæрхъус
-zebra,зебрæ
-shrew,зæхкъах
-lacewings,сыгъзæриндзаст
-snake,калм
-goldfish,сыгъзæрин кæсаг
-auroch bison,хъæддаг гал
-finch,митмитгæнаг
-oriole,бурцъиу
-turkey,сыл гогыз
-turkey-cock,нæл гогыз
-caucasian black grouse,кавказаг къуырмагарк
-branta,казаркæ
-cockatoo,стыр тути
-squid,кальмар
-flounder,камбæлæ
-canary,канарейкæ
-buzzard,сарыч
-white cabbage butterfly,къабускахор
-black widow,каракурт
-crucian,тъепа
-carp,карп
-red ramshorn snail,катушкæтæ
-spotted nutcracker,сыбираг халон
-kangaroo,кенгуру
-whale,гайа
-crossbill,æхсынæг цъиу
-acarid,гæбы
-bug tell-tale,хъæдысыст-салдат
-chough,клушицæ
-cobra,кобрæ
-red-footed falcon,кобчик
-mare,ефс
-goat,сæгъ
-kid,сæныкк
-nightjar,сæгъдуц
-humming-bird,колибри
-mosquito,къогъо
-pipit,конёк
-cow,хъуг
-bark beetle,цъархор
-kinglet,нæзыйы цъиу
-corn crake,цъæх мæга
-steppe fox,корсак
-kite,хъæрццыгъа
-roe deer,сæгуыт
-cat,гæды
-fur seal,котик
-crab,краб
-small tortoiseshell,пысырайы гæлæбу
-giildenstadt’s redstart,сырхгуыбын горихвосткæ
-forest caterpillar hunter,тæфгæнаг хъæндил
-shrimp,креветкæтæ
-merlin arctic falcon,лацин
-crocodile,кæфхъуындар
-rabbit,хæдзарон тæрхъус
-mole,куырм уыры
-fruit-bat,крылан
-rat,уыры
-mallard quack,хъæддаг бабыз
-grasshopper,цъырцъыраг
-cuckoo,гакк-гукк
-onager,кулан
-sandspiper,доны ацц
-marten,сæлавыр
-hen,карк
-partridge,хуыргарк
-lama,ламæ
-doe,хъуаз
-weasel,тæхсæл
-swallow,зæрватыкк
-swan,доныхъаз
-lion,домбай
-lemming,лемминг
-leopard,леопард
-bat,хæлынбыттыр
-fox,рувас
-salmon,æргъай
-elk,цæгатаг саг
-horse,бæх
-pied bushchat,уыгæрдæны чыкгæнæг
-harrier,лунь
-lioness,сыл домбай
-frog,хæфс
-paradise fish,макропод
-mammoth,мамонт
-swallowtail,махаон
-mole-cricket,хъугдæй
-bear,арс
-jellyfish,медузæ
-platyfish,меченосец
-centipede,хъусхил
-wood louse,хъусхилæг
-moth,рæмпæг
-walrus,морж
-guinea-pig,денджызон хъыбыл
-(sea) scallops,денджызон сæрвасæнтæ
-starfish,денджызон стъалытæ
-sea-horse,денджызон бæхтæ
-mule,хæргæфс
-ant,мæлдзыг
-anteater,мæлдзыгхор
-fly,бындз
-fly-catcher,бындзмар
-mouse,мыст
-mink,норкæ
-rhinoceros,сыкъафындз
-monkey,маймули
-common ruffe,хуымæтæджы ёрш
-gadfly,дзынга
-sheep,фыс
-ruddy shelduck,огар
-perch,окунь
-female deer,саг
-orangoutan,орангутанг
-eagle,цæргæс
-wasp,дыдынбындз
-donkey,хæрæг
-burro baby-ass,къæлæу
-octopus,асткъахыг
-peacock,мæлхъ
-panda,пандæ
-spider,хæлуарæг
-common shelduck,пеганкæ
-pelican,пеликан
-marbled polecat,перевязкæ
-quail,уæрцц
-margaritana,перловицæ
-polar fox,цæгатаг рувас
-zygaenidae,хъулон гæлæбу
-cock,уасæг
-penguin,пингвин
-python,питон
-pika,пищухæ
-bloodsucker,цъулбер
-phiclides podalirius,подалири
-arvicolinae,быдырон мыст
-nuthatch,бырæг цъиу
-parrot,тути
-piglet,хъыбыл
-limnaeidae pond-snails,цадонтæ
-puma,пумæ
-snow bunting,пуночкæ
-kestrel,пустельгатæ
-bee,мыдыбындз
-crawfish,мыдзбыр
-pink starling,мæтæгхуыз сауцъиу
-fish,кæсаг
-lynx,стай
-hazel hen,дзыгъуыргарк
-ciprinus carpio carp,сазан
-saiga,сайгак
-locust,мæтых
-sardine,сардинæ
-cricket,цъырцъыраг
-glowworm,æрттиваг хъæндил
-pig,хуы
-northern deer,цæгатаг саг
-stellate sturgeon,кæфгæсаг
-herring,сельд
-chamois,сычъи
-titmouse,дзывылдар
-scalare,скаляри
-batoidea,скат
-starling,саумæлгъ
-scorpion,къæдздым
-skunk,скунс
-horsefly,куырмбындз
-slug,æнæхъузг моллюск
-elephant,пыл
-bullfinch,зараг цъиу
-dog,куыдз
-sable,сыбираг сæлавыр
-owl,уыг
-jay,сойкæ
-falcon,уари
-nightingale,булæмæргъ
-catfish,локо
-magpie,дзæгъындзæг
-pine moth,нæзыйы цыллæйы калм
-steppe viper,быдырон маргджын калм
-ostrich,страус
-dragonfly,цъырцъыраг
-little bustard,стрепет
-sand martin,чъима
-zander pike-perch,судак
-marmot,зæххы æхсæрæг
-gopher,хъулон уыры
-horned owl,сидахъ
-cockroach,хъæбыза
-tarantula,тарантул
-roach,тъаран
-telescopus,телескоп
-calf,род
-heifer,дыгæрдыг
-termite,термит
-blackcock,саугарк
-tiger,тигр
-aphid,зулкъ
-bankcod,треска
-eft,тритон
-wagtail,урс дзывылдар
-toucan,тукан
-capra,дзæбидыр
-jerboa,тушкан
-seal,тюлен
-grig,калмгæсаг
-anaconda,удав
-hoopoe,дыгоппон
-snowcock,зым
-snail,сæтæлæг
-duck,бабыз
-duckbill,бабызфындз
-the long-eared bat,хъусой
-phrynocephalus mystaceus,тымбылсæр хъусой
-pheasant,сындзы уасæг
-eagle owl,ололи
-flamingo,фламинго
-trout,балергæсаг
-chameleon,хамелеон
-hamster,хъулон уыры
-corydalis,хохлаткæ
-heron,кæсаглас
-pearl-hen,цицыр
-poult,цъиу
-gull,кæсагдзау
-worm,уаллон
-tortoise,уæртджын хæфс
-lapwing,чибис
-jackal,шакал
-bumblebee,хъæддаг мыдыбындз
-puppy,къæбыла
-gloydius,щитомордник
-pike,хихор
-lamb,уæрыкк
-jaguar,ягуар
-yak,як
-hawk,цъиусур
-lizard,гæккуыри
+(sea) scallops,денджызон сæрвасæнтæ,,,hard
+acarid,гæбы,,,normal
+adder,бурхъус калм,,,hard
+ahodonta,беззубкæтæ,,,hard
+anaconda,удав,,,normal
+ant,мæлдзыг,,,simple
+anteater,мæлдзыгхор,,,simple
+aphid,зулкъ,,,normal
+arvicolinae,быдырон мыст,,,normal
+asp,аспид,,,hard
+auroch bison,хъæддаг гал,,,normal
+badger,зыгъарæг,,,
+bankcod,треска,,,hard
+bark beetle,цъархор,,,hard
+bat,хæлынбыттыр,,,simple
+batoidea,скат,,,normal
+bear,арс,,,simple
+bearded vulture,саубоцъо цæргæс,,,hard
+beaver,бобр,,,normal
+bee,мыдыбындз,,,simple
+bittern,хæфсхор,,,normal
+black widow,каракурт,,,normal
+blackcock,саугарк,,,normal
+blaps beetle,сындæгбыр хъæндил,,,hard
+bloodsucker,цъулбер,,,hard
+blue hare,урс тæрхъус,,,normal
+bluethroat,варакушкæ,,,hard
+brambling,вьюрок,,,hard
+branta,казаркæ,,,hard
+brown bear,бур арс,,,normal
+buffalo,къамбец,,,simple
+bug,хъæдысыст,,,hard
+bug tell-tale,хъæдысыст-салдат,,,normal
+bull,гал,,,simple
+bullfinch,зараг цъиу,,,hard
+bumblebee,хъæддаг мыдыбындз,,,normal
+burro baby-ass,къæлæу,,,simple
+bustard,дудахъ,,,normal
+butterfly,гæлæбу,,,simple
+buzzard,сарыч,,,hard
+calf,род,,,hard
+camel,теуа,,,simple
+canary,канарейкæ,,,normal
+capra,дзæбидыр,,,simple
+carabus ground beetle,хуры хъæндил,,,hard
+carassius veiltail,вуалехвост,,,hard
+carp,карп,,,normal
+cat,гæды,,,simple
+caterpillar,æлыз,,,hard
+catfish,локо,,,hard
+caucasian black grouse,кавказаг къуырмагарк,,,hard
+centipede,хъусхил,,,normal
+chameleon,хамелеон,,,normal
+chamois,сычъи,,,normal
+cheetah,гепард,,,normal
+chipmunk,бурундук,,,normal
+chough,клушицæ,,,hard
+ciprinus carpio carp,сазан,,,hard
+cobra,кобрæ,,,normal
+cock,уасæг,,,simple
+cockatoo,стыр тути,,,normal
+cockroach,хъæбыза,,,normal
+colias hyade,бургæлæбу,,,normal
+colt,байраг,,,normal
+common ruffe,хуымæтæджы ёрш,,,hard
+common shelduck,пеганкæ,,,hard
+copper-butterfly,голубянкæ,,,hard
+cormorant,баклан,,,
+corn crake,цъæх мæга,,,hard
+corydalis,хохлаткæ,,,hard
+cow,хъуг,,,simple
+crab,краб,,,simple
+crane,хърихъупп,,,normal
+crawfish,мыдзбыр,,,hard
+cricket,цъырцъыраг,,,hard
+crocodile,кæфхъуындар,,,simple
+crossbill,æхсынæг цъиу,,,normal
+crow,халон,,,simple
+crucian,тъепа,,,normal
+cuckoo,гакк-гукк,,,normal
+demoiselle crane,рæсугъд хърихъупп,,,hard
+doe,хъуаз,,,normal
+dog,куыдз,,,simple
+dolphin,сæмгæф,,,normal
+donkey,хæрæг,,,simple
+dragonfly,цъырцъыраг,,,hard
+duck,бабыз,,,simple
+duckbill,бабызфындз,,,simple
+eagle,цæргæс,,,normal
+eagle owl,ололи,,,hard
+earthworm,къæвдайы уаллон,,,normal
+eft,тритон,,,hard
+elephant,пыл,,,simple
+elk,цæгатаг саг,,,hard
+ermine,сыбираг мыстулæг,,,hard
+falcon,уари,,,normal
+female deer,саг,,,simple
+finch,митмитгæнаг,,,normal
+fish,кæсаг,,,simple
+flamingo,фламинго,,,normal
+flea,æхсæнкъ,,,normal
+flounder,камбæлæ,,,normal
+fly,бындз,,,simple
+fly-catcher,бындзмар,,,normal
+flying squirrel,тæхгæ æхсæрæг,,,hard
+forest caterpillar hunter,тæфгæнаг хъæндил,,,hard
+fox,рувас,,,simple
+frog,хæфс,,,simple
+fruit-bat,крылан,,,hard
+fur seal,котик,,,normal
+gadfly,дзынга,,,hard
+gazelle,сугъахъ,,,normal
+gibbon,гиббон,,,normal
+giildenstadt’s redstart,сырхгуыбын горихвосткæ,,,hard
+giraffe,жираф,,,simple
+glass-lizard,бургуыбын,,,hard
+glowworm,æрттиваг хъæндил,,,hard
+gloydius,щитомордник,,,hard
+goat,сæгъ,,,normal
+golden eagle,беркут,,,normal
+goldfish,сыгъзæрин кæсаг,,,normal
+goose,хъаз,,,simple
+gopher,хъулон уыры,,,hard
+grasshopper,цъырцъыраг,,,hard
+grave digger,мæркъахæг хъæндил,,,hard
+great crested newt,сæрвасæнхуыз тритон,,,hard
+greyhound,егар,,,hard
+griffin,урссæр сип,,,hard
+grig,калмгæсаг,,,normal
+guinea-pig,денджызон хъыбыл,,,hard
+gull,кæсагдзау,,,hard
+guppies,гуппи,,,hard
+hamster,хъулон уыры,,,hard
+hare,тæрхъус,,,simple
+harrier,лунь,,,hard
+hawk,цъиусур,,,normal
+hazel hen,дзыгъуыргарк,,,hard
+hedgehog,уызын,,,simple
+heifer,дыгæрдыг,,,hard
+helminth intestinal worm,тъæнгты калм,,,normal
+hen,карк,,,simple
+heron,кæсаглас,,,normal
+herring,сельд,,,hard
+hippopotamus,бегемот,,,simple
+hoopoe,дыгоппон,,,normal
+horned owl,сидахъ,,,normal
+horse,бæх,,,simple
+horsefly,куырмбындз,,,hard
+humming-bird,колибри,,,normal
+hyena,гиенæ,,,normal
+jackal,шакал,,,normal
+jackdaw,сауцъиу,,,normal
+jaguar,ягуар,,,normal
+jay,сойкæ,,,hard
+jellyfish,медузæ,,,normal
+jerboa,тушкан,,,normal
+kangaroo,кенгуру,,,simple
+kestrel,пустельгатæ,,,hard
+kid,сæныкк,,,normal
+kinglet,нæзыйы цъиу,,,hard
+kite,хъæрццыгъа,,,hard
+lacewings,сыгъзæриндзаст,,,hard
+ladybird,майрæмыкарк,,,simple
+lama,ламæ,,,normal
+lamb,уæрыкк,,,hard
+lapwing,чибис,,,hard
+lark,хæрдмæдзог цъиу,,,normal
+lemming,лемминг,,,normal
+leopard,леопард,,,normal
+limnaeidae pond-snails,цадонтæ,,,hard
+lion,домбай,,,simple
+lioness,сыл домбай,,,normal
+little bustard,стрепет,,,hard
+lizard,гæккуыри,,,hard
+loach,лыстæгцæппæр кæсаг,,,normal
+locust,мæтых,,,hard
+longhorne beetle,сугдзау (хъæддзау),,,normal
+loon,гагарæ,,,hard
+lynx,стай,,,normal
+magpie,дзæгъындзæг,,,hard
+mallard quack,хъæддаг бабыз,,,hard
+mammoth,мамонт,,,normal
+mantis,богомол,,,hard
+marbled polecat,перевязкæ,,,hard
+mare,ефс,,,hard
+margaritana,перловицæ,,,hard
+marmot,зæххы æхсæрæг,,,hard
+marten,сæлавыр,,,hard
+merlin arctic falcon,лацин,,,normal
+mink,норкæ,,,normal
+mole,куырм уыры,,,normal
+mole-cricket,хъугдæй,,,normal
+monitor lizard,варан,,,normal
+monkey,маймули,,,simple
+mosquito,къогъо,,,simple
+moth,рæмпæг,,,simple
+mouse,мыст,,,simple
+mule,хæргæфс,,,hard
+nightingale,булæмæргъ,,,normal
+nightjar,сæгъдуц,,,hard
+northern deer,цæгатаг саг,,,hard
+nuthatch,бырæг цъиу,,,hard
+octopus,асткъахыг,,,normal
+onager,кулан,,,normal
+orangoutan,орангутанг,,,normal
+oriole,бурцъиу,,,hard
+ostrich,страус,,,simple
+otter,уырд,,,hard
+owl,уыг,,,simple
+panda,пандæ,,,normal
+paradise fish,макропод,,,hard
+parrot,тути,,,simple
+partridge,хуыргарк,,,normal
+peacock,мæлхъ,,,normal
+pearl-hen,цицыр,,,normal
+pelican,пеликан,,,normal
+penguin,пингвин,,,simple
+perch,окунь,,,hard
+pheasant,сындзы уасæг,,,hard
+phiclides podalirius,подалири,,,hard
+phrynocephalus mystaceus,тымбылсæр хъусой,,,hard
+pied bushchat,уыгæрдæны чыкгæнæг,,,hard
+pig,хуы,,,simple
+pigeon,бæлон (хæдзарон),,,simple
+piglet,хъыбыл,,,simple
+pika,пищухæ,,,hard
+pike,хихор,,,hard
+pine moth,нæзыйы цыллæйы калм,,,hard
+pink starling,мæтæгхуыз сауцъиу,,,hard
+pipit,конёк,,,normal
+platyfish,меченосец,,,hard
+polar fox,цæгатаг рувас,,,hard
+poult,цъиу,,,simple
+puma,пумæ,,,normal
+puppy,къæбыла,,,simple
+python,питон,,,hard
+quail,уæрцц,,,normal
+rabbit,хæдзарон тæрхъус,,,simple
+raccoon,енот,,,normal
+ram,фыр,,,simple
+rat,уыры,,,simple
+red ramshorn snail,катушкæтæ,,,normal
+red-footed falcon,кобчик,,,hard
+redstart,буркъæдзил цъиу,,,hard
+rhinoceros,сыкъафындз,,,normal
+roach,тъаран,,,normal
+rodent,æхсынæг,,,normal
+roe deer,сæгуыт,,,simple
+rook,цъиах,,,normal
+ruddy shelduck,огар,,,hard
+sable,сыбираг сæлавыр,,,hard
+saiga,сайгак,,,hard
+salmon,æргъай,,,hard
+sand martin,чъима,,,hard
+sandspiper,доны ацц,,,hard
+sardine,сардинæ,,,hard
+scalare,скаляри,,,hard
+scorpion,къæдздым,,,normal
+sea-horse,денджызон бæхтæ,,,hard
+seal,тюлен,,,normal
+sheep,фыс,,,simple
+shrew,зæхкъах,,,normal
+shrimp,креветкæтæ,,,normal
+skunk,скунс,,,normal
+slug,æнæхъузг моллюск,,,hard
+small tortoiseshell,пысырайы гæлæбу,,,hard
+snail,сæтæлæг,,,normal
+snake,калм,,,simple
+snipe,мæга,,,hard
+snow bunting,пуночкæ,,,hard
+snow leopard,фыранк,,,simple
+snowcock,зым,,,normal
+snowy owl,урс уыг,,,hard
+sparrow,сырддонцъиу,,,hard
+spider,хæлуарæг,,,simple
+spiny anteater,ехиднæ,,,normal
+spotted nutcracker,сыбираг халон,,,hard
+squid,кальмар,,,normal
+squirrel,æхсæрсæттæг,,,simple
+stag beetle,хъæндил-саг,,,hard
+stag deer,сæрбæрзонд саг,,,hard
+stallion,уырс,,,normal
+starfish,денджызон стъалытæ,,,hard
+starling,саумæлгъ,,,normal
+steer,уæныг,,,normal
+stellate sturgeon,кæфгæсаг,,,hard
+steppe fox,корсак,,,hard
+steppe viper,быдырон маргджын калм,,,hard
+sucking louse,сыст,,,simple
+swallow,зæрватыкк,,,simple
+swallowtail,махаон,,,normal
+swan,доныхъаз,,,normal
+tadpole,къæбулæг хъунцъ,,,hard
+tarantula,тарантул,,,normal
+tartar sand boa,хурыскæсæйнаг æлхъивгалм,,,hard
+telescopus,телескоп,,,hard
+termite,термит,,,normal
+the beluga,урсгæф,,,hard
+the long-eared bat,хъусой,,,hard
+thrush,нæмыгхор,,,hard
+thunderbird,уадфидиуæг,,,hard
+tiger,тигр,,,simple
+titmouse,дзывылдар,,,normal
+toad,галхæфс,,,hard
+tortoise,уæртджын хæфс,,,simple
+toucan,тукан,,,hard
+trout,балергæсаг,,,normal
+turkey,сыл гогыз,,,simple
+turkey-cock,нæл гогыз,,,normal
+unicorn beetle,сыкъафындз хъæндил,,,hard
+viper,гюрза,,,hard
+vobla,воблæ,,,normal
+vulture,хæдмæлхор,,,normal
+wagtail,урс дзывылдар,,,hard
+walrus,морж,,,hard
+wasp,дыдынбындз,,,normal
+water strider,донбарджытæ,,,hard
+weasel,тæхсæл,,,normal
+weather loach misgurnus,тыхсой кæсаг,,,hard
+whale,гайа,,,simple
+white bear,урс арс,,,normal
+white cabbage butterfly,къабускахор,,,hard
+white partridge,урс хуыргарк,,,hard
+white rat,урс уыры,,,hard
+wild boar,хъæддаг хуы,,,simple
+wolf,бирæгъ,,,simple
+wood louse,хъусхилæг,,,hard
+wood-grouse,къуырмагарк,,,normal
+woodcock,хъæды мæга,,,hard
+woodpecker,хъæдхой,,,normal
+worm,уаллон,,,simple
+wryneck,къубалтил,,,normal
+yak,як,,,normal
+zander pike-perch,судак,,,hard
+zebra,зебрæ,,,simple
+zygaenidae,хъулон гæлæбу,,,hard

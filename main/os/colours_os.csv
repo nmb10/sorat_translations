@@ -1,20 +1,20 @@
-term,value
+term,value,context,context value,level
 @topic,Хуызтæ
 @author,Kazbek Byasov
-red,сырх
-blue,копрадзхуыз
-green,кæрдæгхуыз
-yellow,бур
-pink,уардихуыз
-brown,морæ
-black,сау
-white,урс
-gray,фæныкхуыз
-gold,зæрин
-silver,æвзист
-sky blue,арвхуыз
-khaki,хаки
-maroon,игæрхуыз
-violet,фиолетон
-chestnut,мыдхуыз
-orange,бурбын сырх
+black,сау,,,simple
+blue,копрадзхуыз,,,simple
+brown,морæ,,,simple
+chestnut,мыдхуыз,,,
+gold,зæрин,,,normal
+gray,фæныкхуыз,,,simple
+green,кæрдæгхуыз,,,simple
+khaki,хаки,,,normal
+maroon,игæрхуыз,,,normal
+orange,бурбын сырх,,,simple
+pink,уардихуыз,,,simple
+red,сырх,,,simple
+silver,æвзист,,,normal
+sky blue,арвхуыз,,,simple
+violet,фиолетон,,,simple
+white,урс,,,simple
+yellow,бур,,,simple

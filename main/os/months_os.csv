@@ -1,15 +1,15 @@
-term,value
+term,value,context,context value,level
 @topic,Мæйтæ
 @author,Kazbek Byasov
-january,тъæнджы мæй
-february,комахсæн
-march,комдарæн
-april,сыфтæры мæй
-may,кæрдæгы мæй
-june,кæхцгæнæн
-july,сусæны мæй
-august,майрæми куадзæни мæйæ
-september,рухæн
-october,кæфты мæй
-november,джеоргуба мæйæ
-december,цыппурс
+april,сыфтæры мæй,,,simple
+august,майрæми куадзæни мæйæ,,,simple
+december,цыппурс,,,simple
+february,комахсæн,,,simple
+january,тъæнджы мæй,,,simple
+july,сусæны мæй,,,simple
+june,кæхцгæнæн,,,simple
+march,комдарæн,,,simple
+may,кæрдæгы мæй,,,simple
+november,джеоргуба мæйæ,,,simple
+october,кæфты мæй,,,simple
+september,рухæн,,,simple

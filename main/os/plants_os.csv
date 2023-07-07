@@ -1,312 +1,312 @@
-term,value
+term,value,context,context value,level
 @topic,Зайæгойтæ
 @author,Kazbek Byasov
-apricot,абрикос
-azalea,залгъæд
-calamus,аир
-erodium,кæсагласгæрдæг
-apple quince,къомси
-acacia,акъаци
-aloe,сындздидинæг
-althaea,галысыф
-cherry-plum,æхсынцъы
-orange,апельсин
-watermelon,харбыз
-aster,астрæ
-astragalus,букъа
-labrador tea,багульник
-aubergine,баклажан
-bamboo,хурхъæз
-banana,банан
-monkey-bread,баобаб
-barberry,тырты
-marigold,бархæттæ
-begonia,бегони
-colclicum magnificent,куыдзы нуры
-henbane,къусбын
-calla,урсбазыр
-white boletus,урс зокъо
-euonymus,дзæлв
-birch,бæрз
-thistle,хæрæгсындз
-hemlock,тæкъуындела
-boletus,боровик
-cow parsnip,сæнк
-hawthorn,дурвæткъуы
-bromeliad,бромели
-cowberry,мæцкъуы
-rutabaga,урс къуымбыл
-grassy elderberry,бæрæзе
-black elderberry,фæдæгъд
-beech,тæгæр
-beetroot,джитъригæрдæг
-valerian,цъæнуд
-cornflower,æрвдидинæг
-meadowrue,бæхырагъыхос
-pussy-willow,донхæрис
-camel-thorn,теуайы сындз
-heather,вереск
-anemone,гæдыных
-grape,сæнæфсир
-cherry,адджын бал
-alga,донгæрдæг
-columbine,водосбор
-cowberry caucasian,донсаунæмыг
-caltrop,доны æхсæр
-daphne,куыдзы гага
-crow’s eye,халоны цæст
-bindweed,лывдзæг
-elm,сывылдз
-carnation,даричин
-geranium,сургæнæн
-meadow geranium,калмгæрдæг
-dahlia,картофгæрдæг
-gledichia,сæгъы сыкъа
-blueberry,къабузæг
-highlander alpine,захъайы хъоло
-lychnis,уалдзыгон æндæдзаг кæрдæг
-peas,тымбылхъæдур
-peas mouse,мысты хъæдур
-mustard,хъыцъы
-hornbeam,фатхъæд
-pomegranate,гранат
-tamarisk,ехсхъæд
-gentian,къæдзнизы хос
-buckwheat,сауфагæ
-mushrooms,зокъо
-pear,кæрдо; кæрдобæлас
-gagea,хъазы хъæдындз
-elecampane,тоблахъ
-puffball,уарыны зокъо
-melicot,донник
-oak,тулдз
-angelica,дягиль
-datura,æррагæрдæг
-clot bur,къæмдзыг
-oregam,цайгæрдæг
-melon,неси
-cocksfoot,ежа
-blackberry,саунæмыг
-spruce,наз
-jasmine,сагхъæд
-common buckthorn,сылмыртгæ
-ginseng,кæрдæгхос
-acorn,гыркъо
-honey-suckle,сæгъымæцъ
-chickweed,звездчатк
-tutsan,цæвæгхос
-strawberry,галæрыскъæф
-willow,хæрис
-smooth elm-tree,хъарман
-fig,легъуи
-iris,ирис
-marrow,кабачки
-cactus,кактус
-viburnum,мыртгæ
-marsh marigold,калужницæ
-saxifrage,камнеломкæ
-reed,хъæз
-cabbage,къабуска
-potato,картоф
-chestnut,сабæлут
-cedar,кедр
-cornel,цым
-cypress,кипарис
-shamrock,туагсыф
-clover,æртæсыфон
-palmcrist,гæбыхъæдур
-maple,тæгæр бæлас
-cranberry,туацъынæмыг
-feather grass,хæмыцырихи
-coconut,кокос
-bellflower,уиззайы сæр
-hemp,гæн
-asarum,бæхы сæфтæг
-coriander,кориандр
-mullein,галæвзаг
-brom grass,мæрхæг
-stone bramble,сыхсы
-nettle,пысыра
-garden cress watercress,дудгæ
-burnet,тугцъир
-buckthorn,бурæгъæд
-gooseberry,хъалгъæн
-egg-pod,кубышкæ
-spatter-dock,дурынгæрдæг
-corn cockle,мæгъæлда
-corn,нартхор
-haircap,гакк-гуккы гæн
-globe-flower,купальницæ
-chervil,гæнгæлы
-bay,лавр
-lily of the valley,джыджына
-cinquefoil,лапчаткæ
-quinoa,футæг
-hazel,æхсæрхъæд
-flax,гæн
-liana,лианæ
-lily,хъоппæг
-lemon,лимон
-linden,сусхъæд
-chanterelles,рувас-зокъо
-foxtail,рувас-къæдзил
-larch,сыфнæзы
-lichen,хъуынагæрдæг
-agaric honey,мæнг опёнок
-patsy,мæнтæг
-lotus,лотос
-onion,хъæдындз
-buttercup,хурхæтæны бур дидинæг
-magnolia,магноли
-poppy,зырзыраг
-raspberry,мæнæргъы
-mallow,бæгъа
-tangerine,мандарин
-arrowroot,марантæ
-madder,беу
-olive,маслинæ
-coltsfoot,дзыккайы сыф
-lungwort,медуницæ
-mimosa,мимозæ
-juniper,æхсæлы
-spurge,æхсыргæрдæг
-carrot,уырыдзы
-cloudberry,сыхсы
-moss,хъуына
-fly-agaric,бындзмар
-medlar,мугæ
-pepper-mint,битъына
-meadow grass,дзедзро
-foxglove,наперстянкæ
-narcissus,нарцисс
-touch-me-not,хъусцæг
-forget-me-not,незабудкæ
-leucanthemum,дзедзыкка
-sea-buckthorn,кæркмисындзæг
-oats,сысджы
-wild oats,згъæллаг
-cucumber,джитъри
-dandelion,къаппа-къуппа
-luzula,ожикæ
-oleander,олеандр
-alder,фæрв
-mistletoe,карчыкъах
-honey agaric,опёнок
-walnut,æнгуз
-orchid,орхидейæ
-aspen,урс гæды бæлас
-sedge,дзала
-field sowthistle,хæрæгсындз
-stonecrop,очиток
-holly,падуб
-palm,пальмæ
-fern,цилгæрдæг
-primrose,фыццагдидин
-pepper,цывзы
-black pepper,бырц
-peach tree,алтъами
-parsley,басгæрдæг
-tansy,пижма
-peony,пион
-silver fir,соцъи бæлас
-weeping willow,донхæрис
-club moss,рувасгæрдæг
-ivy,дзæгъæлдзу
-brown cap boletus,бæрзбынызокъо
-plantain,дугъысыф
-orange cap boletus,сырх зокъо
-snowdrop,малусæг
-sunflower,хурмæзил
-wormwood,скъæлдзой
-tomato,пъæмидор
-purslane,портулак
-bovista,парховкæ
-bluebell,цъæх малусæг
-millet,еуу
-pasqueflower,гом прострел
-bladder-wort,къуыллыфгæрдæг
-cotton grass,пушицæ
-wheat,мæнæу
-couch grass,цъиахгæрдæг
-broom,æ
-rhubarb,ревен
-radish,мæймæбулкъ
-summer-and-winter radish,булкъ
-bur,ичъи
-rice,пырындз
-reed mace,хъæз
-caucasian rhododendron,фугæ
-rye,хлепа
-rose,мæтæг
-camomile,æхсæнкъгæрдæг
-dew plant,росянкæ
-saffron milk cap,бурдзалыг зокъо
-mountain ash,цъуй
-duckweed,малгæрдæг
-saxaul,саксаул
-box tree,чесæ
-satan’s mushroom,сайтан-зокъо
-sugar beet,сæкæры цæхæра
-sugar cane,сæкæры хъæз
-beet,цæхæра
-dogwood,свидинæ
-bermuda grass,астымгæрдæг
-celery,маламар
-seed,æхсынæн
-lilac,сирен
-scabies,къубалæг
-plum,чылауи
-viscaria vulgaris,хуымæтæджы смолкæ
-currant,хъæлæрдзы
-movel,æ
-licorice,хуыфæджы хос
-sorgo,цъылинаг
-pine,нæзы
-soy,сойæ
-spathiphyllum,спатифилум
-sagitaria,фатсыф
-shrimp,строчок
-bittercress,сурепкæ
-sphagnum,сфагнум
-grape,сæнæфсир
-russule,уымæлхор
-stratiotes-lat,телорез
-blackthorn,какон сындз
-sloe,какон
-herd’s grass,гæдыйы дымæг
-fescue grass,типчак
-yew,заз
-caraway,цъамалæг
-poplar,гæды бæлас
-mulberry,тута бæлас
-milfoil,æрдзæсыфон
-pumpkin,нас
-tulip,тюльпан
-fennel,хъонтхора
-haricot,хъæдур
-violet,æрвдзæст
-equisetum,назгæрдæг
-cotton plant,бæмбæджы къудзи
-chlorophytum,хлорофитум
-hop,хуымæллæг
-horse radish,туттургъан
-chrysanthemum,хризантемæ
-persimmon,хурма
-sage,арæнгæрдæг
-champignon field,тамазокъо
-briar,уагъылы
-cone,къуызыр
-dock,хуырхæг
-hellebore,кæндыс
-wild leek,скъуда
-bird cherry,къæбырттæг
-garlic,нуры
-lentil,лыстæг хъæдур
-celandine,чехаг сырхыхос
-eucalyptus,эвкалипт
-apple,фæткъуы
-apple tree,фæткъуыбæлас
-ash tree,кæрз
-woodruff,ясменник
-orchis,æнæзæнæджыхос
-barley,хъæбæрхор
+acacia,акъаци,,,simple
+acorn,гыркъо,,,normal
+agaric honey,мæнг опёнок,,,hard
+alder,фæрв,,,normal
+alga,донгæрдæг,,,simple
+aloe,сындздидинæг,,,normal
+althaea,галысыф,,,hard
+anemone,гæдыных,,,hard
+angelica,дягиль,,,hard
+apple,фæткъуы,,,simple
+apple quince,къомси,,,simple
+apple tree,фæткъуыбæлас,,,simple
+apricot,абрикос,,,simple
+arrowroot,марантæ,,,hard
+asarum,бæхы сæфтæг,,,hard
+ash tree,кæрз,,,normal
+aspen,урс гæды бæлас,,,normal
+aster,астрæ,,,normal
+astragalus,букъа,,,normal
+aubergine,баклажан,,,simple
+azalea,залгъæд,,,normal
+bamboo,хурхъæз,,,simple
+banana,банан,,,simple
+barberry,тырты,,,normal
+barley,хъæбæрхор,,,normal
+bay,лавр,,,normal
+beech,тæгæр,,,normal
+beet,цæхæра,,,simple
+beetroot,джитъригæрдæг,,,hard
+begonia,бегони,,,hard
+bellflower,уиззайы сæр,,,normal
+bermuda grass,астымгæрдæг,,,hard
+bindweed,лывдзæг,,,normal
+birch,бæрз,,,simple
+bird cherry,къæбырттæг,,,normal
+bittercress,сурепкæ,,,hard
+black elderberry,фæдæгъд,,,hard
+black pepper,бырц,,,normal
+blackberry,саунæмыг,,,normal
+blackthorn,какон сындз,,,normal
+bladder-wort,къуыллыфгæрдæг,,,hard
+bluebell,цъæх малусæг,,,hard
+blueberry,къабузæг,,,normal
+boletus,боровик,,,normal
+bovista,парховкæ,,,hard
+box tree,чесæ,,,simple
+briar,уагъылы,,,simple
+brom grass,мæрхæг,,,hard
+bromeliad,бромели,,,hard
+broom,æ,,,hard
+brown cap boletus,бæрзбынызокъо,,,normal
+buckthorn,бурæгъæд,,,hard
+buckwheat,сауфагæ,,,normal
+bur,ичъи,,,normal
+burnet,тугцъир,,,hard
+buttercup,хурхæтæны бур дидинæг,,,normal
+cabbage,къабуска,,,simple
+cactus,кактус,,,simple
+calamus,аир,,,hard
+calla,урсбазыр,,,hard
+caltrop,доны æхсæр,,,hard
+camel-thorn,теуайы сындз,,,normal
+camomile,æхсæнкъгæрдæг,,,simple
+caraway,цъамалæг,,,normal
+carnation,даричин,,,normal
+carrot,уырыдзы,,,simple
+caucasian rhododendron,фугæ,,,hard
+cedar,кедр,,,normal
+celandine,чехаг сырхыхос,,,normal
+celery,маламар,,,normal
+champignon field,тамазокъо,,,normal
+chanterelles,рувас-зокъо,,,normal
+cherry,адджын бал,,,simple
+cherry-plum,æхсынцъы,,,normal
+chervil,гæнгæлы,,,hard
+chestnut,сабæлут,,,simple
+chickweed,звездчатк,,,hard
+chlorophytum,хлорофитум,,,hard
+chrysanthemum,хризантемæ,,,normal
+cinquefoil,лапчаткæ,,,hard
+clot bur,къæмдзыг,,,hard
+cloudberry,сыхсы,,,hard
+clover,æртæсыфон,,,normal
+club moss,рувасгæрдæг,,,hard
+cocksfoot,ежа,,,hard
+coconut,кокос,,,simple
+colclicum magnificent,куыдзы нуры,,,hard
+coltsfoot,дзыккайы сыф,,,normal
+columbine,водосбор,,,hard
+common buckthorn,сылмыртгæ,,,hard
+cone,къуызыр,,,simple
+coriander,кориандр,,,normal
+corn,нартхор,,,simple
+corn cockle,мæгъæлда,,,hard
+cornel,цым,,,simple
+cornflower,æрвдидинæг,,,normal
+cotton grass,пушицæ,,,hard
+cotton plant,бæмбæджы къудзи,,,normal
+couch grass,цъиахгæрдæг,,,normal
+cow parsnip,сæнк,,,hard
+cowberry,мæцкъуы,,,normal
+cowberry caucasian,донсаунæмыг,,,hard
+cranberry,туацъынæмыг,,,normal
+crow’s eye,халоны цæст,,,hard
+cucumber,джитъри,,,simple
+currant,хъæлæрдзы,,,simple
+cypress,кипарис,,,normal
+dahlia,картофгæрдæг,,,hard
+dandelion,къаппа-къуппа,,,simple
+daphne,куыдзы гага,,,hard
+datura,æррагæрдæг,,,normal
+dew plant,росянкæ,,,normal
+dock,хуырхæг,,,normal
+dogwood,свидинæ,,,hard
+duckweed,малгæрдæг,,,normal
+egg-pod,кубышкæ,,,hard
+elecampane,тоблахъ,,,hard
+elm,сывылдз,,,normal
+equisetum,назгæрдæг,,,normal
+erodium,кæсагласгæрдæг,,,hard
+eucalyptus,эвкалипт,,,normal
+euonymus,дзæлв,,,hard
+feather grass,хæмыцырихи,,,normal
+fennel,хъонтхора,,,simple
+fern,цилгæрдæг,,,simple
+fescue grass,типчак,,,hard
+field sowthistle,хæрæгсындз,,,hard
+fig,легъуи,,,simple
+flax,гæн,,,normal
+fly-agaric,бындзмар,,,simple
+forget-me-not,незабудкæ,,,normal
+foxglove,наперстянкæ,,,hard
+foxtail,рувас-къæдзил,,,hard
+gagea,хъазы хъæдындз,,,hard
+garden cress watercress,дудгæ,,,normal
+garlic,нуры,,,simple
+gentian,къæдзнизы хос,,,hard
+geranium,сургæнæн,,,normal
+ginseng,кæрдæгхос,,,hard
+gledichia,сæгъы сыкъа,,,hard
+globe-flower,купальницæ,,,hard
+gooseberry,хъалгъæн,,,simple
+grape,сæнæфсир,,,simple
+grape,сæнæфсир,,,simple
+grassy elderberry,бæрæзе,,,hard
+haircap,гакк-гуккы гæн,,,hard
+haricot,хъæдур,,,simple
+hawthorn,дурвæткъуы,,,hard
+hazel,æхсæрхъæд,,,normal
+heather,вереск,,,normal
+hellebore,кæндыс,,,hard
+hemlock,тæкъуындела,,,hard
+hemp,гæн,,,normal
+henbane,къусбын,,,hard
+herd’s grass,гæдыйы дымæг,,,normal
+highlander alpine,захъайы хъоло,,,hard
+holly,падуб,,,hard
+honey agaric,опёнок,,,hard
+honey-suckle,сæгъымæцъ,,,normal
+hop,хуымæллæг,,,normal
+hornbeam,фатхъæд,,,normal
+horse radish,туттургъан,,,normal
+iris,ирис,,,normal
+ivy,дзæгъæлдзу,,,normal
+jasmine,сагхъæд,,,normal
+juniper,æхсæлы,,,normal
+labrador tea,багульник,,,normal
+larch,сыфнæзы,,,normal
+lemon,лимон,,,simple
+lentil,лыстæг хъæдур,,,normal
+leucanthemum,дзедзыкка,,,hard
+liana,лианæ,,,normal
+lichen,хъуынагæрдæг,,,hard
+licorice,хуыфæджы хос,,,hard
+lilac,сирен,,,simple
+lily,хъоппæг,,,simple
+lily of the valley,джыджына,,,normal
+linden,сусхъæд,,,normal
+lotus,лотос,,,normal
+lungwort,медуницæ,,,hard
+luzula,ожикæ,,,hard
+lychnis,уалдзыгон æндæдзаг кæрдæг,,,hard
+madder,беу,,,hard
+magnolia,магноли,,,normal
+mallow,бæгъа,,,hard
+maple,тæгæр бæлас,,,normal
+marigold,бархæттæ,,,hard
+marrow,кабачки,,,simple
+marsh marigold,калужницæ,,,hard
+meadow geranium,калмгæрдæг,,,hard
+meadow grass,дзедзро,,,normal
+meadowrue,бæхырагъыхос,,,hard
+medlar,мугæ,,,normal
+melicot,донник,,,hard
+melon,неси,,,simple
+milfoil,æрдзæсыфон,,,normal
+millet,еуу,,,normal
+mimosa,мимозæ,,,normal
+mistletoe,карчыкъах,,,hard
+monkey-bread,баобаб,,,normal
+moss,хъуына,,,simple
+mountain ash,цъуй,,,normal
+movel,æ,,,normal
+mulberry,тута бæлас,,,normal
+mullein,галæвзаг,,,hard
+mushrooms,зокъо,,,simple
+mustard,хъыцъы,,,normal
+narcissus,нарцисс,,,simple
+nettle,пысыра,,,simple
+oak,тулдз,,,simple
+oats,сысджы,,,normal
+oleander,олеандр,,,hard
+olive,маслинæ,,,normal
+onion,хъæдындз,,,simple
+orange,апельсин,,,simple
+orange cap boletus,сырх зокъо,,,normal
+orchid,орхидейæ,,,normal
+orchis,æнæзæнæджыхос,,,hard
+oregam,цайгæрдæг,,,normal
+palm,пальмæ,,,simple
+palmcrist,гæбыхъæдур,,,hard
+parsley,басгæрдæг,,,simple
+pasqueflower,гом прострел,,,hard
+patsy,мæнтæг,,,simple
+peach tree,алтъами,,,simple
+pear,кæрдо; кæрдобæлас,,,simple
+peas,тымбылхъæдур,,,simple
+peas mouse,мысты хъæдур,,,hard
+peony,пион,,,normal
+pepper,цывзы,,,simple
+pepper-mint,битъына,,,normal
+persimmon,хурма,,,simple
+pine,нæзы,,,simple
+plantain,дугъысыф,,,simple
+plum,чылауи,,,simple
+pomegranate,гранат,,,simple
+poplar,гæды бæлас,,,simple
+poppy,зырзыраг,,,normal
+potato,картоф,,,simple
+primrose,фыццагдидин,,,hard
+puffball,уарыны зокъо,,,hard
+pumpkin,нас,,,simple
+purslane,портулак,,,hard
+pussy-willow,донхæрис,,,simple
+quinoa,футæг,,,normal
+radish,мæймæбулкъ,,,simple
+raspberry,мæнæргъы,,,simple
+reed,хъæз,,,normal
+reed mace,хъæз,,,simple
+rhubarb,ревен,,,hard
+rice,пырындз,,,simple
+rose,мæтæг,,,simple
+russule,уымæлхор,,,hard
+rutabaga,урс къуымбыл,,,hard
+rye,хлепа,,,normal
+saffron milk cap,бурдзалыг зокъо,,,hard
+sage,арæнгæрдæг,,,normal
+sagitaria,фатсыф,,,hard
+satan’s mushroom,сайтан-зокъо,,,normal
+saxaul,саксаул,,,hard
+saxifrage,камнеломкæ,,,hard
+scabies,къубалæг,,,hard
+sea-buckthorn,кæркмисындзæг,,,normal
+sedge,дзала,,,normal
+seed,æхсынæн,,,simple
+shamrock,туагсыф,,,hard
+shrimp,строчок,,,hard
+silver fir,соцъи бæлас,,,normal
+sloe,какон,,,normal
+smooth elm-tree,хъарман,,,normal
+snowdrop,малусæг,,,simple
+sorgo,цъылинаг,,,normal
+soy,сойæ,,,normal
+spathiphyllum,спатифилум,,,hard
+spatter-dock,дурынгæрдæг,,,normal
+sphagnum,сфагнум,,,hard
+spruce,наз,,,simple
+spurge,æхсыргæрдæг,,,hard
+stone bramble,сыхсы,,,hard
+stonecrop,очиток,,,hard
+stratiotes-lat,телорез,,,hard
+strawberry,галæрыскъæф,,,simple
+sugar beet,сæкæры цæхæра,,,normal
+sugar cane,сæкæры хъæз,,,normal
+summer-and-winter radish,булкъ,,,simple
+sunflower,хурмæзил,,,simple
+tamarisk,ехсхъæд,,,hard
+tangerine,мандарин,,,simple
+tansy,пижма,,,hard
+thistle,хæрæгсындз,,,normal
+tomato,пъæмидор,,,simple
+touch-me-not,хъусцæг,,,hard
+tulip,тюльпан,,,simple
+tutsan,цæвæгхос,,,normal
+valerian,цъæнуд,,,hard
+viburnum,мыртгæ,,,normal
+violet,æрвдзæст,,,simple
+viscaria vulgaris,хуымæтæджы смолкæ,,,hard
+walnut,æнгуз,,,simple
+watermelon,харбыз,,,simple
+weeping willow,донхæрис,,,normal
+wheat,мæнæу,,,simple
+white boletus,урс зокъо,,,normal
+wild leek,скъуда,,,normal
+wild oats,згъæллаг,,,normal
+willow,хæрис,,,simple
+woodruff,ясменник,,,hard
+wormwood,скъæлдзой,,,normal
+yew,заз,,,normal

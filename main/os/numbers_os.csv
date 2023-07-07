@@ -1,27 +1,27 @@
-term,value
+term,value,context,context value,level
 @topic,Нымæцтæ
 @author,Kazbek Byasov
-zero,ноль
-one,иу
-two,дууæ
-three,æртæ
-four,цыппар
-five,фондз
-six,æхсæз
-seven,авд
-eight,аст
-nine,фараст
-ten,дæс
-eleven,иуæндæс
-twelve,дууадæс
-thirteen,æртындæс
-fourteen,цыппæрдæс
-fifteen,фынддæс
-sixteen,æхсæрдæс
-seventeen,æвддæс
-eighteen,æсддæс
-nineteen,нудæс
-twenty,ссæдз
-one hundred,сæдæ
-one thousand,мин
-one million,милуан
+eight,аст,,,simple
+eighteen,æсддæс,,,normal
+eleven,иуæндæс,,,normal
+fifteen,фынддæс,,,normal
+five,фондз,,,simple
+four,цыппар,,,simple
+fourteen,цыппæрдæс,,,normal
+nine,фараст,,,simple
+nineteen,нудæс,,,normal
+one,иу,,,simple
+one hundred,сæдæ,,,normal
+one million,милуан,,,normal
+one thousand,мин,,,normal
+seven,авд,,,simple
+seventeen,æвддæс,,,normal
+six,æхсæз,,,simple
+sixteen,æхсæрдæс,,,normal
+ten,дæс,,,simple
+thirteen,æртындæс,,,normal
+three,æртæ,,,simple
+twelve,дууадæс,,,normal
+twenty,ссæдз,,,normal
+two,дууæ,,,simple
+zero,ноль,,,simple
