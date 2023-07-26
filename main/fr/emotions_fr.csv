@@ -1,0 +1,15 @@
+term,value,context,context value,level
+@topic,Émotions,,,
+@author,Kazbek Byasov,,,
+anger,colère,,,simple
+contempt,le mépris,,,simple
+disgust,dégoût,,,simple
+fear,peur,,,simple
+guilt,culpabilité,,,simple
+hostility,hostilité,,,simple
+interest,intérêt,,,simple
+joy,joie,,,simple
+sadness,tristesse,,,simple
+shame,honte,,,simple
+shyness,timidité,,,simple
+surprise,surprise,,,normal

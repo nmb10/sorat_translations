@@ -1,0 +1,26 @@
+term,value,context,context value,level
+@topic,Motions,,,
+@author,Kazbek Byasov,,,
+amble,amble,,,hard
+bounce,rebondir,,,normal
+bump,cogner,,,simple
+dance,danser,,,simple
+dart,dart,,,normal
+jog,jogger,,,normal
+laugh,rire,,,simple
+limp,boiter,,,simple
+lope,lope,,,normal
+roll,rouler,,,simple
+run,courir,,,simple
+saunter,se déplacer,,,normal
+scamper,se déplacer,,,normal
+scurry,se précipiter,,,normal
+spin,tourner,,,normal
+stagger,tituber,,,normal
+strut,se pavaner,,,hard
+swagger,swagger,,,hard
+sway,se balancer,,,simple
+tiptoe,se mettre sur la pointe des pieds,,,simple
+traipse,traipse,,,normal
+walk,marcher,,,simple
+work,travailler,,,simple

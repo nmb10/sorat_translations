@@ -1,0 +1,64 @@
+term,value,context,context value,level
+@topic,Le Corps,,,
+@author,Kazbek Byasov,,,
+abdomen,abdomen,,,simple
+ankle,cheville,,,hard
+arm,bras,,,simple
+armpit,aisselle,,,normal
+back,dos,,,simple
+ball,boule,,,normal
+beard,barbe,,,normal
+big toe,gros orteil,,,simple
+brain,cerveau,,,normal
+buttocks,fesses,,,normal
+calf,mollet,,,normal
+cheek,joue,,,simple
+chest,poitrine,,,simple
+chin,menton,,,simple
+ear,oreille,,,simple
+elbow,coude,,,simple
+esophagus,œsophage,,,hard
+eyebrow,sourcil,,,normal
+eyelashes,cils,,,normal
+eyelid,paupière,,,normal
+face,visage,,,simple
+fingernail,ongle,,,simple
+forearm,avant-bras,,,normal
+forehead,front,,,simple
+hair,cheveu,,,simple
+heel,talon,,,normal
+hip,hanche,,,normal
+index finger,index,,,simple
+instep,cou-de-pied,,,normal
+iris,iris,,,hard
+jaw,mâchoire,,,normal
+knee,genou,,,simple
+knuckle,genou,,,hard
+leg,jambe,,,simple
+lip,lèvre,,,simple
+little finger,petit doigt,,,simple
+little toe,petit orteil,,,simple
+middle finger,majeur,,,simple
+mouth,bouche,,,simple
+mustache,moustache,,,normal
+neck,cou,,,simple
+nose,nez,,,simple
+nostril,narine,,,hard
+palm,paume,,,simple
+part,partie,,,normal
+pupil,pupille,,,hard
+ring finger,annulaire,,,simple
+shoulder,épaule,,,simple
+sideburn,patte d'oie,,,hard
+spinal cord,moelle épinière,,,hard
+thigh,cuisse,,,normal
+throat,gorge,,,hard
+thumb,pouce,,,simple
+toe,orteil,,,simple
+toenail,ongle d'orteil,,,simple
+tongue,langue,,,simple
+tooth,dent,,,simple
+upper arm,bras,,,simple
+waist,taille,,,hard
+windpipe,trachée,,,hard
+wrist,poignet,,,hard

@@ -1,0 +1,312 @@
+term,value,context,context value,level
+@topic,Plantes,,,
+@author,Kazbek Byasov,,,
+acacia,acacia,,,simple
+acorn,gland,,,normal
+agaric honey,agaric miel,,,hard
+alder,aulne,,,normal
+alga,algue,,,simple
+aloe,aloès,,,normal
+althaea,althéa,,,hard
+anemone,anémone,,,hard
+angelica,angélique,,,hard
+apple,pomme,,,simple
+apple quince,pomme coing,,,simple
+apple tree,pommier,,,simple
+apricot,abricot,,,simple
+arrowroot,arrowroot (racine de flèche),,,hard
+asarum,asarum,,,hard
+ash tree,frêne,,,normal
+aspen,tremble,,,normal
+aster,aster,,,normal
+astragalus,astragale,,,normal
+aubergine,aubergine,,,simple
+azalea,azalée,,,normal
+bamboo,bambou,,,simple
+banana,banane,,,simple
+barberry,épine-vinette,,,normal
+barley,orge,,,normal
+bay,laurier,,,normal
+beech,hêtre,,,normal
+beet,betterave,,,simple
+beetroot,betterave,,,hard
+begonia,bégonia,,,hard
+bellflower,giroflée,,,normal
+bermuda grass,bermuda,,,hard
+bindweed,liseron,,,normal
+birch,bouleau,,,simple
+bird cherry,cerisier des oiseaux,,,normal
+bittercress,cresson de fontaine,,,hard
+black elderberry,sureau noir,,,hard
+black pepper,poivre noir,,,normal
+blackberry,mûre,,,normal
+blackthorn,prunellier,,,normal
+bladder-wort,berceau de l'eau,,,hard
+bluebell,myrtille,,,hard
+blueberry,bleuet,,,normal
+boletus,bolet,,,normal
+bovista,boviste,,,hard
+box tree,buis,,,simple
+briar,bruyère,,,simple
+brom grass,bromure d'orge,,,hard
+bromeliad,broméliade,,,hard
+broom,genêt,,,hard
+brown cap boletus,bolet à calotte brune,,,normal
+buckthorn,sarrasin,,,hard
+buckwheat,sarrasin,,,normal
+bur,bûcher,,,normal
+burnet,pimprenelle,,,hard
+buttercup,renoncule,,,normal
+cabbage,chou,,,simple
+cactus,cactus,,,simple
+calamus,calame,,,hard
+calla,calla,,,hard
+caltrop,caltrop,,,hard
+camel-thorn,épine de chameau,,,normal
+camomile,camomille,,,simple
+caraway,carvi,,,normal
+carnation,œillet,,,normal
+carrot,carotte,,,simple
+caucasian rhododendron,rhododendron caucasien,,,hard
+cedar,cèdre,,,normal
+celandine,célandine,,,normal
+celery,céleri,,,normal
+champignon field,champignon,,,normal
+chanterelles,girolles,,,normal
+cherry,cerise,,,simple
+cherry-plum,cerise-prune,,,normal
+chervil,cerfeuil,,,hard
+chestnut,châtaigne,,,simple
+chickweed,gaillet gratteron,,,hard
+chlorophytum,chlorophytum,,,hard
+chrysanthemum,chrysanthème,,,normal
+cinquefoil,quintefeuille,,,hard
+clot bur,chrysanthème à feuilles étroites,,,hard
+cloudberry,chrysanthème,,,hard
+clover,trèfle,,,normal
+club moss,trèfle d'Amérique,,,hard
+cocksfoot,dactyle,,,hard
+coconut,cocotier,,,simple
+colclicum magnificent,colclicum magnifique,,,hard
+coltsfoot,tussilage,,,normal
+columbine,colombo,,,hard
+common buckthorn,nerprun commun,,,hard
+cone,cône,,,simple
+coriander,coriandre,,,normal
+corn,berceau,,,simple
+corn cockle,corneille d'abondance,,,hard
+cornel,corne d'abondance,,,simple
+cornflower,corneille,,,normal
+cotton grass,coton,,,hard
+cotton plant,le cotonéaster,,,normal
+couch grass,chiendent,,,normal
+cow parsnip,berceau de l'homme,,,hard
+cowberry,berceau,,,normal
+cowberry caucasian,berceau caucasien,,,hard
+cranberry,canneberge,,,normal
+crow’s eye,oeil de biche,,,hard
+cucumber,concombre,,,simple
+currant,groseille à maquereau,,,simple
+cypress,cyprès,,,normal
+dahlia,dahlia,,,hard
+dandelion,pissenlit,,,simple
+daphne,daphné,,,hard
+datura,datura,,,normal
+dew plant,datura,,,normal
+dock,dock,,,normal
+dogwood,cornouiller,,,hard
+duckweed,daphné,,,normal
+egg-pod,gousse d'œuf,,,hard
+elecampane,aunée,,,hard
+elm,orme,,,normal
+equisetum,équisetum,,,normal
+erodium,érodium,,,hard
+eucalyptus,eucalyptus,,,normal
+euonymus,euonymus,,,hard
+feather grass,herbe à plumes,,,normal
+fennel,fenouil,,,simple
+fern,fougère,,,simple
+fescue grass,fétuque,,,hard
+field sowthistle,laiteron des champs,,,hard
+fig,figue,,,simple
+flax,lin,,,normal
+fly-agaric,mouche du coche,,,simple
+forget-me-not,myosotis,,,normal
+foxglove,giroflée,,,hard
+foxtail,sétaire,,,hard
+gagea,gagea,,,hard
+garden cress watercress,cresson de terre cresson de fontaine,,,normal
+garlic,ail,,,simple
+gentian,gentiane,,,hard
+geranium,géranium,,,normal
+ginseng,ginseng,,,hard
+gledichia,gledichia,,,hard
+globe-flower,giroflée,,,hard
+gooseberry,groseille à maquereau,,,simple
+grape,raisin,,,simple
+grape,raisin,,,simple
+grassy elderberry,sureau herbacé,,,hard
+haircap,brosse à reluire,,,hard
+haricot,haricot,,,simple
+hawthorn,aubépine,,,hard
+hazel,noisetier,,,normal
+heather,bruyère,,,normal
+hellebore,hellébore,,,hard
+hemlock,ciguë,,,hard
+hemp,chanvre,,,normal
+henbane,cigüe,,,hard
+herd’s grass,herbe aux bergers,,,normal
+highlander alpine,alpiste des hauts plateaux,,,hard
+holly,houx,,,hard
+honey agaric,agaric,,,hard
+honey-suckle,chèvrefeuille,,,normal
+hop,houblon,,,normal
+hornbeam,charme,,,normal
+horse radish,radis de cheval,,,normal
+iris,iris,,,normal
+ivy,lierre,,,normal
+jasmine,jasmin,,,normal
+juniper,genévrier,,,normal
+labrador tea,thé du labrador,,,normal
+larch,mélèze,,,normal
+lemon,citron,,,simple
+lentil,lentille,,,normal
+leucanthemum,leucanthème,,,hard
+liana,liane,,,normal
+lichen,lichen,,,hard
+licorice,réglisse,,,hard
+lilac,lilas,,,simple
+lily,lys,,,simple
+lily of the valley,muguet,,,normal
+linden,tilleul,,,normal
+lotus,lotus,,,normal
+lungwort,pulmonaire,,,hard
+luzula,luzule,,,hard
+lychnis,lychnis,,,hard
+madder,garance,,,hard
+magnolia,magnolia,,,normal
+mallow,mauve,,,hard
+maple,érable,,,normal
+marigold,marigold,,,hard
+marrow,courge,,,simple
+marsh marigold,géranium des marais,,,hard
+meadow geranium,géranium des prés,,,hard
+meadow grass,géranium des prés,,,normal
+meadowrue,géranium des prés,,,hard
+medlar,nèfle,,,normal
+melicot,melon,,,hard
+melon,melon,,,simple
+milfoil,millet,,,normal
+millet,millet,,,normal
+mimosa,mimosa,,,normal
+mistletoe,gui,,,hard
+monkey-bread,pain de singe,,,normal
+moss,mousse,,,simple
+mountain ash,sorbier,,,normal
+movel,movel,,,normal
+mulberry,mûre,,,normal
+mullein,molène,,,hard
+mushrooms,champignons,,,simple
+mustard,moutarde,,,normal
+narcissus,narcisse,,,simple
+nettle,ortie,,,simple
+oak,chêne,,,simple
+oats,avoine,,,normal
+oleander,laurier-rose,,,hard
+olive,olive,,,normal
+onion,oignon,,,simple
+orange,orange,,,simple
+orange cap boletus,bolet à chapeau orange,,,normal
+orchid,orchidée,,,normal
+orchis,orchis,,,hard
+oregam,oregam,,,normal
+palm,palmier,,,simple
+palmcrist,palmiste,,,hard
+parsley,persil,,,simple
+pasqueflower,pasqueflower,,,hard
+patsy,patsy,,,simple
+peach tree,pêcher,,,simple
+pear,poire,,,simple
+peas,pois,,,simple
+peas mouse,pois souris,,,hard
+peony,pivoine,,,normal
+pepper,poivre,,,simple
+pepper-mint,poivre-menthe,,,normal
+persimmon,kaki,,,simple
+pine,pin,,,simple
+plantain,plantain,,,simple
+plum,prune,,,simple
+pomegranate,grenadier,,,simple
+poplar,peuplier,,,simple
+poppy,coquelicot,,,normal
+potato,pomme de terre,,,simple
+primrose,primevère,,,hard
+puffball,pomme de terre,,,hard
+pumpkin,citrouille,,,simple
+purslane,pourpier,,,hard
+pussy-willow,saule à feuilles étroites,,,simple
+quinoa,quinoa,,,normal
+radish,radis,,,simple
+raspberry,framboise,,,simple
+reed,roseau,,,normal
+reed mace,roseau macis,,,simple
+rhubarb,rhubarbe,,,hard
+rice,riz,,,simple
+rose,rose,,,simple
+russule,russule,,,hard
+rutabaga,rutabaga,,,hard
+rye,seigle,,,normal
+saffron milk cap,lait safrané,,,hard
+sage,sauge,,,normal
+sagitaria,sagittaire,,,hard
+satan’s mushroom,champignon de satan,,,normal
+saxaul,saxule,,,hard
+saxifrage,saxifrage,,,hard
+scabies,gale,,,hard
+sea-buckthorn,argousier,,,normal
+sedge,laîche,,,normal
+seed,graine,,,simple
+shamrock,trèfle,,,hard
+shrimp,crevette,,,hard
+silver fir,sapin d'argent,,,normal
+sloe,prunelle,,,normal
+smooth elm-tree,orme lisse,,,normal
+snowdrop,chrysanthème,,,simple
+sorgo,sorgo,,,normal
+soy,soja,,,normal
+spathiphyllum,spathiphyllum,,,hard
+spatter-dock,spathiphyllum,,,normal
+sphagnum,sphaigne,,,hard
+spruce,épinette,,,simple
+spurge,épeautre,,,hard
+stone bramble,ronce de pierre,,,hard
+stonecrop,orpin,,,hard
+stratiotes-lat,stratiotes-lat,,,hard
+strawberry,fraise,,,simple
+sugar beet,betterave à sucre,,,normal
+sugar cane,canne à sucre,,,normal
+summer-and-winter radish,radis d'été et d'hiver,,,simple
+sunflower,tournesol,,,simple
+tamarisk,tamaris,,,hard
+tangerine,mandarine,,,simple
+tansy,tanaisie,,,hard
+thistle,chardon,,,normal
+tomato,tomate,,,simple
+touch-me-not,tulipe,,,hard
+tulip,tulipe,,,simple
+tutsan,tutsan,,,normal
+valerian,valériane,,,hard
+viburnum,viorne,,,normal
+violet,violette,,,simple
+viscaria vulgaris,viscaria vulgaris,,,hard
+walnut,noyer,,,simple
+watermelon,melon d'eau,,,simple
+weeping willow,saule pleureur,,,normal
+wheat,blé,,,simple
+white boletus,bolet blanc,,,normal
+wild leek,ail des bois,,,normal
+wild oats,avoine sauvage,,,normal
+willow,saule,,,simple
+woodruff,aspérule,,,hard
+wormwood,armoise,,,normal
+yew,if,,,normal

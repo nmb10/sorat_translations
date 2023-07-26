@@ -1,0 +1,23 @@
+term,value,context,context value,level
+@topic,Personnes.Famille,,,
+@author,Kazbek Byasov,,,
+baby,bébé,,,simple
+boy,garçon,,,simple
+bride,mariée,,,simple
+brothers,frères,,,simple
+children,enfants,,,simple
+daughter,fille,,,simple
+family,famille,,,simple
+father,père,,,simple
+girl,fille,,,simple
+grandfather,grand-père,,,simple
+grandmother,grand-mère,,,simple
+groom,marié,,,normal
+husband,mari,,,normal
+man,homme,,,simple
+mother,mère,,,simple
+parents,parents,,,simple
+son,fils,,,simple
+twins,jumeaux,,,normal
+wife,femme,,,normal
+woman,femme,,,simple
