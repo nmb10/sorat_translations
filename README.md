@@ -2,15 +2,15 @@
 
 ## Contribute
 
-### en, ru, os, dig translations
+### En, ru, os, dig translations
 Create an issue with suggested fix. The issue should contain topic, english term and suggested local term.
 
-### other languages
+### Other languages
 
-Fork the repo
+- Fork the repo
 
-Change existing term or add new translation
+- Change existing term or add new translation
 
-Create PR
+- Create PR
 
 Note: fixing existing translations or adding new translations does not require image or gif, but for new english terms, the image/gif is a must.
