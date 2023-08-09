@@ -1,0 +1,24 @@
+term,value,context,context value,level
+@topic,Бонигъæдæ,,,
+@author,Byasov Kazbek,,,
+@author.local,Биасти Георги фурт Хъазибег,,,
+winter,зумæг,season,афонæ,simple
+spring,уалдзæг,season,афонæ,simple
+summer,сæрдæ,season,афонæ,simple
+autumn,фæззæг,season,афонæ,simple
+cloudy,мегъгун,,,normal
+cold,уазал,,,simple
+cool,сатæг,,,normal
+dry,сор,,,simple
+foggy,мегъæ,,,simple
+freezing,гъизт,,,simple
+icy,ех,,,normal
+hot,тæвдæ,,,simple
+rainy,уарун,,,simple
+snowy,мет,,,simple
+sunny,хоргун,,,simple
+temperature,температура,,,normal
+thermometer,тæвдæбарæн,,,hard
+warm,гъар,,,simple
+wet,уомæл,,,normal
+windy,дунгæ,,,normal
