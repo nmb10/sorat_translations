@@ -239,7 +239,7 @@ refugee,мухадзир,,,hard
 revolver,гобедза,,,normal
 right,рахез,,,simple
 road,над,,,simple
-rock,дур,,,simple
+rock,дор,,,simple
 roller,наднæмæн,,,hard
 root,уедагæ,,,simple
 rope,суйнаг,,,simple
@@ -344,3 +344,64 @@ wooden bed,урундухъ,,,normal
 wooden chain,самакъа,,,hard
 wrong,æнарæст,,,normal
 yawn,хомбериндзæ,,,simple
+shoehorn,къелгæнæн,,,normal
+clew,къубулойнæ,,,normal
+hunchbacked,къупсуйнæ,,,hard
+coast,билгон,,,hard
+wheelbarrow,билбар,,,simple
+gurgling,хæбал-хубул,,,normal
+feed,хацун,,,simple
+stair,хъæпхæн,,,simple
+degree,хъæпхæн,,,hard
+turbine,зутъи,,,hard
+boulder,зурæдор,,,normal
+burka,гæлдеу,,,normal
+poor fellow,гæллæха,,,simple
+please,гæллæха,,,simple
+hut,уосонгæ,,,normal
+weariness,уæгæ,,,normal
+firewood,хора,,,normal
+neck,хопъалæ,,,simple
+carpet,горцъе,,,simple
+wood bowl,горда,,,normal
+saber,горда,,,normal
+ploughshare,госли,,,normal
+plough,готон,,,normal
+furrow,готонвæд,,,normal
+furrow,готондзæф,,,normal
+creamer,гоцъона,,,normal
+forelock,гоцъора,,,normal
+ice rink,гурæн,,,normal
+shaver,далакъи,,,normal
+crowbar,дорсæттæн,,,normal
+caviar,еугæф,,,normal
+compass,керта,,,normal
+fortress,кесена,,,normal
+top,кинæ,,,simple
+crane,кипхæ,,,normal
+hope chest,кирæ,,,normal
+cap,кобса,,,hard
+gates,колдуар,,,simple
+kefir,кундурсу,,,normal
+slurry,лæхъерæ,,,hard
+раствор,лæхудзæ,,,hard
+sawmill,лухсуадзæн,,,normal
+medal,майдан,,,simple
+lunar eclipse,мæйхуар,,,hard
+solar eclipse,хордалингæ,,,hard
+choke,хорх кæнун,,,normal
+drought,хорфæлтæр,,,hard
+sink,хехснæн,,,hard
+touchstone,хердзæ,,,hard
+tandoor,хегæ,,,hard
+pipe,хæтæл,,,simple
+rifle,хæтæл,,,normal
+cane,хæтæл,,,hard
+heap,хæрхæ,,,normal
+sawdust,хæлхъæ,,,normal
+egg without shell,хæлцойнæ,,,normal
+shopping bag,хæлцойнæ,,,normal
+rake,пахса,,,simple
+propeller,пернæ,,,simple
+resin,песе,,,hard
+bast shoes,бундзартæ,,,normal
