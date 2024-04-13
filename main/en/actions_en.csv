@@ -1,0 +1,72 @@
+term,value,context,context value,level
+@author,Kazbek Byasov,,,
+@topic,Motions,,,
+amble,amble,,,hard
+bounce,bounce,,,normal
+break,break,,,simple
+bump,bump,,,simple
+cartwheel,cartwheel,,,hard
+catch,catch,,,simple
+clap,clap,,,normal
+cook,cook,,,simple
+crawl,crawl,,,normal
+cry,cry,,,simple
+dance,dance,,,simple
+dart,dart,,,normal
+do exercise,do exercise,,,normal
+drag,drag,,,simple
+drink,drink,,,simple
+drop,drop,,,simple
+eat,eat,,,simple
+get up,get up,,,simple
+hit,hit,,,simple
+jog,jog,,,normal
+kick,kick,,,simple
+kiss,kiss,,,simple
+laugh,laugh,,,simple
+lie down,lie down,,,normal
+limp,limp,,,simple
+listen,listen,,,simple
+look,look,,,simple
+lope,lope,,,normal
+march,march,,,normal
+open,open,,,simple
+pick up,pick up,,,simple
+point,point,,,normal
+pour,pour,,,simple
+pull,pull,,,simple
+punch,punch,,,simple
+push,push,,,simple
+put down,put down,,,simple
+read,read,,,simple
+roll,roll,,,simple
+run,run,,,simple
+saunter,saunter,,,normal
+scamper,scamper,,,normal
+scurry,scurry,,,normal
+shave,shave,,,simple
+sing,sing,,,simple
+sit,sit,,,simple
+sit down,sit down,,simple,
+slip,slip,,,hard
+smile,smile,,,simple
+spin,spin,,,normal
+stagger,stagger,,,normal
+stand,stand,,,simple
+stretch,stretch,,,normal
+strut,strut,,,hard
+study,study,,,normal
+swagger,swagger,,,hard
+sway,sway,,,simple
+talk,talk,,,simple
+think,think,,,simple
+throw,throw,,,simple
+tiptoe,tiptoe,,,simple
+traipse,traipse,,,normal
+trip,trip,,,hard
+wake up,wake up,,,simple
+walk,walk,,,simple
+watch,watch,,,simple
+wave,wave,,,normal
+work,work,,,simple
+write,write,,,simple
