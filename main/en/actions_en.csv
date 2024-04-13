@@ -1,6 +1,6 @@
 term,value,context,context value,level
-@author,Kazbek Byasov,,,
-@topic,Motions,,,
+@author,Kazbek Biasti,,,
+@topic,Actions,,,
 amble,amble,,,hard
 bounce,bounce,,,normal
 break,break,,,simple
@@ -47,7 +47,6 @@ scurry,scurry,,,normal
 shave,shave,,,simple
 sing,sing,,,simple
 sit,sit,,,simple
-sit down,sit down,,simple,
 slip,slip,,,hard
 smile,smile,,,simple
 spin,spin,,,normal
@@ -56,7 +55,6 @@ stand,stand,,,simple
 stretch,stretch,,,normal
 strut,strut,,,hard
 study,study,,,normal
-swagger,swagger,,,hard
 sway,sway,,,simple
 talk,talk,,,simple
 think,think,,,simple

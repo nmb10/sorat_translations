@@ -1,27 +1,68 @@
 term,value,context,context value,level
-@topic,Æзмæлуйнадæ,,,
-@author,Byasov Kazbek,,,
+@author,Kazbek Biasti,,,
 @author.local,Биасти Георги фурт Хъазибег,,,
+@topic,Æзмæлуйнадæ,,,
 amble,дзоргъа,,,hard
 bounce,æсхъеуын,,,normal
 bump,æсхуайун,,,simple
+catch,ахæссун,,,simple
+clap,фæртт кæнун,,,normal
+cook,хуæринаг кæнун,,,simple
+crawl,хелун,,,normal
+cry,кæун,,,simple
 dance,кафун,,,simple
 dart,æхсун,,,normal
+do exercise,фæлвæрæнтæ кæнун,,,normal
+drag,æнцъохун,,,simple
+drink,ниуазун,,,simple
+drop,гæлдзун,,,simple
+eat,хуæрун,,,simple
+get up,истун,,,simple
+hit,цæвун,,,simple
 jog,ледзун,,,normal
+kick,æсхуайун,,,simple
+kiss,носун,,,simple
 laugh,ходун,,,simple
+lie down,хуссун,,,normal
 limp,къулух цæун,,,simple
+listen,игъосун,,,simple
+look,кæсун,,,simple
 lope,сæпп кæнун,,,normal
-roll,толун,,,simple
+march,æмцуд кæнун,,,normal
+open,игон кæнун,,,simple
+pick up,есун,,,simple
+point,амонун,,,normal
+pour,æвгæнун,,,simple
+pull,ласун,,,simple
+push,рæтегъун,,,simple
+put down,вæрун,,,simple
+read,кæсун,,,simple
+roll,тулун,,,simple
 run,ледзун,,,simple
-saunter,тъезгъо кæнун,,,normal
+saunter,тезгъо кæнун,,,normal
 scamper,ледзун,,,normal
 scurry,æнтойнæ,,,normal
+shave,дасун,,,simple
+sing,зарун,,,simple
+sit,бадун,,,simple
+slip,гурун,,,hard
+smile,идзолун,,,simple
 spin,урухсун,,,normal
 stagger,æнкъусун,,,normal
+stand,лæуун,,,simple
+stretch,изазун,,,normal
 strut,хъалæй цæун,,,hard
-swagger,зинæнвæрсон,,,hard
+study,ахур кæнун,,,normal
 sway,уегъун,,,simple
+talk,дзорун,,,simple
+think,сагъæс кæнун,,,simple
+throw,æсхун,,,simple
 tiptoe,гъузун,,,simple
 traipse,лæсун,,,normal
+trip,цодун,,,hard
+wake up,райгъал ун,,,simple
 walk,цæун,,,simple
+watch,кæсун,,,simple
+wave,телун,,,normal
 work,косун,,,simple
+write,финсун,,,simple

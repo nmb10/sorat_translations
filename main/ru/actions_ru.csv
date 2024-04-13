@@ -1,5 +1,5 @@
 term,value,context,context value,level
-@topic,Движения,,,
+@topic,Действия,,,
 @author,Kazbek Byasov,,,
 amble,иноходь,,,hard
 bounce,отскакивать,,,normal
@@ -18,7 +18,6 @@ scurry,беготня,,,normal
 spin,вращаться,,,normal
 stagger,шататься,,,normal
 strut,гордая поступь,,,hard
-swagger,чванство,,,hard
 sway,качаться,,,simple
 tiptoe,идти на цыпочках,,,simple
 traipse,тащиться,,,normal
