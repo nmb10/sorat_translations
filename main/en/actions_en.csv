@@ -5,7 +5,6 @@ amble,amble,,,hard
 bounce,bounce,,,normal
 break,break,,,simple
 bump,bump,,,simple
-cartwheel,cartwheel,,,hard
 catch,catch,,,simple
 clap,clap,,,normal
 cook,cook,,,simple
@@ -61,7 +60,7 @@ think,think,,,simple
 throw,throw,,,simple
 tiptoe,tiptoe,,,simple
 traipse,traipse,,,normal
-trip,trip,,,hard
+trip over,trip over,,,hard
 wake up,wake up,,,simple
 walk,walk,,,simple
 watch,watch,,,simple
