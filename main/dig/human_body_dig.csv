@@ -8,9 +8,9 @@ arm,къох,,,simple
 armpit,дæларм,,,normal
 back,фæсонтæ,,,simple
 beard,закъе,,,normal
-big toe,хестæр æнгулдзæ,,,simple
+big toe,хестæр æнгулдзæ,,,normal
 brain,магъз,,,normal
-buttocks,лæбæзтæ,,,normal
+buttocks,лæбæзтæ,,,simple
 calf,зæнгæ,,,normal
 cheek,рос,,,simple
 chest,реу,,,simple
@@ -28,7 +28,7 @@ forehead,тæрних,,,simple
 hair,хелæ,,,simple
 heel,зæбæт,,,normal
 hip,суйнæ,,,normal
-index finger,æхсун æнгулдзæ,,,simple
+index finger,æхсун æнгулдзæ,,,normal
 instep,уæлфад,,,normal
 jaw,æфсæрæ,,,normal
 knee,уæраг,,,simple
@@ -36,17 +36,17 @@ knuckle,мустукъи,,,hard
 leg,къах,,,simple
 leg,фад,,,simple
 lip,билæ,,,simple
-little finger,кæстæр æнгулдзæ,,,simple
-little toe,кæстæр æнгулдзæ,,,simple
-middle finger,рæстæмбес æнгулдзæ,,,simple
+little finger,кæстæр æнгулдзæ,,,normal
+little toe,кæстæр æнгулдзæ,,,normal
+middle finger,рæстæмбес æнгулдзæ,,,normal
 mouth,цъух,,,simple
-mustache,бецъотæ,,,normal
+mustache,бецъотæ,,,simple
 neck,бæрзæй,,,simple
 nose,фий,,,simple
 nostril,финдзи цъасæ,,,hard
-palm,армитъæпæн,,,simple
+palm,армитъæпæн,,,normal
 pupil,цæсти гагу,,,hard
-shoulder,усхъæ,,,simple
+shoulder,усхъæ,,,normal
 sideburn,инхагæ,,,hard
 thigh,суйнæ,,,normal
 throat,гъæлæс,,,hard
@@ -56,6 +56,6 @@ toenail,них,,,simple
 tongue,æвзаг,,,simple
 tooth,дæндаг,,,simple
 upper arm,усхъæ,,,simple
-waist,астæу,,,hard
+waist,астæу,,,normal
 windpipe,гъæлгъæлагæ,,,hard
 wrist,цонгигъолæ,,,hard
