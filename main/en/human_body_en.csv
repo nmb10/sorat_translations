@@ -1,6 +1,6 @@
 term,value,context,context value,level
 @topic,Humans.Body,,,
-@author,Kazbek Byasov,,,
+@author,Kazbek Biasti,,,
 abdomen,abdomen,,,simple
 ankle,ankle,,,hard
 arm,arm,,,simple
@@ -8,7 +8,7 @@ armpit,armpit,,,normal
 back,back,,,simple
 ball,ball,,,normal
 beard,beard,,,normal
-big toe,big toe,,,simple
+big toe,big toe,,,normal
 brain,brain,,,normal
 buttocks,buttocks,,,normal
 calf,calf,,,normal
@@ -28,7 +28,7 @@ forehead,forehead,,,simple
 hair,hair,,,simple
 heel,heel,,,normal
 hip,hip,,,normal
-index finger,index finger,,,simple
+index finger,index finger,,,normal
 instep,instep,,,normal
 iris,iris,,,hard
 jaw,jaw,,,normal
@@ -36,9 +36,9 @@ knee,knee,,,simple
 knuckle,knuckle,,,hard
 leg,leg,,,simple
 lip,lip,,,simple
-little finger,little finger,,,simple
-little toe,little toe,,,simple
-middle finger,middle finger,,,simple
+little finger,little finger,,,normal
+little toe,little toe,,,normal
+middle finger,middle finger,,,normal
 mouth,mouth,,,simple
 mustache,mustache,,,normal
 neck,neck,,,simple
@@ -47,7 +47,7 @@ nostril,nostril,,,hard
 palm,palm,,,simple
 part,part,,,normal
 pupil,pupil,,,hard
-ring finger,ring finger,,,simple
+ring finger,ring finger,,,normal
 shoulder,shoulder,,,simple
 sideburn,sideburn,,,hard
 spinal cord,spinal cord,,,hard
