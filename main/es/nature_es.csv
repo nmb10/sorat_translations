@@ -1,0 +1,56 @@
+term,value,context,context value,level
+@author,Kazbek Biasti,,,
+@topic,Nature,,,
+@local_topic,Naturaleza,,,
+bay,bahía,,,normal
+beach,playa,,,simple
+bridge,puente,,,simple
+canyon,cañón,,,simple
+cave,cueva,,,normal
+cliff,acantilado,,,normal
+cloud,nube,,,simple
+coast,costa,,,simple
+crater,cráter,,,normal
+dam,presa,,,normal
+desert,desierto,,,simple
+dune,duna,,,normal
+field,campo,,,simple
+flowers,flores,,,simple
+forest,bosque,,,simple
+glacier,glaciar,,,simple
+grass,hierba,,,simple
+ground,suelo,,,simple
+hill,colina,,,simple
+hill,colina,,,simple
+island,isla,,,simple
+jungle,selva,,,normal
+lake,lago,,,normal
+land,tierra,,,simple
+land,tierra,,,simple
+leaf,hoja,,,simple
+meadow,prado,,,simple
+mine,mina,,,normal
+moon,luna,,,simple
+moss,musgo,,,normal
+mountain,montaña,,,simple
+mud,barro,,,simple
+ocean,océano,,,simple
+park,parque,,,simple
+pebble,guijarro,,,normal
+rainbow,arco iris,,,simple
+river,río,,,simple
+riverbank,ribera,,,normal
+rock,roca,,,simple
+sand,arena,,,simple
+sea,mar,,,simple
+sea shell,concha marina,,,normal
+sky,cielo,,,simple
+soil,suelo,,,simple
+star,estrella,,,simple
+stone,piedra,,,simple
+tree,árbol,,,simple
+tunnel,túnel,,,simple
+water,agua,,,simple
+waterfall,cascada,,,simple
+wave,ola,,,normal
+whirlpool,remolino,,,normal

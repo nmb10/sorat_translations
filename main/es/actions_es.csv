@@ -1,0 +1,69 @@
+term,value,context,context value,level
+@author,Kazbek Biasti,,,
+@topic,Acciones,,,
+amble,deambular,,,hard
+bounce,rebotar,,,normal
+break,romper,,,simple
+bump,chocar,,,simple
+catch,coger,,,simple
+clap,aplaudir,,,normal
+cook,cocinar,,,simple
+crawl,gatear,,,normal
+cry,llorar,,,simple
+dance,bailar,,,simple
+dart,dardo,,,normal
+do exercise,hacer ejercicio,,,normal
+drag,arrastrar,,,simple
+drink,beber,,,simple
+drop,soltar,,,simple
+eat,comer,,,simple
+get up,levantarse,,,simple
+hit,golpear,,,simple
+jog,correr,,,normal
+kick,patear,,,simple
+kiss,besar,,,simple
+laugh,reír,,,simple
+lie down,tumbarse,,,normal
+limp,cojear,,,simple
+listen,escuchar,,,simple
+look,mirar,,,simple
+lope,galopar,,,normal
+march,marchar,,,normal
+open,abrir,,,simple
+pick up,recoger,,,simple
+point,point,,,normal
+pour,pour,,,simple
+pull,tirar,,,simple
+punch,perforar,,,simple
+push,empujar,,,simple
+put down,poner,,,simple
+read,leer,,,simple
+roll,rodar,,,simple
+run,correr,,,simple
+saunter,pasear,,,normal
+scamper,corretear,,,normal
+scurry,corretear,,,normal
+shave,afeitarse,,,simple
+sing,cantar,,,simple
+sit,sentarse,,,simple
+slip,deslizarse,,,hard
+smile,sonreír,,,simple
+spin,girar,,,normal
+stagger,tambalearse,,,normal
+stand,estar de pie,,,simple
+stretch,estirarse,,,normal
+strut,pavonearse,,,hard
+study,estudiar,,,normal
+sway,balancearse,,,simple
+talk,hablar,,,simple
+think,pensar,,,simple
+throw,lanzar,,,simple
+tiptoe,andar de puntillas,,,simple
+traipse,traipse,,,normal
+trip over,tropezar,,,hard
+wake up,despertar,,,simple
+walk,caminar,,,simple
+watch,mirar,,,simple
+wave,saludar,,,normal
+work,trabajar,,,simple
+write,escribir,,,simple

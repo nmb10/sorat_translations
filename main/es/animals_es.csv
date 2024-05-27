@@ -1,0 +1,340 @@
+term,value,context,context value,level
+@topic,Animals,,,
+@author,Kazbek Byasov,,,
+@images,animals,,,
+(sea) scallops,vieira (de mar),,,hard
+acarid,ácaros,,,normal
+adder,víbora,,,hard
+ahodonta,ahodonta,,,hard
+anaconda,anaconda,,,normal
+ant,hormiga,,,simple
+anteater,oso hormiguero,,,simple
+aphid,pulgón,,,normal
+arvicolinae,arvicolinae,,,normal
+asp,áspid,,,hard
+auroch bison,bisonte auroch,,,normal
+badger,tejón,,,
+bankcod,bacalao,,,hard
+bark beetle,escarabajo de la corteza,,,hard
+bat,murciélago,,,simple
+batoidea,batoidea,,,normal
+bear,oso,,,simple
+bearded vulture,quebrantahuesos,,,hard
+beaver,castor,,,normal
+bee,abeja,,,simple
+bittern,avetoro,,,normal
+black widow,viuda negra,,,normal
+blackcock,pava negra,,,normal
+blaps beetle,escarabajo blaps,,,hard
+bloodsucker,chupasangre,,,hard
+blue hare,liebre azul,,,normal
+bluethroat,pechiazul,,,hard
+brambling,zarapito,,,hard
+branta,branta,,,hard
+brown bear,oso pardo,,,normal
+buffalo,búfalo,,,simple
+bug,bicho,,,hard
+bug tell-tale,bicho delator,,,normal
+bull,toro,,,simple
+bullfinch,camachuelo,,,hard
+bumblebee,abejorro,,,normal
+foal,burro culito de bebé,,,simple
+bustard,avutarda,,,normal
+butterfly,mariposa,,,simple
+buzzard,ratonero,,,hard
+calf,ternero,,,hard
+camel,camello,,,simple
+canary,canario,,,normal
+capra,capra,,,simple
+carabus ground beetle,carabus escarabajo de tierra,,,hard
+carassius veiltail,carassius veiltail,,,hard
+carp,carpa,,,normal
+cat,gato,,,simple
+caterpillar,oruga,,,hard
+catfish,siluro,,,hard
+caucasian black grouse,urogallo negro del Cáucaso,,,hard
+centipede,ciempiés,,,normal
+chameleon,camaleón,,,normal
+chamois,gamuza,,,normal
+cheetah,guepardo,,,normal
+chipmunk,ardilla listada,,,normal
+chough,chova,,,hard
+ciprinus carpio carp,ciprinus carpio carpa,,,hard
+cobra,cobra,,,normal
+cock,gallo,,,simple
+cockatoo,cacatúa,,,normal
+cockroach,cucaracha,,,normal
+colias hyade,colias hyade,,,normal
+colt,potro,,,normal
+common ruffe,ruffe común,,,hard
+common shelduck,tarro blanco,,,hard
+copper-butterfly,mariposa cobriza,,,hard
+cormorant,cormorán,,,
+corn crake,alcaudón común,,,hard
+corydalis,coridalis,,,hard
+cow,vaca,,,simple
+crab,cangrejo,,,simple
+crane,grulla,,,normal
+crawfish,langosta,,,hard
+cricket,grillo,,,hard
+crocodile,cocodrilo,,,simple
+crossbill,piquituerto,,,normal
+crow,cuervo,,,simple
+crucian,crucian,,,normal
+cuckoo,cuco,,,normal
+demoiselle crane,grulla damisela,,,hard
+doe,cierva,,,normal
+dog,perro,,,simple
+dolphin,delfín,,,normal
+donkey,burro,,,simple
+dragonfly,libélula,,,hard
+duck,pato,,,simple
+duckbill,pico de pato,,,simple
+eagle,águila,,,normal
+eagle owl,búho real,,,hard
+earthworm,lombriz,,,normal
+eft,eft,,,hard
+elephant,elefante,,,simple
+elk,alce,,,hard
+ermine,armiño,,,hard
+falcon,halcón,,,normal
+female deer,ciervo hembra,,,simple
+finch,pinzón,,,normal
+fish,pez,,,simple
+flamingo,flamenco,,,normal
+flea,pulga,,,normal
+flounder,platija,,,normal
+fly,mosca,,,simple
+fly-catcher,atrapamoscas,,,normal
+flying squirrel,ardilla voladora,,,hard
+forest caterpillar hunter,cazador de orugas del bosque,,,hard
+fox,zorro,,,simple
+frog,rana,,,simple
+fruit-bat,murciélago frutero,,,hard
+fur seal,foca peletera,,,normal
+gadfly,tábano,,,hard
+gazelle,gacela,,,normal
+gibbon,gibón,,,normal
+giildenstadt’s redstart,colirrojo tizón,,,hard
+giraffe,jirafa,,,simple
+glass-lizard,lagarto de cristal,,,hard
+glowworm,luciérnaga,,,hard
+gloydius,gloydius,,,hard
+goat,cabra,,,normal
+golden eagle,águila real,,,normal
+goldfish,carpa dorada,,,normal
+goose,ganso,,,simple
+gopher,topo,,,hard
+grasshopper,saltamontes,,,hard
+grave digger,sepulturero,,,hard
+great crested newt,tritón crestado,,,hard
+greyhound,galgo,,,hard
+griffin,grifo,,,hard
+grig,grig,,,normal
+guinea-pig,cobaya,,,hard
+gull,gaviota,,,hard
+guppies,guppies,,,hard
+hamster,hámster,,,hard
+hare,liebre,,,simple
+harrier,aguilucho,,,hard
+hawk,halcón,,,normal
+hazel hen,gallina avellana,,,hard
+hedgehog,erizo,,,simple
+heifer,novilla,,,hard
+helminth intestinal worm,helminto lombriz intestinal,,,normal
+hen,gallina,,,simple
+heron,garza,,,normal
+herring,arenque,,,hard
+hippopotamus,hipopótamo,,,simple
+hoopoe,abubilla,,,normal
+horned owl,búho cornudo,,,normal
+horse,caballo,,,simple
+horsefly,tábano,,,hard
+humming-bird,colibrí,,,normal
+hyena,hiena,,,normal
+jackal,chacal,,,normal
+jackdaw,grajilla,,,normal
+jaguar,jaguar,,,normal
+jay,arrendajo,,,hard
+jellyfish,medusa,,,normal
+jerboa,jerboa,,,normal
+kangaroo,canguro,,,simple
+kestrel,cernícalo,,,hard
+kid,cabrito,,,normal
+kinglet,reyezuelo,,,hard
+kite,milano,,,hard
+lacewings,crisopas,,,hard
+ladybird,mariquita,,,simple
+lama,lama,,,normal
+lamb,cordero,,,hard
+lapwing,avefría,,,hard
+lark,alondra,,,normal
+lemming,lemming,,,normal
+leopard,leopardo,,,normal
+limnaeidae pond-snails,limnaeidae caracoles de estanque,,,hard
+lion,león,,,simple
+lioness,leona,,,normal
+little bustard,sisón,,,hard
+lizard,lagarto,,,hard
+loach,locha,,,normal
+locust,langosta,,,hard
+longhorne beetle,escarabajo de cuernos largos,,,normal
+loon,colimbo,,,hard
+lynx,lince,,,normal
+magpie,urraca,,,hard
+mallard quack,ánade real graznido,,,hard
+mammoth,mamut,,,normal
+mantis,mantis,,,hard
+marbled polecat,turón jaspeado,,,hard
+mare,yegua,,,hard
+margaritana,margaritana,,,hard
+marmot,marmota,,,hard
+marten,marta,,,hard
+merlin arctic falcon,merlín halcón ártico,,,normal
+mink,visón,,,normal
+mole,topo,,,normal
+mole-cricket,topo-grillo,,,normal
+monitor lizard,lagarto monitor,,,normal
+monkey,mono,,,simple
+mosquito,mosquito,,,simple
+moth,polilla,,,simple
+mouse,ratón,,,simple
+mule,mula,,,hard
+nightingale,ruiseñor,,,normal
+nightjar,chotacabras,,,hard
+northern deer,ciervo boreal,,,hard
+nuthatch,trepador,,,hard
+octopus,pulpo,,,normal
+onager,onagro,,,normal
+orangoutan,orangután,,,normal
+oriole,oropéndola,,,hard
+ostrich,avestruz,,,simple
+otter,nutria,,,hard
+owl,búho,,,simple
+panda,panda,,,normal
+paradise fish,pez paraíso,,,hard
+parrot,loro,,,simple
+partridge,perdiz,,,normal
+peacock,pavo real,,,normal
+pearl-hen,perla-hen,,,normal
+pelican,pelícano,,,normal
+penguin,pingüino,,,simple
+perch,perca,,,hard
+pheasant,faisán,,,hard
+phiclides podalirius,phiclides podalirius,,,hard
+phrynocephalus mystaceus,phrynocephalus mystaceus,,,hard
+pied bushchat,cerdo,,,hard
+pig,cerdo,,,simple
+pigeon,paloma,,,simple
+piglet,lechón,,,simple
+pika,pika,,,hard
+pike,lucio,,,hard
+pine moth,polilla del pino,,,hard
+pink starling,estornino pinto,,,hard
+pipit,bisbita,,,normal
+platyfish,pez platija,,,hard
+polar fox,zorro polar,,,hard
+poult,poult,,,simple
+puma,puma,,,normal
+puppy,cachorro,,,simple
+python,pitón,,,hard
+quail,codorniz,,,normal
+rabbit,conejo,,,simple
+raccoon,mapache,,,normal
+ram,carnero,,,simple
+rat,rata,,,simple
+red ramshorn snail,caracol rojo,,,normal
+red-footed falcon,halcón de patas rojas,,,hard
+redstart,colirrojo tizón,,,hard
+rhinoceros,rinoceronte,,,normal
+roach,cucaracha,,,normal
+rodent,roedor,,,normal
+roe deer,corzo,,,simple
+rook,graja,,,normal
+ruddy shelduck,tarro rojizo,,,hard
+sable,marta,,,hard
+saiga,saiga,,,hard
+salmon,salmón,,,hard
+sand martin,martín pescador,,,hard
+sandspiper,correlimos común,,,hard
+sardine,sardina,,,hard
+scalare,escalare,,,hard
+scorpion,escorpión,,,normal
+sea-horse,caballito de mar,,,hard
+seal,foca,,,normal
+sheep,oveja,,,simple
+shrew,musaraña,,,normal
+shrimp,camarón,,,normal
+skunk,mofeta,,,normal
+slug,babosa,,,hard
+small tortoiseshell,carey pequeño,,,hard
+snail,caracol,,,normal
+snake,serpiente,,,simple
+snipe,agachadiza,,,hard
+snow bunting,escribano nival,,,hard
+snow leopard,leopardo de las nieves,,,simple
+snowcock,gallina de las nieves,,,normal
+snowy owl,búho nival,,,hard
+sparrow,gorrión,,,hard
+spider,araña,,,simple
+spiny anteater,oso hormiguero espinoso,,,normal
+spotted nutcracker,cascanueces moteado,,,hard
+squid,calamar,,,normal
+squirrel,ardilla,,,simple
+stag beetle,ciervo volante,,,hard
+stag deer,ciervo,,,hard
+stallion,semental,,,normal
+starfish,estrella de mar,,,hard
+starling,estornino,,,normal
+steer,buey,,,normal
+stellate sturgeon,esturión estrellado,,,hard
+steppe fox,zorro estepario,,,hard
+steppe viper,víbora esteparia,,,hard
+sucking louse,piojo chupador,,,simple
+swallow,golondrina,,,simple
+swallowtail,cola de golondrina,,,normal
+swan,cisne,,,normal
+tadpole,renacuajo,,,hard
+tarantula,tarántula,,,normal
+tartar sand boa,boa de arena tártara,,,hard
+telescopus,telescopus,,,hard
+termite,termita,,,normal
+the beluga,el beluga,,,hard
+the long-eared bat,murciélago orejudo,,,hard
+thrush,zorzal,,,hard
+thunderbird,pájaro de trueno,,,hard
+tiger,tigre,,,simple
+titmouse,herrerillo,,,normal
+toad,sapo,,,hard
+tortoise,tortuga,,,simple
+toucan,tucán,,,hard
+trout,trucha,,,normal
+turkey,pavo,,,simple
+turkey-cock,pavo-gallo,,,normal
+unicorn beetle,escarabajo unicornio,,,hard
+viper,víbora,,,hard
+vobla,vobla,,,normal
+vulture,buitre,,,normal
+wagtail,lavandera,,,hard
+walrus,morsa,,,hard
+wasp,avispa,,,normal
+water strider,zancuda acuática,,,hard
+weasel,comadreja,,,normal
+weather loach misgurnus,locha del tiempo misgurnus,,,hard
+whale,ballena,,,simple
+white bear,oso blanco,,,normal
+white cabbage butterfly,mariposa blanca de la col,,,hard
+white partridge,perdiz blanca,,,hard
+white rat,rata blanca,,,hard
+wild boar,jabalí,,,simple
+wolf,lobo,,,simple
+wood louse,piojo de bosque,,,hard
+wood-grouse,urogallo,,,normal
+woodcock,becada,,,hard
+woodpecker,pájaro carpintero,,,normal
+worm,gusano,,,simple
+wryneck,torcecuello,,,normal
+yak,yak,,,normal
+zander pike-perch,lucioperca lucioperca,,,hard
+zebra,cebra,,,simple
+zygaenidae,zygaenidae,,,hard

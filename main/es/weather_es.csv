@@ -1,0 +1,23 @@
+term,value,context,context value,level
+@topic,Weather,,,
+@author,Kazbek Byasov,,,
+autumn,otoño,temporada,,simple
+cloudy,nublado,,,normal
+cold,frío,,,simple
+cool,fresco,,,normal
+dry,seco,,,simple
+foggy,brumoso,,,simple
+freezing,helado,,,simple
+hot,caliente,,,simple
+icy,helado,,,normal
+rainy,lluvioso,,,simple
+snowy,nevado,,,simple
+spring,primavera,temporada,,simple
+summer,verano,temporada,,simple
+sunny,soleado,,,simple
+temperature,temperatura,,,normal
+thermometer,termómetro,,,hard
+warm,caliente,,,simple
+wet,húmedo,,,normal
+windy,ventoso,,,normal
+winter,invierno,temporada,,simple

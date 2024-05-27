@@ -1,0 +1,64 @@
+term,value,context,context value,level
+@topic,Humans.Body,,,
+@author,Kazbek Biasti,,,
+abdomen,abdomen,,,simple
+ankle,tobillo,,,hard
+arm,brazo,,,simple
+armpit,axila,,,normal
+back,espalda,,,simple
+ball,bola,,,normal
+beard,barba,,,normal
+big toe,dedo gordo,,,normal
+brain,cerebro,,,normal
+buttocks,nalgas,,,normal
+calf,pantorrilla,,,normal
+cheek,mejilla,,,simple
+chest,pecho,,,simple
+chin,barbilla,,,simple
+ear,oreja,,,simple
+elbow,codo,,,simple
+esophagus,esófago,,,hard
+eyebrow,ceja,,,normal
+eyelashes,pestañas,,,normal
+eyelid,párpado,,,normal
+face,cara,,,simple
+fingernail,uña,,,simple
+forearm,antebrazo,,,normal
+forehead,frente,,,simple
+hair,pelo,,,simple
+heel,talón,,,normal
+hip,cadera,,,normal
+index finger,dedo índice,,,normal
+instep,empeine,,,normal
+iris,iris,,,hard
+jaw,mandíbula,,,normal
+knee,rodilla,,,simple
+knuckle,nudillo,,,hard
+leg,pierna,,,simple
+lip,labio,,,simple
+little finger,dedo meñique,,,normal
+little toe,dedo meñique,,,normal
+middle finger,dedo corazón,,,normal
+mouth,boca,,,simple
+mustache,bigote,,,normal
+neck,cuello,,,simple
+nose,nariz,,,simple
+nostril,fosa nasal,,,hard
+palm,palma,,,simple
+part,parte,,,normal
+pupil,pupila,,,hard
+ring finger,dedo anular,,,normal
+shoulder,hombro,,,simple
+sideburn,patilla,,,hard
+spinal cord,médula espinal,,,hard
+thigh,muslo,,,normal
+throat,garganta,,,hard
+thumb,pulgar,,,simple
+toe,dedo del pie,,,simple
+toenail,uña del pie,,,simple
+tongue,lengua,,,simple
+tooth,diente,,,simple
+upper arm,brazo,,,simple
+waist,cintura,,,hard
+windpipe,tráquea,,,hard
+wrist,muñeca,,,hard

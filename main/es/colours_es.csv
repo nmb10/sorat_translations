@@ -1,0 +1,34 @@
+term,value,context,context value,level
+@topic,Colours,,,
+@author,Kazbek Byasov,,,
+beige,beige,,,normal
+black,negro,,,simple
+blue,azul,,,simple
+blue violet,azul violeta,,,hard
+brown,marrón,,,simple
+chestnut,castaño,,,
+crimson,carmesí,,,normal
+cyan,cian,,,simple
+gold,dorado,,,normal
+gray,gris,,,simple
+green,verde,,,simple
+indigo,índigo,,,hard
+khaki,caqui,,,normal
+lavender,lavanda,,,hard
+lime green,verde lima,,,hard
+magenta,magenta,,,hard
+maroon,granate,,,normal
+navy blue,azul marino,,,normal
+olive,oliva,,,hard
+orange,naranja,,,simple
+pink,rosa,,,simple
+plum,ciruela,,,hard
+purple,morado,,,normal
+red,rojo,,,simple
+salmon,salmón,,,hard
+silver,plata,,,normal
+sky blue,azul cielo,,,simple
+teal,cerceta,,,hard
+violet,violeta,,,simple
+white,blanco,,,simple
+yellow,amarillo,,,simple
