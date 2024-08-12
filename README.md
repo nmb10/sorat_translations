@@ -1,8 +1,8 @@
-# Translation files for [sorat.io](http://sorat.io) (learn by image app)
+# Translation files for [sorat.io](http://sorat.io) (images quiz game)
 
 ## Contribute
 
-### En, ru, os, dig translations
+### En, ru, os, dig, de, fr translations
 Create an issue with suggested fix. The issue should contain topic, english term and suggested local term.
 
 ### Other languages
@@ -13,4 +13,4 @@ Create an issue with suggested fix. The issue should contain topic, english term
 
 - Create PR
 
-Note: fixing existing translations or adding new translations does not require image or gif, but for new english terms, the image/gif is a must.
+Note: fixing existing translations or adding new translations does not require image or gif, but for new english terms the image/gif is a must.
