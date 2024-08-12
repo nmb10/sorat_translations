@@ -1,4 +1,4 @@
-# Translation files for [sorat.io](http://sorat.io) (images quiz game)
+# Translation files for [sorat.io](http://sorat.io) (image quiz game)
 
 ## Contribute
 
