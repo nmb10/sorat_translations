@@ -333,6 +333,7 @@ warm,тавун,,,simple
 washer,цъæлхъос,,,simple
 waterskin,гæбæт,,,hard
 wattle,сахъарали,,,normal
+wattle wall,сахъара,,,normal
 wave,улæн,,,simple
 wedge,цорк,,,normal
 whetstone,сæрхæ,,,hard
@@ -385,7 +386,7 @@ cap,кобса,,,hard
 gates,колдуар,,,simple
 kefir,кундурсу,,,normal
 slurry,лæхъерæ,,,hard
-раствор,лæхудзæ,,,hard
+mortar,лæхудзæ,,,hard
 sawmill,лухсуадзæн,,,normal
 medal,майдан,,,simple
 lunar eclipse,мæйхуар,,,hard
@@ -411,7 +412,7 @@ width,уæрхæ,,,hard
 cleaver,уæс,,,hard
 cellar,уæрмæ,,,normal
 brew,уæрас,,,hard
-barbwire,хамец,,,hard
+barbed wire,хамец,,,hard
 mess,халхос,,,normal
 hotel,фусунуат,,,hard
 hospital,cæйгæдонæ,,,normal
@@ -438,106 +439,99 @@ cook,æфсапъæ,,,simple
 firewood,согтæ,,,simple
 needle,содзинæ,,,simple
 rock (качать ребенка),уозун,,,normal
-охапка сена,лæппæр,,,hard
+hay bundle,лæппæр,,,hard
 walking(move to actions),уозер,,,normal
 walk(move to actions),уозерун,,,normal
-толстяк,тъух,,,hard
+fatman,тъух,,,hard
 ringing,тъиллинг,,,hard
 windmill,уадгуройнæ,,,normal
 bouillon,уардон,,,hard
 shield,уарт,,,normal
 whistle,уасæн,,,simple
-scales (весы),уæзæбарæн,,,simple
+scales,уæзæбарæн,,,simple
 juice,лæдæрс,,,normal
 door lock,къума,,,normal
 tire,къила,,,hard
-капкан,къæппæг,,,hard
+trap,къæппæг,,,hard
 curd,къæдорæ,,,normal
-кладовка,къæбец,,,normal
+pantry,къæбец,,,normal
 beggar,къæбæргор,,,hard
 footwrap,къахтохæн,,,hard
-pickaxe (image  in tools),къахæн,,,hard
 pencil,къариндас,,,simple
 holster,къадира,,,hard
-ведьма,курусдзау,,,
-ковш,кусийнæ,,,
-плетеный ящик,куфæ,,,
-гладкий,лагъз,,,
-ящик,лагъз,,,
-бурдюк,лалун,,,
-лаваш,лауз,,,
-окоп,лæгбадæн,,,
-носилки,лæггуф,,,
-убийца,лæгмар,,,
-лодырь,магоса,,,
-рудник,мадан,,,
-хрусталь,манг,,,
-яд,марг,,,
-кожаный мешок для хранения воды,матара,,,
-затылок,мæкъур,,,
-плохо заживающая рана,мæнггæс,,,
-сторож,гæс,,,
-пласт грязи,гæппар,,,
-деревяное кольцо на веревке для натягивания,гæркъа,,,
-кусок (кусок мыла),гепп,,,
-кукла,гекъуна,,,
-ступка,фæстæ,,,
-доспехи,хотухтæ,,,
-щелчок по лбу,къалца,,,
-палка с крючком с помощью которого ловят овец,къахахæссæн,,,
-лыжа,къахдзон,,,
-плавать,накæ кæнун,,,
-пловец,накæгæнæг,,,
-терка,насхафæн,,,
-якорь,науæнгурæ,,,
-нерв,науæр,,,
-мачта,наугъæдæ,,,
-кормчий,наудæрæг,,,
-масло сливочное,нæлхæ,,,
-пуля,нæмуг,,,
-зерно,нæмуг,,,
-нездоровый,нæфæразæг,,,
-мигрень,нихнез,,,
-распасться,ниххеу ун,,,
-свежий,нозалæ,,,
-список,номхигъд,,,
-шрам,нос,,,
-смола,песе,,,
-тахта,пъандар,,,
-гниль (внутри дерева),пъура,,,
-лира (музыкальный инструмент),сааз,,,
-шаг,санкъех,,,
-бронза,æргъу,,,
-заповедник,æргъун,,,
-окорок,æрдасарм,,,
-волос,æрдо,,,
-волосяной сосуд,æрдодадзин,,,
-треугольник,æртивæрсуг,,,
-пепел,æртходæг,,,
-рана,æрхæн,,,
-заноза,æрхъез,,,
-облачко,æстугæ,,,
-шлем,æсхъæрходæ,,,
-пугало,будургъæ,,,
-тесто,къинсæ,,,
-мельница,куройнæ,,,
-сеть,хизæ,,,
-биться как рыба,æнгулдзæхтæ кæнун,,,
-пляска на кончиках пальцев,æнгулдзæхтæ кæнун,,,
-бешеный,агъуд,,,
-шалаш,уосонгæ,,,
-прокалывать,рæтъозун,,,
-слепой,хъæрæу,,,
-косточка в плодах,хъапа,,,
-"ковш, большая деревяная чаша",хъалац,,,
-дранка (для кровли),хъауари,,,
-клитор,хъахъае,,,
-проститутка,хъахбай,,,
-вареник,хъаебун,,,
-колючая проволока,хамец,,,
-деревяное ведро,къæстæн,,,
-камин,тъæрингъос,,,
-судорога,хæлæбурцъæ,,,
-сумка,хизин,,,
-сквозняк,уадзунгæ,,,
-прислуга,унаута,,,
+witch,курусдзау,,,normal
+ladle,кусийнæ,,,simple
+wicker box,куфæ,,,hard
+smooth,лагъз,,,normal
+box,лагъз,,,simple
+wineskin,лалун,,,hard
+pita,лауз,,,normal
+trench,лæгбадæн,,,hard
+stretcher,лæггуф,,,hard
+killer,лæгмар,,,normal
+slacker,магоса,,,simple
+mine,мадан,,,normal
+crystal,манг,,,normal
+poison,марг,,,simple
+waterskin,матара,,,hard
+festering gash,мæнггæс,,,hard
+guard,гæс,,,normal
+dirt layer,гæппар,,,hard
+bar,гепп,,,normal
+doll,гекъуна,,,simple
+mortar,фæстæ,,,hard
+armor,хотухтæ,,,normal
+click,къалца,,,simple
+ski,къахдзон,,,hard
+swimmer,накæгæнæг,,,normal
+grater,насхафæн,,,hard
+anchor,науæнгурæ,,,hard
+nerve,науæр,,,normal
+mast,наугъæдæ,,,hard
+helmsman,наудæрæг,,,hard
+butter,нæлхæ,,,simple
+bullet,нæмуг,,,simple
+corn,нæмуг,,,normal
+unhealthy,нæфæразæг,,,hard
+migraine,нихнез,,,normal
+disintegration,ниххеу ун,,,hard
+fresh,нозалæ,,,simple
+list,номхигъд,,,normal
+scar,нос,,,normal
+resin,песе,,,hard
+ottoman,пъандар,,,hard
+rot,пъура,,,hard
+lira,сааз,,,normal
+step,санкъех,,,simple
+bronze,æргъу,,,simple
+reserve,æргъун,,,normal
+ham,æрдасарм,,,normal
+hair,æрдо,,,simple
+hair vessel,æрдодадзин,,,normal
+triangle,æртивæрсуг,,,simple
+ash,æртходæг,,,normal
+wound,æрхæн,,,normal
+splinter,æрхъез,,,hard
+cloudlet,æстугæ,,,simple
+helmet,æсхъæрходæ,,,normal
+scarecrow,будургъæ,,,normal
+dough,къинсæ,,,simple
+mill,куройнæ,,,simple
+net,хизæ,,,simple
+mad,агъуд,,,normal
+hut,уосонгæ,,,normal
+pierce,рæтъозун,,,normal
+blind,хъæрæу,,,simple
+seed,хъапа,,,simple
+wooden bowl,хъалац,,,normal
+lath,хъауари,,,normal
+clit,хъахъæ,,,hard
+prostitute,хъахбай,,,hard
+dumpling,хъæбун,,,hard
+barbed wire,хамец,,,hard
+wooden bucket,къæстæн,,,normal
+fireplace,тъæрингъос,,,simple
+convulsion,хæлæбурцъæ,,,normal
+bag,хизин,,,normal
+draught,уадзунгæ,,,hard
+servant,унаутæ,,,normal
