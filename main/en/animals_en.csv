@@ -2,19 +2,18 @@ term,value,context,context value,level
 @topic,Animals,,,
 @author,Kazbek Biasti,,,
 @images,animals,,,
-@set,hard,,,
 (sea) scallops,(sea) scallops,,,hard
 acarid,acarid,,,normal
 adder,adder,,,hard
 ahodonta,ahodonta,,,hard
 anaconda,anaconda,,,normal
 ant,ant,,,simple
-anteater,anteater,,,simple
+anteater,anteater,,,normal
 aphid,aphid,,,normal
 arvicolinae,arvicolinae,,,normal
 asp,asp,,,hard
 auroch bison,auroch bison,,,normal
-badger,badger,,,
+badger,badger,,,normal
 bankcod,bankcod,,,hard
 bark beetle,bark beetle,,,hard
 bat,bat,,,simple
@@ -39,14 +38,14 @@ bug tell-tale,bug tell-tale,,,normal
 bull,bull,,,simple
 bullfinch,bullfinch,,,hard
 bumblebee,bumblebee,,,normal
-foal,burro baby-ass,,,simple
+foal,foal,,,simple
 bustard,bustard,,,normal
 butterfly,butterfly,,,simple
 buzzard,buzzard,,,hard
 calf,calf,,,hard
 camel,camel,,,simple
 canary,canary,,,normal
-capra,capra,,,simple
+capra,capra,,,normal
 carabus ground beetle,carabus ground beetle,,,hard
 carassius veiltail,carassius veiltail,,,hard
 carp,carp,,,normal
@@ -70,7 +69,7 @@ colt,colt,,,normal
 common ruffe,common ruffe,,,hard
 common shelduck,common shelduck,,,hard
 copper-butterfly,copper-butterfly,,,hard
-cormorant,cormorant,,,
+cormorant,cormorant,,,hard
 corn crake,corn crake,,,hard
 corydalis,corydalis,,,hard
 cow,cow,,,simple
@@ -209,7 +208,7 @@ octopus,octopus,,,normal
 onager,onager,,,normal
 orangoutan,orangoutan,,,normal
 oriole,oriole,,,hard
-ostrich,ostrich,,,simple
+ostrich,ostrich,,,normal
 otter,otter,,,hard
 owl,owl,,,simple
 panda,panda,,,normal
@@ -273,7 +272,7 @@ snail,snail,,,normal
 snake,snake,,,simple
 snipe,snipe,,,hard
 snow bunting,snow bunting,,,hard
-snow leopard,snow leopard,,,simple
+snow leopard,snow leopard,,,normal
 snowcock,snowcock,,,normal
 snowy owl,snowy owl,,,hard
 sparrow,sparrow,,,hard
