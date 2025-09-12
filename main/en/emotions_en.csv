@@ -1,15 +1,16 @@
-term,value,context,context value,level
-@topic,Emotions,,,
-@author,Kazbek Biasti,,,
-anger,anger,,,simple
-contempt,contempt,,,simple
-disgust,disgust,,,simple
-fear,fear,,,simple
-guilt,guilt,,,simple
-hostility,hostility,,,simple
-interest,interest,,,simple
-joy,joy,,,simple
-sadness,sadness,,,simple
-shame,shame,,,simple
-shyness,shyness,,,simple
-surprise,surprise,,,normal
+term,value,context,context value,level,meaning
+@topic,Emotions,,,,
+@author,Kazbek Biasti,,,,
+anger,anger,,,simple,a strong feeling against someone who has behaved badly
+contempt,contempt,,,simple,a strong feeling that you do not respect someone or something
+disgust,disgust,,,simple,a very strong feeling of dislike or disapproval
+fear,fear,,,simple,a strong and unpleasant feeling that you get when you think that something bad or dangerous might happens
+guilt,guilt,,,simple,the strong feeling of shame that you feel when you have done something wrong
+hostility,hostility,,,simple,angry behaviour that shows that you dislike someone
+interest,interest,,,simple,the feeling of wanting to give attention to something or discover more about it
+joy,joy,,,simple,a feeling of great happiness
+sadness,sadness,,,simple,unhappy or making you feel unhappy
+shame,shame,,,simple,If you describe something as a shame you are disappointed that it has happened.
+shyness,shyness,,,simple,not confident about meeting or talking to new people
+surprise,surprise,,,normal,an event that you did not expect to happen
+concern,concern,,,normal,to involve someone or be important to them
