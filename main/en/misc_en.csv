@@ -1,171 +1,171 @@
-term,value,context,context value,level
-@topic,Miscellaneous,,,
-@author,Kazbek Biasti,,,
-acne,acne,,,normal
-angle,angle,,,normal
-anguish,anguish,,,normal
-apron,apron,,,hard
-back of the hand,back of the hand,,,hard
-balcony,balcony,,,normal
-be sick,be sick,,,simple
-between,between,,,simple
-blacksmith,blacksmith,,,hard
-blister,blister,,,normal
-boundary,boundary,,,normal
-box,box,,,simple
-brake,brake,,,normal
-brand,brand,,,normal
-brick,brick,,,simple
-bride,bride,,,normal
-brook,brook,,,normal
-broom,broom,,,simple
-bucket,bucket,,,simple
-bud,bud,,,normal
-buttock,buttock,,,simple
-caftan,caftan,,,hard
-candle,candle,,,simple
-captivity,captivity,,,hard
-cast iron,cast iron,,,normal
-chair,chair,,,simple
-cheek,cheek,,,simple
-chimney,chimney,,,normal
-circassian,circassian,,,normal
-circle,circle,,,hard
-clear,clear,,,simple
-cloud,cloud,,,simple
-coffee,coffee,,,simple
-cone,cone,,,hard
-consent,consent,,,normal
-court,court,,,normal
-crane,crane,,,normal
-cunning,cunning,,,normal
-cup,cup,,,normal
-dawn,dawn,,,simple
-dirty weather,dirty weather,,,normal
-door,door,,,simple
-earth,earth,,,simple
-eat,eat,,,normal
-faint,faint,,,simple
-familiar,familiar,,,normal
-famous,famous,,,normal
-finger ring,finger ring,,,normal
-fisher,fisher,,,normal
-flute,flute,,,hard
-forge,forge,,,normal
-fraud,fraud,,,normal
-fry,fry,,,simple
-gems,gems,,,normal
-glade,glade,,,normal
-glue,glue,,,normal
-goal,goal,,,simple
-gravel,gravel,,,normal
-greed,greed,,,normal
-greek,greek,,,normal
-groom,groom,,,normal
-ground,ground,,,normal
-gutter,gutter,,,normal
-hairless,hairless,,,normal
-harbor,harbor,,,hard
-hawser,hawser,,,hard
-heap,heap,,,normal
-hearth,hearth,,,hard
-hearth fence,hearth fence,,,hard
-heavy,heavy,,,hard
-hell-fire,hell-fire,,,normal
-hematoma,hematoma,,,normal
-hiccup,hiccup,,,simple
-hogweed,hogweed,,,hard
-honor,honor,,,normal
-house,house,,,simple
-hug,hug,,,simple
-husband,husband,,,normal
-image,image,,,normal
-in turn,in turn,,,simple
-inflate,inflate,,,simple
-jointer,jointer,,,normal
-jump,jump,,,simple
-knee,knee,,,simple
-kudos,kudos,,,normal
-ladle,ladle,,,simple
-lake,lake,,,simple
-lathe,lathe,,,normal
-lead,lead,,,hard
-lens,lens,,,normal
-lightning,lightning,,,normal
-line,line,,,simple
-lump,lump,,,simple
-marrow,marrow,,,hard
-maybe,maybe,,,simple
-message,message,,,simple
-mother in law,mother in law,,,normal
-mumbler,mumbler,,,simple
-muzzle,muzzle,,,normal
-orbit,orbit,,,normal
-overhang,overhang,,,normal
-paddle,paddle,,,simple
-pants,pants,,,simple
-peak,peak,,,normal
-pillar,pillar,,,simple
-pooch,pooch,,,normal
-prey,prey,,,normal
-puke,puke,,,simple
-pumice,pumice,,,normal
-pupil,pupil,,,normal
-rag,rag,,,simple
-rock,rock,,,simple
-root,root,,,simple
-rope,rope,,,simple
-ruby,ruby,,,normal
-rust,rust,,,normal
-sausage,sausage,,,simple
-share,share,,,normal
-sharp,sharp,,,normal
-shelf,shelf,,,normal
-shine,shine,,,simple
-ship,ship,,,simple
-shooting range,shooting range,,,normal
-short,short,,,simple
-shoulders ride,shoulders ride,,,normal
-shovel,shovel,,,simple
-silk,silk,,,normal
-sky,sky,,,simple
-sledgehammer,sledgehammer,,,simple
-slope,slope,,,normal
-slumber,slumber,,,normal
-small,small,,,simple
-small axe,small axe,,,normal
-smog,smog,,,normal
-smoked,smoked,,,normal
-snout,snout,,,normal
-spin,spin,,,simple
-spirit,spirit,,,normal
-spoon,spoon,,,simple
-spot,spot,,,normal
-spring,spring,,,normal
-sprouts,sprouts,,,normal
-stairs,stairs,,,simple
-stick,stick,,,simple
-storm,storm,,,normal
-stump,stump,,,simple
-table,table,,,normal
-tan,tan,,,normal
-teapot,teapot,,,simple
-temptation,temptation,,,hard
-thumb,thumb,,,simple
-toilet,toilet,,,simple
-torch,torch,,,simple
-tremble,tremble,,,normal
-volume,volume,,,normal
-waiting,waiting,,,normal
-washer,washer,,,simple
-wattle,wattle,,,normal
-wave,wave,,,simple
-wedge,wedge,,,normal
-wide,wide,,,simple
-win,win,,,simple
-wooden bed,wooden bed,,,normal
-wrong,wrong,,,normal
-yawn,yawn,,,simple
-shoehorn,shoehorn,,,normal
-clew,clew,,,normal
-cafe,cafe,,,normal
+term,value,context,context value,level,meaning
+@topic,Miscellaneous,,,,
+@author,Kazbek Biasti,,,,
+acne,acne,,,normal,A skin condition causing spots common in teenagers
+angle,angle,,,normal,The space between two lines or surfaces that meet at a point
+anguish,anguish,,,normal,Severe mental or physical pain
+apron,apron,,,hard,A garment worn over clothes to keep them clean while working
+back of the hand,back of the hand,,,hard,The outer surface of the hand opposite the palm
+balcony,balcony,,,normal,A platform on the outside of a building accessible from an upper floor
+be sick,be sick,,,simple,Feeling not well or not healthy
+between,between,,,simple,In or through the space separating two things
+blacksmith,blacksmith,,,hard,A person who makes and repairs iron items such as horseshoes
+blister,blister,,,normal,A small bubble on the skin filled with liquid caused by rubbing or burning
+boundary,boundary,,,normal,A line that marks the limit of an area
+box,box,,,simple,A container with a flat base and sides
+brake,brake,,,normal,A device for slowing or stopping a vehicle
+brand,brand,,,normal,A type of product made by a particular company
+brick,brick,,,simple,A rectangular block of baked clay used for building
+bride,bride,,,normal,A woman on her wedding day
+brook,brook,,,normal,A small stream
+broom,broom,,,simple,A long-handled brush for sweeping
+bucket,bucket,,,simple,An open container with a handle used to carry liquids
+bud,bud,,,normal,A small lump on a plant that develops into a leaf or flower
+buttock,buttock,,,simple,One of the two round soft parts of the body that you sit on
+caftan,caftan,,,hard,A long loose garment with long sleeves
+candle,candle,,,simple,A stick of wax with a wick burned to give light
+captivity,captivity,,,hard,The state of being kept as a prisoner or confined
+cast iron,cast iron,,,normal,A hard alloy of iron carbon and silicon
+chair,chair,,,simple,A seat with a back for one person
+cheek,cheek,,,simple,Either side of the face below the eye
+chimney,chimney,,,normal,A vertical pipe that carries smoke away from a fire
+circassian,circassian,,,normal,A person from Circassia in the North Caucasus
+circle,circle,,,hard,A round shape whose points are all equally distant from the center
+clear,clear,,,simple,Easy to see through or easy to understand
+cloud,cloud,,,simple,A visible mass of water droplets floating in the sky
+coffee,coffee,,,simple,A hot drink made from roasted ground coffee beans
+cone,cone,,,hard,A shape with a circular base that narrows to a point
+consent,consent,,,normal,Permission for something to happen
+court,court,,,normal,A place where legal cases are decided
+crane,crane,,,normal,A machine with a long arm for lifting heavy things
+cunning,cunning,,,normal,Clever at deceiving people
+cup,cup,,,normal,A small container with a handle used for drinking
+dawn,dawn,,,simple,The time of day when light first appears
+dirty weather,dirty weather,,,normal,Bad stormy weather
+door,door,,,simple,A hinged or sliding barrier used to open and close an entrance
+earth,earth,,,simple,The planet we live on or the soil covering it
+eat,eat,,,normal,To put food in the mouth and swallow it
+faint,faint,,,simple,To lose consciousness briefly
+familiar,familiar,,,normal,Well known and easily recognized
+famous,famous,,,normal,Known by many people
+finger ring,finger ring,,,normal,A piece of jewellery worn on a finger
+fisher,fisher,,,normal,A person who catches fish
+flute,flute,,,hard,A musical instrument played by blowing across a hole
+forge,forge,,,normal,A place where metal is heated and shaped
+fraud,fraud,,,normal,Dishonest behaviour intended to gain an advantage
+fry,fry,,,simple,To cook food in hot fat or oil
+gems,gems,,,normal,Precious stones
+glade,glade,,,normal,An open space in a forest
+glue,glue,,,normal,A sticky substance used to join things together
+goal,goal,,,simple,The aim someone is trying to achieve
+gravel,gravel,,,normal,Small stones often used to cover paths
+greed,greed,,,normal,A strong desire for more of something than is needed
+greek,greek,,,normal,A person from Greece
+groom,groom,,,normal,A man on his wedding day
+ground,ground,,,normal,The surface of the earth
+gutter,gutter,,,normal,A channel at the edge of a road or roof for carrying away water
+hairless,hairless,,,normal,Having no hair
+harbor,harbor,,,hard,A place on the coast where ships can shelter or dock
+hawser,hawser,,,hard,A thick rope or cable used for mooring or towing a ship
+heap,heap,,,normal,An untidy pile of things
+hearth,hearth,,,hard,The floor of a fireplace
+hearth fence,hearth fence,,,hard,A screen placed in front of a fireplace
+heavy,heavy,,,hard,Having great weight
+hell-fire,hell-fire,,,normal,The fire of hell
+hematoma,hematoma,,,normal,A swelling of clotted blood beneath the skin
+hiccup,hiccup,,,simple,A sudden involuntary spasm of the diaphragm causing a sharp sound
+hogweed,hogweed,,,hard,A large plant with clusters of small white flowers
+honor,honor,,,normal,Great respect or a sense of what is right
+house,house,,,simple,A building for people to live in
+hug,hug,,,simple,To put your arms around someone as a sign of affection
+husband,husband,,,normal,A married man in relation to his wife
+image,image,,,normal,A picture or the way someone is perceived
+in turn,in turn,,,simple,One after another in order
+inflate,inflate,,,simple,To fill something with air or gas
+jointer,jointer,,,normal,A tool or machine for joining pieces of wood
+jump,jump,,,simple,To push yourself off the ground with your legs
+knee,knee,,,simple,The joint between the thigh and the lower leg
+kudos,kudos,,,normal,Praise or recognition for an achievement
+ladle,ladle,,,simple,A large spoon with a deep bowl used for serving liquids
+lake,lake,,,simple,A large body of water surrounded by land
+lathe,lathe,,,normal,A machine for shaping wood or metal by spinning it
+lead,lead,,,hard,A heavy soft grey metal
+lens,lens,,,normal,A curved piece of glass used to focus light
+lightning,lightning,,,normal,A flash of light in the sky caused by an electrical discharge during a storm
+line,line,,,simple,A long thin mark
+lump,lump,,,simple,A small solid mass especially one growing on or in the body
+marrow,marrow,,,hard,The soft substance inside bones
+maybe,maybe,,,simple,Perhaps or possibly
+message,message,,,simple,A short piece of information sent to someone
+mother in law,mother in law,,,normal,The mother of one's husband or wife
+mumbler,mumbler,,,simple,A person who speaks unclearly without opening their mouth properly
+muzzle,muzzle,,,normal,The projecting nose and mouth of an animal
+orbit,orbit,,,normal,The curved path of an object around a star or planet
+overhang,overhang,,,normal,A part that sticks out over something below it
+paddle,paddle,,,simple,A short pole with a broad blade used to move a boat
+pants,pants,,,simple,An item of clothing worn on the lower body
+peak,peak,,,normal,The pointed top of a mountain
+pillar,pillar,,,simple,A tall vertical post used as a support
+pooch,pooch,,,normal,An informal word for a dog
+prey,prey,,,normal,An animal hunted by another for food
+puke,puke,,,simple,To vomit
+pumice,pumice,,,normal,A light porous volcanic rock
+pupil,pupil,,,normal,The black circular opening in the center of the eye
+rag,rag,,,simple,A piece of old often torn cloth
+rock,rock,,,simple,A large mass of stone
+root,root,,,simple,The part of a plant that grows underground
+rope,rope,,,simple,Thick strong cord made of twisted fibers
+ruby,ruby,,,normal,A red precious stone
+rust,rust,,,normal,The reddish-brown coating formed on iron exposed to moisture
+sausage,sausage,,,simple,A food made of minced meat in a tube-shaped casing
+share,share,,,normal,A part of something divided among people
+sharp,sharp,,,normal,Having a fine edge or point able to cut
+shelf,shelf,,,normal,A flat board fixed to a wall used to store things
+shine,shine,,,simple,To give out or reflect light
+ship,ship,,,simple,A large vessel that travels on water
+shooting range,shooting range,,,normal,A place for practicing shooting at targets
+short,short,,,simple,Not long or tall
+shoulders ride,shoulders ride,,,normal,Being carried on someone's shoulders
+shovel,shovel,,,simple,A tool with a broad blade for digging or moving material
+silk,silk,,,normal,A fine soft fiber produced by silkworms
+sky,sky,,,simple,The space above the earth where clouds and the sun appear
+sledgehammer,sledgehammer,,,simple,A large heavy hammer used with both hands
+slope,slope,,,normal,A surface with one end higher than the other
+slumber,slumber,,,normal,Sleep
+small,small,,,simple,Not large in size
+small axe,small axe,,,normal,A hatchet
+smog,smog,,,normal,Fog mixed with smoke or pollution
+smoked,smoked,,,normal,Preserved or flavored by exposure to smoke
+snout,snout,,,normal,The projecting nose and mouth of an animal
+spin,spin,,,simple,To turn round quickly
+spirit,spirit,,,normal,The non-physical part of a person or a strong alcoholic drink
+spoon,spoon,,,simple,A utensil with a small bowl for eating or serving food
+spot,spot,,,normal,A small round mark or a particular place
+spring,spring,,,normal,The season after winter or a coiled metal device
+sprouts,sprouts,,,normal,Young shoots of a plant
+stairs,stairs,,,simple,A set of steps leading from one level to another
+stick,stick,,,simple,A thin piece of wood
+storm,storm,,,normal,A violent disturbance of the atmosphere with strong wind and rain
+stump,stump,,,simple,The part of a tree left after it is cut down
+table,table,,,normal,A piece of furniture with a flat top and legs
+tan,tan,,,normal,A brown color of skin from sun exposure
+teapot,teapot,,,simple,A container with a spout used for making and pouring tea
+temptation,temptation,,,hard,A desire to do something wrong or unwise
+thumb,thumb,,,simple,The short thick finger set apart from the other four
+toilet,toilet,,,simple,A fixture used for urination and defecation
+torch,torch,,,simple,A portable light source or a stick with a flame at one end
+tremble,tremble,,,normal,To shake slightly often from fear or cold
+volume,volume,,,normal,The amount of space something occupies or the loudness of sound
+waiting,waiting,,,normal,Remaining until something expected happens
+washer,washer,,,simple,A small flat ring used to seal a joint or spread load
+wattle,wattle,,,normal,Woven branches used to make walls or fences
+wave,wave,,,simple,A moving ridge of water or a gesture of the hand
+wedge,wedge,,,normal,A piece of material tapering to a thin edge
+wide,wide,,,simple,Having a large distance from side to side
+win,win,,,simple,To be successful in a contest
+wooden bed,wooden bed,,,normal,A bed frame made of wood
+wrong,wrong,,,normal,Not correct or morally bad
+yawn,yawn,,,simple,To open the mouth wide and breathe in deeply usually from tiredness
+shoehorn,shoehorn,,,normal,A curved tool used to help slide a foot into a shoe
+clew,clew,,,normal,A ball of thread or yarn or a clue
+cafe,cafe,,,normal,A small restaurant serving light meals and drinks
