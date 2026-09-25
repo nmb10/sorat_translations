@@ -1,69 +1,69 @@
-term,value,context,context value,level
-@author,Kazbek Biasti,,,
-@topic,Actions,,,
-amble,amble,,,hard
-bounce,bounce,,,normal
-break,break,,,simple
-bump,bump,,,simple
-catch,catch,,,simple
-clap,clap,,,normal
-cook,cook,,,simple
-crawl,crawl,,,normal
-cry,cry,,,simple
-dance,dance,,,simple
-dart,dart,,,normal
-do exercise,do exercise,,,normal
-drag,drag,,,simple
-drink,drink,,,simple
-drop,drop,,,simple
-eat,eat,,,simple
-get up,get up,,,simple
-hit,hit,,,simple
-jog,jog,,,normal
-kick,kick,,,simple
-kiss,kiss,,,simple
-laugh,laugh,,,simple
-lie down,lie down,,,normal
-limp,limp,,,simple
-listen,listen,,,simple
-look,look,,,simple
-lope,lope,,,normal
-march,march,,,normal
-open,open,,,simple
-pick up,pick up,,,simple
-point,point,,,normal
-pour,pour,,,simple
-pull,pull,,,simple
-punch,punch,,,simple
-push,push,,,simple
-put down,put down,,,simple
-read,read,,,simple
-roll,roll,,,simple
-run,run,,,simple
-saunter,saunter,,,normal
-scamper,scamper,,,normal
-scurry,scurry,,,normal
-shave,shave,,,simple
-sing,sing,,,simple
-sit,sit,,,simple
-slip,slip,,,hard
-smile,smile,,,simple
-spin,spin,,,normal
-stagger,stagger,,,normal
-stand,stand,,,simple
-stretch,stretch,,,normal
-strut,strut,,,hard
-study,study,,,normal
-sway,sway,,,simple
-talk,talk,,,simple
-think,think,,,simple
-throw,throw,,,simple
-tiptoe,tiptoe,,,simple
-traipse,traipse,,,normal
-trip over,trip over,,,hard
-wake up,wake up,,,simple
-walk,walk,,,simple
-watch,watch,,,simple
-wave,wave,,,normal
-work,work,,,simple
-write,write,,,simple
+term,value,context,context value,level,meaning
+@author,Kazbek Biasti,,,,
+@topic,Actions,,,,
+amble,amble,,,hard,"To walk at a slow, relaxed pace"
+bounce,bounce,,,normal,To move up and down repeatedly after hitting a surface
+break,break,,,simple,To separate into pieces suddenly or violently
+bump,bump,,,simple,To knock against something accidentally
+catch,catch,,,simple,To take hold of something moving through the air
+clap,clap,,,normal,"To strike the palms of the hands together, often to show approval"
+cook,cook,,,simple,To prepare food using heat
+crawl,crawl,,,normal,To move slowly on hands and knees
+cry,cry,,,simple,"To shed tears, usually because of sadness or pain"
+dance,dance,,,simple,To move rhythmically to music
+dart,dart,,,normal,To move suddenly and quickly in a particular direction
+do exercise,do exercise,,,normal,To perform physical activity to improve fitness
+drag,drag,,,simple,To pull something along a surface with effort
+drink,drink,,,simple,To take liquid into the mouth and swallow it
+drop,drop,,,simple,To let something fall accidentally
+eat,eat,,,simple,To put food into the mouth and swallow it
+get up,get up,,,simple,To rise from a lying or sitting position
+hit,hit,,,simple,To strike someone or something with force
+jog,jog,,,normal,"To run at a slow, steady pace, usually for exercise"
+kick,kick,,,simple,To strike something with the foot
+kiss,kiss,,,simple,To touch someone with the lips as a sign of affection
+laugh,laugh,,,simple,To make sounds expressing amusement or happiness
+lie down,lie down,,,normal,"To place the body in a flat, resting position"
+limp,limp,,,simple,To walk unevenly because of an injured leg or foot
+listen,listen,,,simple,To pay attention to sound
+look,look,,,simple,To direct the eyes toward something in order to see it
+lope,lope,,,normal,"To run with a long, easy stride"
+march,march,,,normal,"To walk with regular, measured steps, often in a group"
+open,open,,,simple,To move something so that it is no longer closed
+pick up,pick up,,,simple,To lift something from a surface
+point,point,,,normal,To indicate something with a finger or object
+pour,pour,,,simple,To make a liquid flow from a container
+pull,pull,,,simple,To apply force to move something toward oneself
+punch,punch,,,simple,To strike someone or something with a closed fist
+push,push,,,simple,To apply force to move something away from oneself
+put down,put down,,,simple,To place something onto a surface
+read,read,,,simple,To look at written words and understand their meaning
+roll,roll,,,simple,To move by turning over and over
+run,run,,,simple,"To move quickly using the legs, faster than walking"
+saunter,saunter,,,normal,"To walk in a slow, relaxed manner"
+scamper,scamper,,,normal,"To run quickly with small, light steps"
+scurry,scurry,,,normal,"To move hurriedly with short, quick steps"
+shave,shave,,,simple,To remove hair from the skin using a razor
+sing,sing,,,simple,To make musical sounds with the voice
+sit,sit,,,simple,To rest with the body supported by the buttocks
+slip,slip,,,hard,To lose one's balance and slide accidentally
+smile,smile,,,simple,To show pleasure by turning up the corners of the mouth
+spin,spin,,,normal,To turn around quickly on an axis
+stagger,stagger,,,normal,To walk unsteadily as if about to fall
+stand,stand,,,simple,To be in an upright position on the feet
+stretch,stretch,,,normal,To extend the body or limbs to full length
+strut,strut,,,hard,"To walk in a proud, confident manner"
+study,study,,,normal,To spend time learning about a subject
+sway,sway,,,simple,To move slowly from side to side
+talk,talk,,,simple,To speak in order to communicate
+think,think,,,simple,To use the mind to consider something
+throw,throw,,,simple,To send something through the air using force
+tiptoe,tiptoe,,,simple,To walk quietly on the toes
+traipse,traipse,,,normal,To walk wearily or reluctantly
+trip over,trip over,,,hard,To catch a foot on something and stumble
+wake up,wake up,,,simple,To stop sleeping
+walk,walk,,,simple,To move on foot at a normal pace
+watch,watch,,,simple,To look at something for a period of time
+wave,wave,,,normal,To move a hand from side to side as a greeting or signal
+work,work,,,simple,To do a job or task that requires effort
+write,write,,,simple,To form letters or words on a surface
