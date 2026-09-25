@@ -1,64 +1,64 @@
-term,value,context,context value,level
-@topic,Humans.Body,,,
-@author,Kazbek Biasti,,,
-abdomen,abdomen,,,simple
-ankle,ankle,,,hard
-arm,arm,,,simple
-armpit,armpit,,,normal
-back,back,,,simple
-ball,ball,,,normal
-beard,beard,,,normal
-big toe,big toe,,,normal
-brain,brain,,,normal
-buttocks,buttocks,,,normal
-calf,calf,,,normal
-cheek,cheek,,,simple
-chest,chest,,,simple
-chin,chin,,,simple
-ear,ear,,,simple
-elbow,elbow,,,simple
-esophagus,esophagus,,,hard
-eyebrow,eyebrow,,,normal
-eyelashes,eyelashes,,,normal
-eyelid,eyelid,,,normal
-face,face,,,simple
-fingernail,fingernail,,,simple
-forearm,forearm,,,normal
-forehead,forehead,,,simple
-hair,hair,,,simple
-heel,heel,,,normal
-hip,hip,,,normal
-index finger,index finger,,,normal
-instep,instep,,,normal
-iris,iris,,,hard
-jaw,jaw,,,normal
-knee,knee,,,simple
-knuckle,knuckle,,,hard
-leg,leg,,,simple
-lip,lip,,,simple
-little finger,little finger,,,normal
-little toe,little toe,,,normal
-middle finger,middle finger,,,normal
-mouth,mouth,,,simple
-mustache,mustache,,,normal
-neck,neck,,,simple
-nose,nose,,,simple
-nostril,nostril,,,hard
-palm,palm,,,simple
-part,part,,,normal
-pupil,pupil,,,hard
-ring finger,ring finger,,,normal
-shoulder,shoulder,,,simple
-sideburn,sideburn,,,hard
-spinal cord,spinal cord,,,hard
-thigh,thigh,,,normal
-throat,throat,,,hard
-thumb,thumb,,,simple
-toe,toe,,,simple
-toenail,toenail,,,simple
-tongue,tongue,,,simple
-tooth,tooth,,,simple
-upper arm,upper arm,,,simple
-waist,waist,,,hard
-windpipe,windpipe,,,hard
-wrist,wrist,,,hard
+term,value,context,context value,level,meaning
+@topic,Humans.Body,,,,
+@author,Kazbek Biasti,,,,
+abdomen,abdomen,,,simple,The part of the body between the chest and the hips
+ankle,ankle,,,hard,The joint connecting the foot to the leg
+arm,arm,,,simple,The upper limb from shoulder to hand
+armpit,armpit,,,normal,The hollow under the arm at the shoulder
+back,back,,,simple,The rear surface of the body from neck to hips
+ball,ball,,,normal,The rounded part of the foot behind the toes
+beard,beard,,,normal,Hair that grows on a man's chin and cheeks
+big toe,big toe,,,normal,"The largest toe, on the inner side of the foot"
+brain,brain,,,normal,The organ inside the skull that controls thought and movement
+buttocks,buttocks,,,normal,The two fleshy parts at the base of the back
+calf,calf,,,normal,The back of the lower leg below the knee
+cheek,cheek,,,simple,The side of the face below the eye
+chest,chest,,,simple,The front part of the body between the neck and the abdomen
+chin,chin,,,simple,The part of the face below the mouth
+ear,ear,,,simple,The organ used for hearing
+elbow,elbow,,,simple,The joint where the arm bends
+esophagus,esophagus,,,hard,The tube that carries food from the throat to the stomach
+eyebrow,eyebrow,,,normal,The line of hair above the eye
+eyelashes,eyelashes,,,normal,The short hairs edging the eyelids
+eyelid,eyelid,,,normal,The skin that covers the eye when closed
+face,face,,,simple,The front part of the head
+fingernail,fingernail,,,simple,The hard covering on the tip of a finger
+forearm,forearm,,,normal,The part of the arm between the elbow and the wrist
+forehead,forehead,,,simple,The part of the face above the eyebrows
+hair,hair,,,simple,"The strands that grow from the skin, especially on the head"
+heel,heel,,,normal,The back part of the foot
+hip,hip,,,normal,The joint connecting the leg to the body at the side
+index finger,index finger,,,normal,The finger next to the thumb
+instep,instep,,,normal,The upper part of the foot between the toes and the ankle
+iris,iris,,,hard,The coloured ring around the pupil of the eye
+jaw,jaw,,,normal,The bone structure that holds the teeth and forms the mouth
+knee,knee,,,simple,The joint where the leg bends
+knuckle,knuckle,,,hard,A joint of the finger
+leg,leg,,,simple,The limb used for standing and walking
+lip,lip,,,simple,Either of the two soft edges of the mouth
+little finger,little finger,,,normal,"The smallest finger, on the outer side of the hand"
+little toe,little toe,,,normal,"The smallest toe, on the outer side of the foot"
+middle finger,middle finger,,,normal,The finger in the centre of the hand
+mouth,mouth,,,simple,The opening in the face used for eating and speaking
+mustache,mustache,,,normal,Hair that grows on the upper lip
+neck,neck,,,simple,The part of the body connecting the head to the shoulders
+nose,nose,,,simple,The organ used for breathing and smelling
+nostril,nostril,,,hard,Either of the two openings in the nose
+palm,palm,,,simple,The inner surface of the hand
+part,part,,,normal,"The line where hair is divided by combing, also called a parting"
+pupil,pupil,,,hard,The black circular opening in the centre of the eye
+ring finger,ring finger,,,normal,"The finger next to the little finger, often used for a wedding ring"
+shoulder,shoulder,,,simple,The joint connecting the arm to the body
+sideburn,sideburn,,,hard,Hair grown down the side of the face in front of the ears
+spinal cord,spinal cord,,,hard,The bundle of nerves running through the spine
+thigh,thigh,,,normal,The part of the leg between the hip and the knee
+throat,throat,,,hard,The passage at the back of the mouth leading to the stomach and lungs
+thumb,thumb,,,simple,"The short, thick finger set apart from the other four"
+toe,toe,,,simple,One of the digits at the end of the foot
+toenail,toenail,,,simple,The hard covering on the tip of a toe
+tongue,tongue,,,simple,The muscular organ in the mouth used for tasting and speaking
+tooth,tooth,,,simple,One of the hard white structures in the mouth used for biting
+upper arm,upper arm,,,simple,The part of the arm between the shoulder and the elbow
+waist,waist,,,hard,The narrow part of the body between the ribs and the hips
+windpipe,windpipe,,,hard,The tube that carries air to the lungs
+wrist,wrist,,,hard,The joint connecting the hand to the arm
