@@ -1,75 +1,87 @@
-term,value,context,context value,level
-@author,Kazbek Biasti,,,
-@author.local,Биасти Георги фурт Хъазибег,,,
-@topic,Æзмæлуйнадæ,,,
-amble,дзоргъа,,,hard
-bounce,æсхъеун,,,normal
-bump,æсхуайун,,,simple
-catch,ахæссун,,,simple
-clap,фæртт кæнун,,,normal
-cook,хуæруйнаг кæнун,,,simple
-crawl,хелун,,,normal
-cry,кæун,,,simple
-dance,кафун,,,simple
-dart,æхсун,,,normal
-do exercise,фæлварæнтæ кæнун,,,normal
-drag,æнцъохун,,,simple
-drink,ниуазун,,,simple
-drop,гæлдзун,,,simple
-eat,хуæрун,,,simple
-get up,истун,,,simple
-hit,цæвун,,,simple
-jog,ледзун,,,normal
-kick,æсхуайун,,,simple
-kiss,носун,,,simple
-laugh,ходун,,,simple
-lie down,хуссун,,,normal
-limp,къулух цæун,,,simple
-listen,игъосун,,,simple
-look,кæсун,,,simple
-lope,сæпп кæнун,,,normal
-march,æмцуд кæнун,,,normal
-open,игон кæнун,,,simple
-pick up,есун,,,simple
-point,амонун,,,normal
-pour,æвгæнун,,,simple
-pull,ласун,,,simple
-push,рæтегъун,,,simple
-put down,вæрун,,,simple
-read,кæсун,,,simple
-roll,тулун,,,simple
-run,ледзун,,,simple
-saunter,тезгъо кæнун,,,normal
-scamper,ледзун,,,normal
-scurry,æнтойнæ,,,normal
-shave,дасун,,,simple
-sing,зарун,,,simple
-sit,бадун,,,simple
-slip,гурун,,,hard
-smile,идзолун,,,simple
-spin,урухсун,,,normal
-stagger,æнкъусун,,,normal
-stand,лæуун,,,simple
-stretch,изазун,,,normal
-strut,хъалæй цæун,,,hard
-study,ахур кæнун,,,normal
-sway,уегъун,,,simple
-talk,дзорун,,,simple
-think,сагъæс кæнун,,,simple
-throw,æхсун,,,simple
-tiptoe,гъузун,,,simple
-traipse,лæсун,,,normal
-trip over,цодун,,,hard
-wake up,райгъал ун,,,simple
-walk,цæун,,,simple
-watch,кæсун,,,simple
-wave,телун,,,normal
-work,косун,,,simple
-write,финсун,,,simple
-swim,накæ кæнун,,,simple
-floppy,æнгулдзæхтæ кæнун,,,hard
-rock,уозун,,,normal
-walking,уозер,,,normal
-walk,уозерун,,,normal
-crowbar,дорсæттæн,,,normal
-pierce,рæтъозун,,,normal
+term,value,context,context value,level,meaning
+@author,Kazbek Biasti,,,,
+@author.local,Биасти Георги фурт Хъазибег,,,,
+@topic,Æзмæлуйнадæ,,,,
+amble,дзоргъа,,,hard,Сабур æма иругъд цуд
+bounce,æсхъеун,,,normal,Æзмæлун хæрдмæ æма тъизмæ уæлцъарæй фæс-цæф
+bump,æсхуайун,,,simple,Ести бæл фæххубурстæй исуайун
+catch,ахæссун,,,simple,Рахуæцун цидæр уæлдæф бæл тæхгæй
+clap,фæртт кæнун,,,normal,Армитъæпæнтæ сæ кæрæдзе цæвун къæрцц кæнунмæ
+cook,хуæруйнаг кæнун,,,simple,Хуаллаг цæттæ кæнун  тæвдæ байгъаунæй
+crawl,хелун,,,normal,Сундæггай æзмæлун бауæрæй зæнхæмæ хæстæг
+cry,кæун,,,simple,"Цæстисугтæ калун, арæхдæр мæтæлæй кенæ ристæй"
+dance,кафун,,,simple,Бауæр æзмæлун ритммæ кæсгæ
+dart,æхсун,,,normal,Æвеппайди æма тагъд æзмæлун бæлвурд æздæхмæ
+do exercise,фæлварæнтæ кæнун,,,normal,to perform physical activity to stay fit FIXME:
+drag,æнцъохун,,,simple,Зинтæй ести ласун уæлцъарæбæл
+drink,ниуазун,,,simple,Донгъæдæ цъухмæ есун æма æй нухъуæрун
+drop,гæлдзун,,,simple,Ести хаун бауадзун
+eat,хуæрун,,,simple,Хуаллаг цъухмæ æвæрун æма æй нихъуæрун
+get up,истун,,,simple,Исхуæцун хусгæй кенæдта бадгæй
+hit,цæвун,,,simple,Хъæбæр æрбакъæрцц кæнун еске кенæ ести
+jog,ледзун,,,normal,Æзгъорун сабургай
+kick,æсхуайун,,,simple,Ести къахæй цæвун
+kiss,носун,,,simple,Æндзæвун кедæр билтæй æхцул равдесунмæ
+laugh,ходун,,,simple,Нимæр кæнун исæрхæн кенæ амонд равдесунмæ
+lie down,хуссун,,,normal,"Бауæрæ æвæрун сабæк, æнцад æвæрди"
+limp,къулух цæун,,,simple,Хъел-мелтæ цæун цæф къахи туххæй
+listen,игъосун,,,simple,Нимæрмæ гъос дарун
+look,кæсун,,,simple,Цæститæ аразун ескумæ
+lope,сæпп кæнун,,,normal,"Æзгъорун  даргъ, иругъд ампъезтæй"
+march,æмцуд кæнун,,,normal,"Цæун усмæн ампъезтæй, арæх тугурæй"
+open,игон кæнун,,,simple,Ести базмæлун цæмæй æхгæд мабал уа
+pick up,есун,,,simple,Исхуæцун ести уæцъарæй
+point,амонун,,,normal,Æздæх æнгулдзæй æвдесун
+pour,æвгæнун,,,simple,Исирд кæнун донгъæдæ авгæй æндæмæ
+pull,ласун,,,simple,Ести тухæй æзмæлун дæхе фæстæ
+push,рæтегъун,,,simple,Ести тухæй æзмæлун дæхецæй æндæмæ
+put down,вæрун,,,simple,Ести уæлцъарæбæл рабунат кæнун
+read,кæсун,,,simple,æвзарун æма лæдæрун финст нихæстæ
+roll,тулун,,,simple,Æзмæлун зелгæ-зелунæй
+run,ледзун,,,simple,Фуртагъдæй æзмæлун лæугæй
+saunter,тезгъо кæнун,,,normal,"Сабур, иругъд цуд"
+scamper,ледзун,,,normal,Фуртагъдæй æзмæлун лæугæй
+scurry,æнтойнæ,,,normal,Хæлæфгæнгæй æзмæлун цубур изуст къахдхæфтæй
+shave,дасун,,,simple,Царæй гъунтæ есун
+sing,зарун,,,simple,Гъæлæсæй зæлтæ кæнун
+sit,бадун,,,simple,Бауæри фæллад уадзун лæбæзтæбæл æнцайун
+slip,гурун,,,hard,Æвеппайди æрлæсун æма æмуæзадæ байсафун
+smile,идзолун,,,simple,Билтæ зихъир кæнун æхсидзгондзийнадæ равдесунмæ
+spin,урухсун,,,normal,Æздæхун фæрсмæ тагъдæй æма фæлхатæй
+stagger,æнкъусун,,,normal,Зæрдкъуæзгæй цæун цума хауис
+stand,лæуун,,,simple,Дуруз ун къæхтæбæл
+stretch,изазун,,,normal,Раурух кæнæн баурæ кенæ гæндзæхтæ се’нхæст дæргъæмæ
+strut,хъалæй цæун,,,hard,"Сæрустур, нифсгун цуд"
+study,ахур кæнун,,,normal,Рæстæг æрветун ести базонунмæ
+sway,уегъун,,,simple,Сабур æзмæлун  фарсæй-фарсмæ
+talk,дзорун,,,simple,Бастдзийнадæ кæнун цъух-дзурдæй
+think,сагъæс кæнун,,,simple,to use (FIXME:использовать Виктор) the mind to consider something
+throw,æхсун,,,simple,Хуæцæнгарзæй ести гæлдзун уæлдæфи сæрти
+tiptoe,гъузун,,,simple,Сабур цуд FIXME:to walk quietly on the tips of the toes
+traipse,лæсун,,,normal,Фæллад кенæ æвæндон цуд
+trip over,цодун,,,hard,Ести бæл къах æркъуæрун
+wake up,райгъал ун,,,simple,Хуст кенæ фун баорамун
+walk,цæун,,,simple,Æзмæлун къæхтæбæл
+watch,кæсун,,,simple,Усмæ естæмæ фæлгæсун
+wave,телун,,,normal,Æзмæлун къох фарсæй-фарсмæ салан равдесунмæ
+work,косун,,,simple,Ихæст кенæ куст кæнун
+write,финсун,,,simple,Думагътæ кæнæдта нихæстæ аразун уæлцъарæбæл
+swim,накæ кæнун,,,simple,Дони хурфи кенæ сæрти æзмæлун
+floppy,æнгулдзæхтæ кæнун,,,hard,Æндæрсгæ гæллеу кæнун
+rock,уозун,,,normal,Æнæфенкъусгæ æзмæлун размæ-фæстæмæ кенæ фарсæй-фармæ
+walking,уозер,,,normal,Къæхтæбæл цæун миуæ
+walk,уозерун,,,normal,Къæхтæбæл цæун
+crowbar,дорсæттæн,,,normal,"Æвсæйнаг къæбæл, косунцæ æ хæццæ  used FIXME: хуæцæн æфтаун FIXME:as a lever to force things apart"
+pierce,рæтъозун,,,normal,Цъасæ кæнун циргъ дзаумаæй
+insert,тъунсун,,,simple,"Æвæрун, fit FIXME: ести to put, fit, or slide something into a specific space or place"
+shudder,бастъæлфун,,,normal,Æваст æма изуст æзмæлдæ фуртарстæй
+crush,æууæрцъæ кæнун,,,hard,Æнсæндун ести
+shred,æууæрцъæ кæнун,,,hard,Æнæгъолæй къабæзтæ кæнун
+chew,æууелун,,,simple,Хуæрдæ листæг кæнун дæндæгутæй
+load up,æфсæдун,,,normal,наедаться - есть до сытости
+enjoy,æфсæдун,,,normal,Æхсидзгондзийнадæ есун естæмæй
+take a step,æфсæрун,,,hard,Естæбæл къах ивæрун
+clean up,æфснайун,,,simple,"Кетар кæнун, кæдзос кæнун рафæлгæндæ"
+wash,æхснун,,,simple,Ести кæдзос кæнун донæй
+drag,те-те кæнун,,,hard,Ласун ести зæнхи уæлæнгæбæл æнæ есгæ
+dodge,тилеф кæнун,,,hard,Изуст æзмæлдæй  цæф кенæ фембæлд расерф кæнун
