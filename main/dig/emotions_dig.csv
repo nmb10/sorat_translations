@@ -1,16 +1,16 @@
-term,value,context,context value,level
-@topic,Æнкъарæнтæ,,,
-@author,Kazbek Biasti,,,
-anger,фурмæст,,,simple
-contempt,æгадæ,,,simple
-disgust,илгъадæ,,,simple
-fear,тас,,,simple
-guilt,лазæ,,,simple
-hostility,гегæ,,,simple
-interest,игъосун,,,simple
-joy,цинæ,,,simple
-sadness,мæтъæл,,,simple
-shame,ходуйнаг,,,simple
-shyness,нимдæ,,,simple
-surprise,æнæнгъæл,,,normal
-concern,хахъ,,,normal
+term,value,context,context value,level,meaning
+@topic,Æнкъарæнтæ,,,,
+@author,Kazbek Biasti,,,,
+anger,фурмæст,,,simple,Хъæбæр æнкъарæн æвзæр æхе ка дардта уой нихмæ
+contempt,æгадæ,,,simple,Хъæбæр æнæцитæ кемæн кæмæдæр кенæдта цæмæдæр
+disgust,илгъадæ,,,simple,Ескæ дæ зæрдæмæ хъæбæр ку нæ цæуй уæхæн æнкъарæн
+fear,тас,,,simple,Хъæбæр æма булгъахъ кемæн лæгъуз кенæдта тæссаг гъуддагмæ ку æнгъæлмæ кæсис
+guilt,лазæ,,,simple,Хъæбæр ходуйнаг æнкъарæн ести æнæраст миу кенæдта дзурди фæстæ
+hostility,гегæ,,,simple,"Мæстгун уагæ, æвдесуй цидæр дæ зæрдæмæ хъæбæр нæ цæуй"
+interest,игъосун,,,simple,Гъос дарун æнкъарæн
+joy,цинæ,,,simple,Устур амондзийнади æнкъарæн
+sadness,мæтъæл,,,simple,Æнамонд кенæдта ести дæу ци кæнуй æнамонд
+shame,ходуйнаг,,,simple,Ести æгадæ миу фæстæ æнкъарæн
+shyness,нимдæ,,,simple,Æфсæрми кæнун æвæсмард адæни хæццæ дзорун
+surprise,æнæнгъæл,,,normal,Ести гъуддаг æнгъæлмæ кæмæ нæ кастæ ку æрцæуй
+concern,хахъ,,,normal,Ескæмæн æхсидзгон ун уæхæн æнкъарæн
