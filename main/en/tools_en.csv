@@ -1,37 +1,37 @@
-term,value,context,context value,level
-@topic,Tools,,,
-@author,Kazbek Biasti,,,
-bolt,bolt,,,simple
-nail,nail,,,simple
-screwdriver,screwdriver,,,simple
-bradawl,bradawl,,,simple
-handsaw,handsaw,,,simple
-nut,nut,,,simple
-screw,screw,,,simple
-wrench,wrench,,,simple
-backsaw,backsaw,,,simple
-mallet,mallet,,,simple
-hammer,hammer,,,simple
-adjustable wrench,adjustable wrench,,,simple
-coping saw,coping saw,,,simple
-pipe wrench,pipe wrench,,,simple
-hacksaw,hacksaw,,,simple
-spirit level,spirit level,,,simple
-pocketknife,pocketknife,,,simple
-scissors,scissors,,,simple
-chainsaw,chainsaw,,,simple
-drill,drill,,,simple
-brace,brace,,,simple
-lineman’s pliers,lineman’s pliers,,,simple
-toolbox,toolbox,,,simple
-corkscrew,corkscrew,,,simple
-diagonal pliers,diagonal pliers,,,simple
-tape measure,tape measure,,,simple
-plunger,plunger,,,simple
-caulking gun,caulking gun,,,simple
-slip joint pliers,slip joint pliers,,,simple
-stepladder,stepladder,,,simple
-needle nose pliers,needle nose pliers,,,simple
-axe,axe,,,simple
-jack plane,jack plane,,,simple
-pliers,pliers,,,simple
+term,value,context,context value,level,meaning
+@topic,Tools,,,,
+@author,Kazbek Biasti,,,,
+bolt,bolt,,,simple,"A metal pin with a head and a thread, used with a nut to hold things together"
+nail,nail,,,simple,A thin pointed piece of metal that you hit with a hammer to join pieces of wood
+screwdriver,screwdriver,,,simple,A tool for turning screws
+bradawl,bradawl,,,simple,A small pointed tool for making holes in wood
+handsaw,handsaw,,,simple,A saw that you use with one hand
+nut,nut,,,simple,A small piece of metal with a threaded hole that screws onto a bolt
+screw,screw,,,simple,"A thin pointed piece of metal with a spiral thread, turned to fix things together"
+wrench,wrench,,,simple,A tool for holding and turning nuts and bolts
+backsaw,backsaw,,,simple,"A saw with a stiff back edge, used for making exact cuts"
+mallet,mallet,,,simple,A hammer with a large wooden or rubber head
+hammer,hammer,,,simple,"A tool with a heavy metal head on a handle, used for hitting nails"
+adjustable wrench,adjustable wrench,,,simple,A wrench whose jaws can be moved to fit nuts of different sizes
+coping saw,coping saw,,,simple,"A small saw with a very thin blade, used for cutting curves"
+pipe wrench,pipe wrench,,,simple,A large adjustable wrench for gripping and turning pipes
+hacksaw,hacksaw,,,simple,"A saw with a thin blade in a frame, used for cutting metal"
+spirit level,spirit level,,,simple,"A tool with a bubble in liquid, used to check that a surface is flat and level"
+pocketknife,pocketknife,,,simple,A small knife with a blade that folds into the handle
+scissors,scissors,,,simple,"A tool with two blades joined in the middle, used for cutting paper or cloth"
+chainsaw,chainsaw,,,simple,"A saw with a motor and a chain of teeth, used for cutting wood"
+drill,drill,,,simple,A tool for making holes
+brace,brace,,,simple,"A hand tool with a crank handle, used for drilling holes"
+lineman’s pliers,lineman’s pliers,,,simple,"Strong pliers for gripping, twisting and cutting electrical wire"
+toolbox,toolbox,,,simple,A box for keeping tools in
+corkscrew,corkscrew,,,simple,A tool for pulling corks out of bottles
+diagonal pliers,diagonal pliers,,,simple,"Pliers with angled cutting edges, used for cutting wire"
+tape measure,tape measure,,,simple,"A long strip of material marked with units, used for measuring"
+plunger,plunger,,,simple,"A rubber cup on a handle, used to clear blocked pipes"
+caulking gun,caulking gun,,,simple,A tool for pushing sealant out of a tube to fill gaps
+slip joint pliers,slip joint pliers,,,simple,Pliers with a movable joint so the jaws can open wider
+stepladder,stepladder,,,simple,A folding ladder with flat steps that stands without support
+needle nose pliers,needle nose pliers,,,simple,"Pliers with long thin jaws, used for holding small objects"
+axe,axe,,,simple,"A tool with a heavy blade on a long handle, used for chopping wood"
+jack plane,jack plane,,,simple,A general-purpose plane used for smoothing wood
+pliers,pliers,,,simple,"A hand tool with two jaws, used for holding, bending or cutting wire"

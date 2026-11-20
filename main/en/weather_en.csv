@@ -1,23 +1,23 @@
-term,value,context,context value,level
-@topic,Weather,,,
-@author,Kazbek Biasti,,,
-autumn,autumn,season,,simple
-cloudy,cloudy,,,normal
-cold,cold,,,simple
-cool,cool,,,normal
-dry,dry,,,simple
-foggy,foggy,,,simple
-freezing,freezing,,,simple
-hot,hot,,,simple
-icy,icy,,,normal
-rainy,rainy,,,simple
-snowy,snowy,,,simple
-spring,spring,season,,simple
-summer,summer,season,,simple
-sunny,sunny,,,simple
-temperature,temperature,,,normal
-thermometer,thermometer,,,hard
-warm,warm,,,simple
-wet,wet,,,normal
-windy,windy,,,normal
-winter,winter,season,,simple
+term,value,context,context value,level,meaning
+@topic,Weather,,,,
+@author,Kazbek Biasti,,,,
+autumn,autumn,season,,simple,"The season between summer and winter, when leaves fall from trees"
+cloudy,cloudy,,,normal,With a lot of clouds in the sky
+cold,cold,,,simple,Having a low temperature
+cool,cool,,,normal,"Slightly cold, in a pleasant way"
+dry,dry,,,simple,Without rain
+foggy,foggy,,,simple,With thick cloud near the ground that makes it hard to see
+freezing,freezing,,,simple,"Extremely cold, at or below the temperature at which water turns to ice"
+hot,hot,,,simple,Having a high temperature
+icy,icy,,,normal,"Very cold, or covered with ice"
+rainy,rainy,,,simple,With a lot of rain
+snowy,snowy,,,simple,With a lot of snow
+spring,spring,season,,simple,"The season between winter and summer, when plants begin to grow"
+summer,summer,season,,simple,"The warmest season of the year, between spring and autumn"
+sunny,sunny,,,simple,With bright sunshine
+temperature,temperature,,,normal,How hot or cold something is
+thermometer,thermometer,,,hard,An instrument for measuring temperature
+warm,warm,,,simple,"Fairly hot, in a pleasant way"
+wet,wet,,,normal,"Covered with water, or rainy"
+windy,windy,,,normal,With a lot of wind
+winter,winter,season,,simple,"The coldest season of the year, between autumn and spring"

@@ -1,56 +1,56 @@
-term,value,context,context value,level
-@author,Kazbek Biasti,,,
-@topic,Nature,,,
-@local_topic,Nature,,,
-bay,bay,,,normal
-beach,beach,,,simple
-bridge,bridge,,,simple
-canyon,canyon,,,simple
-cave,cave,,,normal
-cliff,cliff,,,normal
-cloud,cloud,,,simple
-coast,coast,,,simple
-crater,crater,,,normal
-dam,dam,,,normal
-desert,desert,,,simple
-dune,dune,,,normal
-field,field,,,simple
-flowers,flowers,,,simple
-forest,forest,,,simple
-glacier,glacier,,,simple
-grass,grass,,,simple
-ground,ground,,,simple
-hill,hill,,,simple
-hill,hill,,,simple
-island,island,,,simple
-jungle,jungle,,,normal
-lake,lake,,,normal
-land,land,,,simple
-land,land,,,simple
-leaf,leaf,,,simple
-meadow,meadow,,,simple
-mine,mine,,,normal
-moon,moon,,,simple
-moss,moss,,,normal
-mountain,mountain,,,simple
-mud,mud,,,simple
-ocean,ocean,,,simple
-park,park,,,simple
-pebble,pebble,,,normal
-rainbow,rainbow,,,simple
-river,river,,,simple
-riverbank,riverbank,,,normal
-rock,rock,,,simple
-sand,sand,,,simple
-sea,sea,,,simple
-sea shell,sea shell,,,normal
-sky,sky,,,simple
-soil,soil,,,simple
-star,star,,,simple
-stone,stone,,,simple
-tree,tree,,,simple
-tunnel,tunnel,,,simple
-water,water,,,simple
-waterfall,waterfall,,,simple
-wave,wave,,,normal
-whirlpool,whirlpool,,,normal
+term,value,context,context value,level,meaning
+@author,Kazbek Biasti,,,,
+@topic,Nature,,,,
+@local_topic,Nature,,,,
+bay,bay,,,normal,A part of the sea or a lake that curves into the land
+beach,beach,,,simple,An area of sand or small stones next to the sea or a lake
+bridge,bridge,,,simple,"A structure built over a river, road or valley so people can cross it"
+canyon,canyon,,,simple,"A deep, narrow valley with steep sides, often with a river at the bottom"
+cave,cave,,,normal,A large natural hole in the side of a hill or under the ground
+cliff,cliff,,,normal,"A high, steep face of rock, often at the edge of the sea"
+cloud,cloud,,,simple,A white or grey mass of tiny water drops floating in the sky
+coast,coast,,,simple,The land next to the sea
+crater,crater,,,normal,"A large round hole in the ground, made by a volcano or a falling object"
+dam,dam,,,normal,A wall built across a river to hold back the water
+desert,desert,,,simple,"A large, dry area of land with very little rain and few plants"
+dune,dune,,,normal,A hill of sand formed by the wind
+field,field,,,simple,"An open area of land, often used for growing crops or keeping animals"
+flowers,flowers,,,simple,The colourful parts of plants that produce seeds
+forest,forest,,,simple,A large area of land covered with trees
+glacier,glacier,,,simple,"A large, slowly moving mass of ice"
+grass,grass,,,simple,A common plant with thin green leaves that covers the ground
+ground,ground,,,simple,The surface of the earth
+hill,hill,,,simple,"An area of land that is higher than the land around it, but lower than a mountain"
+hill,hill,,,simple,"An area of land that is higher than the land around it, but lower than a mountain"
+island,island,,,simple,A piece of land with water all around it
+jungle,jungle,,,normal,A thick tropical forest with many trees and plants growing close together
+lake,lake,,,normal,A large area of water surrounded by land
+land,land,,,simple,"The solid part of the earth, not covered by water"
+land,land,,,simple,"The solid part of the earth, not covered by water"
+leaf,leaf,,,simple,"A flat, usually green part of a plant that grows from a stem or branch"
+meadow,meadow,,,simple,A field of grass and wild flowers
+mine,mine,,,normal,"A deep hole in the ground from which coal, metal or stones are dug"
+moon,moon,,,simple,The large round object that moves around the earth and shines at night
+moss,moss,,,normal,"A small, soft green plant that grows on rocks, trees and wet ground"
+mountain,mountain,,,simple,A very high hill
+mud,mud,,,simple,"Wet, soft earth"
+ocean,ocean,,,simple,A very large area of salt water that covers much of the earth
+park,park,,,simple,A public area with grass and trees where people go to walk and relax
+pebble,pebble,,,normal,"A small, smooth, round stone"
+rainbow,rainbow,,,simple,"An arc of colours in the sky, seen when the sun shines through rain"
+river,river,,,simple,A large natural stream of water flowing to the sea or a lake
+riverbank,riverbank,,,normal,The land along the side of a river
+rock,rock,,,simple,"The hard, solid material that forms part of the earth; a large stone"
+sand,sand,,,simple,Very small grains of rock found on beaches and in deserts
+sea,sea,,,simple,The salt water that covers a large part of the earth
+sea shell,sea shell,,,normal,"The hard outer cover of a small sea animal, often found on beaches"
+sky,sky,,,simple,"The space above the earth where you see the sun, moon, stars and clouds"
+soil,soil,,,simple,The top layer of the earth in which plants grow
+star,star,,,simple,"A large ball of burning gas in space, seen as a point of light at night"
+stone,stone,,,simple,A small piece of rock
+tree,tree,,,simple,A tall plant with a wooden trunk and branches
+tunnel,tunnel,,,simple,A long passage under the ground or through a hill
+water,water,,,simple,"The clear liquid that falls as rain and fills rivers, lakes and seas"
+waterfall,waterfall,,,simple,A place where a river falls from a high place to a lower one
+wave,wave,,,normal,A raised line of water moving across the surface of the sea
+whirlpool,whirlpool,,,normal,A place in water where the current turns round very fast in a circle
