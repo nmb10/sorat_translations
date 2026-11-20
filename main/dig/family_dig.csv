@@ -1,24 +1,24 @@
-term,value,context,context value,level
-@topic,Бийнонтæ,,,
-@author,Kazbek Biasti,,,
-@author_local,Биасти Георги фурт Казбек,,,
-baby,бæдолæ,,,simple
-boy,биццеу,,,simple
-bride,ностæ,,,simple
-brothers,æнсувæр,,,simple
-children,сувæллæнтæ,,,simple
-daughter,кизгæ,,,simple
-family,бийнонтæ,,,simple
-father,фидæ,,,simple
-girl,кизгæ,,,simple
-grandfather,баба,,,simple
-grandmother,нана,,,simple
-groom,мойнаг,,,normal
-husband,мойнæ,,,normal
-man,лæг,,,simple
-mother,мадæ,,,simple
-parents,нийæргутæ,,,simple
-son,фурт,,,simple
-twins,фаззæттæ,,,normal
-wife,уосæ,,,normal
-woman,силгоймаг,,,simple
+term,value,context,context value,level,meaning
+@topic,Бийнонтæ,,,,
+@author,Kazbek Biasti,,,,
+@author_local,Биасти Георги фурт Казбек,,,,
+baby,бæдолæ,,,simple,A very young child
+boy,биццеу,,,simple,A young male person
+bride,ностæ,,,simple,A woman on her wedding day
+brothers,æнсувæр,,,simple,Male siblings
+children,сувæллæнтæ,,,simple,Young human beings
+daughter,кизгæ,,,simple,A person's female child
+family,бийнонтæ,,,simple,A group of people related by blood or marriage
+father,фидæ,,,simple,A male parent
+girl,кизгæ,,,simple,A young female person
+grandfather,баба,,,simple,The father of a person's father or mother
+grandmother,нана,,,simple,The mother of a person's father or mother
+groom,мойнаг,,,normal,A man on his wedding day
+husband,мойнæ,,,normal,A man to whom a woman is married
+man,лæг,,,simple,An adult male human
+mother,мадæ,,,simple,A female parent
+parents,нийæргутæ,,,simple,A person's father and mother
+son,фурт,,,simple,A person's male child
+twins,фаззæттæ,,,normal,Two children born from the same pregnancy
+wife,уосæ,,,normal,A woman to whom a man is married
+woman,силгоймаг,,,simple,An adult female human

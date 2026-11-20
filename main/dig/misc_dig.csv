@@ -1,532 +1,556 @@
-term,value,context,context value,level
-@topic,Аллихузон,,,
-@author,Kazbek Biasti,,,
-European,пранкаг,,,normal
-acne,тæпхæл,,,normal
-adobe,саман,,,hard
-adze,пъæнæз,,,hard
-alert,ниггæмæл ун,,,normal
-alive,сæрæгас,,,normal
-amber,дзендзе,,,hard
-angle,къумон,,,normal
-anguish,ухери,,,normal
-apron,куатæ,,,hard
-aqua regia,кезапп,,,hard
-arrow,фат,,,normal
-axis,сæмæн,,,hard
-backhand,уæларм,,,hard
-balcony,затма,,,normal
-ball,къозо,,,simple
-basket,тæскъæ,,,simple
-bathe,æртайун,,,simple
-bayonet,мудзура,,,normal
-be sick,сæйгæ,,,simple
-bedridden patient,сæйгæ,,,normal
-beekeeper,мудгæс,,,normal
-bell,мурæ,,,normal
-between,æхсæн,,,simple
-birthmark,саустъæлфæ,,,simple
-blacksmith,курд,,,hard
-blister,хæппил,,,normal
-bloodhound,самуркуй,,,hard
-blueprint,нивæзт,,,normal
-boat,кема,,,simple
-boundary,арæн,,,normal
-box,аскъæл,,,simple
-bracelet,сахсæн,,,normal
-brake,суггум,,,normal
-brand,къипхæ,,,normal
-bravo,бæрсий,,,normal
-bread in milk,сæкка,,,hard
-breakfast,сехуар,,,simple
-brick,агори дор,,,simple
-bride,ностæ,,,normal
-brook,къада,,,normal
-broom,уесойнæ,,,simple
-bucket,къибила,,,simple
-bud,къомбох,,,normal
-build,амайун,,,normal
-bunch,гобат,,,simple
-buttock,лæбæз,,,simple
-button,гибу,,,normal
-caftan,курæт,,,hard
-calf,гæдзила,,,simple
-candle,цирагъ,,,simple
-captivity,уацар,,,hard
-carpet,гауз,,,simple
-cast iron,циуан,,,normal
-chair,къела,,,simple
-cheek,уадолæ,,,simple
-chestnut,мудхуз,,,normal
-chimney,тохона,,,normal
-circassian,цохъа,,,normal
-circle,фæлгур,,,hard
-clay,æргъæ,,,normal
-clear,кæдзос,,,simple
-clever,сæрæн,,,normal
-cloak,гæллеу,,,normal
-cloud,æврагъ,,,simple
-coffee,скъордон,,,simple
-collar,æфцæкъуатæ,,,hard
-comb,сæрвасæн,,,simple
-cone,дурæ,,,hard
-consent,арази,,,normal
-corner,бекъæ,,,normal
-cotton,бæмпæг,,,normal
-cotton wool,бæмпæг,,,normal
-country house,нидæнуат,,,normal
-court,тæрхон,,,normal
-crampon,гебунтæ,,,hard
-crane,уæзесæн,,,normal
-cunning,налат,,,normal
-cup,къос,,,normal
-cup,синон,,,normal
-dangling,дзæгелæ,,,normal
-dawn,уæлбон,,,simple
-defective,потгонд,,,normal
-desolation,гæнистон,,,normal
-diary,бонуг,,,normal
-dirty weather,забалахъ,,,normal
-disheveled,пихцил,,,normal
-door,дуар,,,simple
-doubt,гузавæ,,,normal
-dress,пъолци,,,simple
-drop,æртах,,,simple
-earth,зæнхæ,,,simple
-eat,лæперун,,,normal
-egg,айкæ,,,simple
-facade,сента,,,normal
-faint,уæлдзæг,,,simple
-familiar,вæсмард,,,normal
-famous,цитгин,,,normal
-far away,гандза,,,simple
-feather,пакъу,,,hard
-fig,муф,,,simple
-finger ring,нихвæр,,,normal
-fisher,балир,,,normal
-fist,мæсундзæг,,,simple
-flame,илауон,,,normal
-flank,сера,,,normal
-flour,инсад,,,simple
-fluff,пакъу,,,normal
-flute,уадиндзæ,,,hard
-fondle,талас кæнун,,,simple
-forge,курдбадзæ,,,normal
-fraction,сабантъи,,,hard
-fraud,фæлевæн,,,normal
-freedom,сæребарæ,,,normal
-fry,цорун,,,simple
-gems,нал,,,normal
-ghoul,пъæзу,,,hard
-giant,гæлгой,,,hard
-gift,саугъа,,,simple
-glade,æрдозæ,,,normal
-glimpse,сикир,,,normal
-glue,сансæ,,,normal
-go backwards,сидзмудзи,,,simple
-goal,къем,,,simple
-granite,айнæгдор,,,normal
-gravel,цæхуарæ,,,normal
-greed,зудæ,,,normal
-greek,бердзейнаг,,,normal
-groom,мойнаг,,,normal
-ground,сикъит,,,normal
-gum,синæр,,,simple
-gutter,цухцурнæ,,,normal
-hairless,куассæ,,,normal
-handgun,гобедза,,,normal
-hang around,гæллеу,,,normal
-happiness,нивæ,,,normal
-harbor,наууат,,,hard
-harrow,похци,,,hard
-hawser,бидт,,,hard
-headache,сæринез,,,normal
-heap,æнсарæ,,,normal
-hearth,къона,,,hard
-hearth fence,ундугæ,,,hard
-heavy,харакет,,,hard
-hell-fire,туфул,,,normal
-helmet,така,,,normal
-helmet,сæрзæнт,,,normal
-hematoma,тогдæппал,,,normal
-hewn stone,гæрнадор,,,normal
-hiccup,къуæзун,,,simple
-hive,бæтман,,,normal
-hogweed,билбатуг,,,hard
-hollow,мура,,,simple
-honor,цитæ,,,normal
-hoof,сæфтæг,,,normal
-horn,сикъа,,,simple
-house,хæдзарæ,,,simple
-hug,хъури кæнун,,,simple
-husband,мойнæ,,,normal
-image,сорæт,,,normal
-image,нивæ,,,normal
-in turn,кезугай,,,simple
-inflate,дунсун,,,simple
-invisible,салф,,,simple
-jointer,саласийнæ,,,normal
-jump,лæуерун,,,simple
-king,падзах,,,normal
-king,перц,,,normal
-knee,зонуг,,,simple
-knight,тонауæг,,,normal
-kudos,кад,,,normal
-ladle,цолпи,,,simple
-lake,цадæ,,,simple
-lance,арист,,,hard
-lapdog,серка,,,hard
-lathe,зурнæ,,,normal
-lawn,дзедзо,,,normal
-lead,изди,,,hard
-left,галеу,,,simple
-lens,цъести фæрдуг,,,normal
-leprosy,гæллæханез,,,hard
-lightning,арвæртивд,,,normal
-line,ханхæ,,,simple
-lump,къубус,,,simple
-lush,пампуси,,,normal
-male hunting female,гит,,,hard
-marrow,хъанз,,,hard
-mattress,гобан,,,normal
-maybe,мусийнæ,,,simple
-melt,æртайун,,,simple
-mercury,гинасу,,,hard
-message,уст,,,simple
-miss,сæрзад,,,normal
-mockery,гириз,,,hard
-mosquito,саскъæ,,,simple
-mother in law,уосимадæ,,,normal
-multiplication,бæрон,,,hard
-mumbler,хомух,,,simple
-muzzle,къенбурбос,,,normal
-navel,наффæ,,,simple
-niche,гайла,,,normal
-noise,бис,,,normal
-notch,гæлерæ,,,hard
-one-sided,сента,,,normal
-orbit,цъæсти къурфæ,,,normal
-oven,пец,,,simple
-overhang,катæ,,,normal
-paddle,беслеу,,,simple
-paddle,къохар,,,simple
-pallet,пъæрæмит,,,normal
-pan,тебæ,,,normal
-pants,хæлаф,,,simple
-paradise,дзенет,,,normal
-peak,къонца,,,normal
-pearl,сæтæлхуз,,,normal
-pendulum,дзедзро,,,normal
-pilaf,пæлау,,,simple
-pillar,сæх,,,normal
-pillar,цæгиндзæ,,,simple
-piston,бæрдæн,,,hard
-plow,готон,,,hard
-pooch,къудуркой,,,normal
-pot,галемæ,,,normal
-pot,гæлиз,,,normal
-prey,хуали,,,normal
-proud,сæрустур,,,normal
-puke,уомун,,,simple
-pumice,цинадор,,,normal
-pupil,цъæсти гагу,,,normal
-qualitative,келбетон,,,normal
-quiver,сайдахъ,,,hard
-rag,къимбус,,,simple
-rainfall,сахуард,,,simple
-refugee,мухадзир,,,hard
-revolver,гобедза,,,normal
-right,рахез,,,simple
-road,над,,,simple
-rock,дор,,,simple
-roller,наднæмæн,,,hard
-root,уедагæ,,,simple
-rope,суйнаг,,,simple
-round flat stone,сабæк,,,hard
-round flat stone,села,,,hard
-rowing,бæлæгътæрæн,,,normal
-ruby,лал,,,normal
-rug,горцъе,,,normal
-rust,изгæ,,,normal
-saddle,саргъ,,,hard
-sail,наупæлæз,,,normal
-satiation,сæлæт,,,hard
-sausage,дзормæ,,,simple
-scrap,сæстæг,,,normal
-scull,сæригæхцæ,,,normal
-sealing wax,песет,,,hard
-search,дзæголæ,,,normal
-shadow,сатæг,,,simple
-share,минди,,,normal
-sharp,циргъ,,,normal
-shawl,сасуг,,,hard
-shelf,уæлвæйнæг,,,normal
-shine,рохс,,,simple
-ship,науæ,,,simple
-shooting,нивист,,,normal
-shooting range,æхсæн,,,normal
-short,цъубур,,,simple
-shoulders ride,дзайдзай,,,normal
-shovel,бел,,,simple
-sieve,сарсийнæ,,,normal
-silhouette,сауæндар,,,hard
-silk,дарий,,,normal
-sing,зарун,,,simple
-sky,арв,,,simple
-slave,гæлех,,,normal
-sledgehammer,лæто,,,simple
-sleeve,сæмæнцæг,,,normal
-slim,гурведауцæ,,,normal
-slope,тæссар,,,normal
-slumber,самæти,,,normal
-small,минкъи,,,simple
-small axe,надзахи,,,normal
-smog,асмæ,,,normal
-smoked,стад,,,normal
-snout,къенбур,,,normal
-soup plate,хъулуф тæбæгъ,,,normal
-spatter,пурф,,,simple
-spin,урухсун,,,simple
-spirit,мон,,,normal
-spit,сæтæ,,,normal
-splinter,синдзæ,,,simple
-spoon,уедуг,,,simple
-spot,къедта,,,normal
-spring,цъæтæ,,,normal
-sprouts,забад,,,normal
-squire,гæрзхæссæг,,,hard
-stairs,асийнæ,,,simple
-stamp,мухур,,,normal
-stick,къуæцæл,,,simple
-storm,уадæ,,,normal
-stretch,бериндзун,,,normal
-strong man,бога,,,normal
-stump,къодах,,,simple
-sugar bowl,сæкæрдонæ,,,normal
-sulfur,сæуæндон,,,hard
-table,фингæ,,,normal
-tan,дзедзалæ,,,normal
-teapot,цайдан,,,simple
-temptation,монд,,,hard
-thesaurus,бæрæгуат,,,normal
-thorn,синдзæ,,,normal
-thought,сагъæс,,,normal
-thumb,дзиамбас,,,simple
-toilet,пусойнæ,,,simple
-torch,соли,,,simple
-touch,нидзæвун,,,simple
-tremble,резун,,,normal
-tripod,гæлизи корæнтæ,,,hard
-trough,бæлæгъ,,,normal
-tuberculosis,сасæг,,,hard
-tuesday,геуæргибон,,,simple
-turban,сарæхъ,,,hard
-upside down,сæрбунти,,,simple
-urinary tube,сиппа,,,hard
-venus,бонвæрнон,,,normal
-volume,медар,,,normal
-waiting,хезун,,,normal
-wallet,кисæ,,,normal
-warm,тавун,,,simple
-washer,цъæлхъос,,,simple
-waterskin,гæбæт,,,hard
-wattle,сахъарали,,,normal
-wattle wall,сахъара,,,normal
-wave,улæн,,,simple
-wedge,цорк,,,normal
-whetstone,сæрхæ,,,hard
-wick,пелта,,,normal
-wide,урух,,,simple
-win,уæлахиз,,,simple
-wineglass,синон,,,normal
-wonder,сæмæт,,,hard
-wooden bed,урундухъ,,,normal
-wooden chain,самакъа,,,hard
-wrong,æнарæст,,,normal
-yawn,хомбериндзæ,,,simple
-shoehorn,къелгæнæн,,,normal
-clew,къубулойнæ,,,normal
-hunchbacked,къупсуйнæ,,,hard
-coast,билгон,,,hard
-wheelbarrow,билбар,,,simple
-gurgling,хæбал-хубул,,,normal
-feed,хацун,,,simple
-stair,хъæпхæн,,,simple
-degree,хъæпхæн,,,hard
-turbine,зутъи,,,hard
-boulder,зурæдор,,,normal
-burka,гæлдеу,,,normal
-poor fellow,гæллæха,,,simple
-please,гæллæха,,,simple
-hut,уосонгæ,,,normal
-weariness,уæгæ,,,normal
-firewood,хора,,,normal
-neck,хопъалæ,,,simple
-carpet,горцъе,,,simple
-wood bowl,горда,,,normal
-saber,горда,,,normal
-ploughshare,госли,,,normal
-plough,готон,,,normal
-furrow,готонвæд,,,normal
-furrow,готондзæф,,,normal
-creamer,гоцъона,,,normal
-forelock,гоцъора,,,normal
-ice rink,гурæн,,,normal
-shaver,далакъи,,,normal
-caviar,еугæф,,,normal
-compass,керта,,,normal
-fortress,кесена,,,normal
-top,кинæ,,,simple
-crane,кипхæ,,,normal
-hope chest,кирæ,,,normal
-cap,кобса,,,hard
-gates,колдуар,,,simple
-kefir,кундурсу,,,normal
-slurry,лæхъерæ,,,hard
-mortar,лæхудзæ,,,hard
-sawmill,лухсуадзæн,,,normal
-medal,майдан,,,simple
-lunar eclipse,мæйхуар,,,hard
-solar eclipse,хордалингæ,,,hard
-choke,хорх кæнун,,,normal
-drought,хорфæлтæр,,,hard
-sink,хехснæн,,,hard
-touchstone,хердзæ,,,hard
-tandoor,хегæ,,,hard
-pipe,хæтæл,,,simple
-rifle,хæтæл,,,normal
-cane,хæтæл,,,hard
-heap,хæрхæ,,,normal
-sawdust,хæлхъæ,,,normal
-egg without shell,хæлцойнæ,,,normal
-shopping bag,хæлцойнæ,,,normal
-propeller,пернæ,,,simple
-resin,песе,,,hard
-bast shoes,бундзартæ,,,normal
-tile,гъосин,,,hard
-width,уæрхæ,,,hard
-cleaver,уæс,,,hard
-cellar,уæрмæ,,,normal
-brew,уæрас,,,hard
-barbed wire,хамец,,,hard
-mess,халхос,,,normal
-hotel,фусунуат,,,hard
-hospital,cæйгæдонæ,,,normal
-puddle,колæ,,,simple
-glasses,кæсæнцæститæ,,,simple
-kitchen,цæлгæнæн,,,simple
-refrigerator,гаргадонæ,,,simple
-plate,тефсег,,,normal
-bathroom,æртайæндонæ,,,simple
-door hook,æркъæу,,,normal
-boot,цулухъ,,,normal
-gutter,цухцурнæ,,,hard
-well,цъай,,,normal
-cleaver,цъалди,,,hard
-mittens,æрмкъохтæ,,,simple
-wound,æрхæд,,,simple
-gloves,æрходтæ,,,normal
-flint,æрцъинг,,,hard
-soot,æскъорæ,,,normal
-skeleton,æстæгдар,,,simple
-mixer,æстауæн,,,simple
-fainting,æуадзуг,,,normal
-cook,æфсапъæ,,,simple
-firewood,согтæ,,,simple
-needle,содзийнæ,,,simple
-hay bundle,лæппæр,,,hard
-fatman,тъух,,,hard
-ringing,тъиллинг,,,hard
-windmill,уадгуройнæ,,,normal
-bouillon,уардон,,,hard
-shield,уарт,,,normal
-whistle,уасæн,,,simple
-scales,уæзæбарæн,,,simple
-juice,лæдæрс,,,normal
-door lock,къума,,,normal
-tire,къила,,,hard
-trap,къæппæг,,,hard
-curd,къæдорæ,,,normal
-pantry,къæбец,,,normal
-beggar,къæбæргор,,,hard
-footwrap,къахтохæн,,,hard
-pencil,къариндас,,,simple
-holster,къадира,,,hard
-witch,курусдзау,,,normal
-ladle,кусийнæ,,,simple
-wicker box,куфæ,,,hard
-smooth,лагъз,,,normal
-box,лагъз,,,simple
-wineskin,лалун,,,hard
-pita,лауз,,,normal
-trench,лæгбадæн,,,hard
-stretcher,лæггуф,,,hard
-killer,лæгмар,,,normal
-slacker,магоса,,,simple
-mine,мадан,,,normal
-crystal,манг,,,normal
-poison,марг,,,simple
-waterskin,матара,,,hard
-festering gash,мæнггæс,,,hard
-guard,гæс,,,normal
-dirt layer,гæппар,,,hard
-bar,гепп,,,normal
-doll,гекъуна,,,simple
-mortar,фæстæ,,,hard
-armor,хотухтæ,,,normal
-click,къалца,,,simple
-ski,къахдзон,,,hard
-swimmer,накæгæнæг,,,normal
-grater,насхафæн,,,hard
-anchor,науæнгурæ,,,hard
-nerve,науæр,,,normal
-mast,наугъæдæ,,,hard
-helmsman,наудæрæг,,,hard
-butter,нæлхæ,,,simple
-bullet,нæмуг,,,simple
-corn,нæмуг,,,normal
-unhealthy,нæфæразæг,,,hard
-migraine,нихнез,,,normal
-disintegration,ниххеу ун,,,hard
-fresh,нозалæ,,,simple
-list,номхигъд,,,normal
-scar,нос,,,normal
-resin,песе,,,hard
-ottoman,пъандар,,,hard
-rot,пъура,,,hard
-lira,сааз,,,normal
-step,санкъех,,,simple
-bronze,æргъу,,,simple
-reserve,æргъун,,,normal
-ham,æрдасарм,,,normal
-hair,æрдо,,,simple
-hair vessel,æрдодадзин,,,normal
-triangle,æртивæрсуг,,,simple
-ash,æртходæг,,,normal
-wound,æрхæн,,,normal
-splinter,æрхъез,,,hard
-cloudlet,æстугæ,,,simple
-helmet,æсхъæрходæ,,,normal
-scarecrow,будургъæ,,,normal
-dough,къинсæ,,,simple
-mill,куройнæ,,,simple
-net,хизæ,,,simple
-mad,агъуд,,,normal
-hut,уосонгæ,,,normal
-blind,хъæрæу,,,simple
-seed,хъапа,,,simple
-wooden bowl,хъалац,,,normal
-lath,хъауари,,,normal
-clit,хъахъæ,,,hard
-prostitute,хъахбай,,,hard
-dumpling,хъæбун,,,hard
-barbed wire,хамец,,,hard
-wooden bucket,къæстæн,,,normal
-fireplace,тъæрингъос,,,simple
-convulsion,хæлæбурцъæ,,,normal
-bag,хизин,,,normal
-draught,уадзунгæ,,,hard
-servant,унаутæ,,,normal
-pot,æрхагæ,,,simple
-shot,тъæу,,,normal
-roasted corn,дзига,,,normal
+term,value,context,context value,level,meaning
+@topic,Аллихузон,,,,
+@author,Kazbek Biasti,,,,
+European,пранкаг,,,normal,A person from Europe
+acne,тæпхæл,,,normal,A skin condition causing spots common in teenagers
+adobe,саман,,,hard,Bricks made of clay and straw and dried in the sun
+adze,пъæнæз,,,hard,"A tool like an axe with the blade at a right angle to the handle, used for shaping wood"
+alert,ниггæмæл ун,,,normal,Watchful and ready to notice danger
+alive,сæрæгас,,,normal,"Living, not dead"
+amber,дзендзе,,,hard,A hard yellow-brown fossil resin used in jewellery
+angle,къумон,,,normal,The space between two lines or surfaces that meet at a point
+anguish,ухери,,,normal,Severe mental or physical pain
+apron,куатæ,,,hard,A garment worn over clothes to keep them clean while working
+aqua regia,кезапп,,,hard,A mixture of strong acids that can dissolve gold
+arrow,фат,,,normal,"A thin stick with a sharp point, shot from a bow"
+axis,сæмæн,,,hard,An imaginary line around which something turns
+backhand,уæларм,,,hard,A blow struck with the back of the hand
+balcony,затма,,,normal,A platform on the outside of a building accessible from an upper floor
+ball,къозо,,,simple,A round object used in games
+basket,тæскъæ,,,simple,A container made of woven sticks or straw
+bathe,æртайун,,,simple,To wash yourself or swim in water
+bayonet,мудзура,,,normal,A long knife fixed to the end of a rifle
+be sick,сæйгæ,,,simple,Feeling not well or not healthy
+bedridden patient,сæйгæ,,,normal,A sick person who has to stay in bed
+beekeeper,мудгæс,,,normal,A person who keeps bees for their honey
+bell,мурæ,,,normal,A hollow metal object that rings when struck
+between,æхсæн,,,simple,In or through the space separating two things
+birthmark,саустъæлфæ,,,simple,A mark on the skin that a person is born with
+blacksmith,курд,,,hard,A person who makes and repairs iron items such as horseshoes
+blister,хæппил,,,normal,A small bubble on the skin filled with liquid caused by rubbing or burning
+bloodhound,самуркуй,,,hard,"A large dog with a very good sense of smell, used for tracking"
+blueprint,нивæзт,,,normal,A detailed drawing or plan of a building or machine
+boat,кема,,,simple,A small vessel for travelling on water
+boundary,арæн,,,normal,A line that marks the limit of an area
+box,аскъæл,,,simple,A container with a flat base and sides
+bracelet,сахсæн,,,normal,A piece of jewellery worn around the wrist
+brake,суггум,,,normal,A device for slowing or stopping a vehicle
+brand,къипхæ,,,normal,A type of product made by a particular company
+bravo,бæрсий,,,normal,A word shouted to praise someone for doing well
+bread in milk,сæкка,,,hard,A dish of bread soaked in milk
+breakfast,сехуар,,,simple,The first meal of the day
+brick,агори дор,,,simple,A rectangular block of baked clay used for building
+bride,ностæ,,,normal,A woman on her wedding day
+brook,къада,,,normal,A small stream
+broom,уесойнæ,,,simple,A long-handled brush for sweeping
+bucket,къибила,,,simple,An open container with a handle used to carry liquids
+bud,къомбох,,,normal,A small lump on a plant that develops into a leaf or flower
+build,амайун,,,normal,To make something by putting parts together
+bunch,гобат,,,simple,A number of things of the same kind growing or held together
+buttock,лæбæз,,,simple,One of the two round soft parts of the body that you sit on
+button,гибу,,,normal,A small round object sewn on clothes to fasten them
+caftan,курæт,,,hard,A long loose garment with long sleeves
+calf,гæдзила,,,simple,A young cow or bull
+candle,цирагъ,,,simple,A stick of wax with a wick burned to give light
+captivity,уацар,,,hard,The state of being kept as a prisoner or confined
+carpet,гауз,,,simple,A thick woven covering for floors
+cast iron,циуан,,,normal,A hard alloy of iron carbon and silicon
+chair,къела,,,simple,A seat with a back for one person
+cheek,уадолæ,,,simple,Either side of the face below the eye
+chestnut,мудхуз,,,normal,"A shiny reddish-brown nut, or the tree it grows on"
+chimney,тохона,,,normal,A vertical pipe that carries smoke away from a fire
+circassian,цохъа,,,normal,A person from Circassia in the North Caucasus
+circle,фæлгур,,,hard,A round shape whose points are all equally distant from the center
+clay,æргъæ,,,normal,Heavy sticky earth used for making bricks and pots
+clear,кæдзос,,,simple,Easy to see through or easy to understand
+clever,сæрæн,,,normal,Quick to learn and understand
+cloak,гæллеу,,,normal,"A loose coat without sleeves, worn over the shoulders"
+cloud,æврагъ,,,simple,A visible mass of water droplets floating in the sky
+coffee,скъордон,,,simple,A hot drink made from roasted ground coffee beans
+collar,æфцæкъуатæ,,,hard,The part of a shirt or coat that goes around the neck
+comb,сæрвасæн,,,simple,"A flat object with teeth, used for tidying hair"
+cone,дурæ,,,hard,A shape with a circular base that narrows to a point
+consent,арази,,,normal,Permission for something to happen
+corner,бекъæ,,,normal,The place where two sides or edges meet
+cotton,бæмпæг,,,normal,"Soft white fibre from a plant, used to make cloth"
+cotton wool,бæмпæг,,,normal,Soft fluffy cotton used for cleaning skin or wounds
+country house,нидæнуат,,,normal,A house in the countryside
+court,тæрхон,,,normal,A place where legal cases are decided
+crampon,гебунтæ,,,hard,A metal frame with spikes fixed to a boot for walking on ice
+crane,уæзесæн,,,normal,A machine with a long arm for lifting heavy things
+cunning,налат,,,normal,Clever at deceiving people
+cup,къос,,,normal,A small container with a handle used for drinking
+cup,синон,,,normal,A small container with a handle used for drinking
+dangling,дзæгелæ,,,normal,Hanging loosely and swinging
+dawn,уæлбон,,,simple,The time of day when light first appears
+defective,потгонд,,,normal,Not made or working properly; having a fault
+desolation,гæнистон,,,normal,A state of emptiness and ruin
+diary,бонуг,,,normal,A book in which you write what happens each day
+dirty weather,забалахъ,,,normal,Bad stormy weather
+disheveled,пихцил,,,normal,"Untidy, especially of hair or clothes"
+door,дуар,,,simple,A hinged or sliding barrier used to open and close an entrance
+doubt,гузавæ,,,normal,A feeling of not being sure
+dress,пъолци,,,simple,A piece of clothing for a woman or girl that covers the body and legs
+drop,æртах,,,simple,A very small amount of liquid
+earth,зæнхæ,,,simple,The planet we live on or the soil covering it
+eat,лæперун,,,normal,To put food in the mouth and swallow it
+egg,айкæ,,,simple,"An oval object laid by a bird, used as food"
+facade,сента,,,normal,The front of a building
+faint,уæлдзæг,,,simple,To lose consciousness briefly
+familiar,вæсмард,,,normal,Well known and easily recognized
+famous,цитгин,,,normal,Known by many people
+far away,гандза,,,simple,At a great distance
+feather,пакъу,,,hard,One of the light soft things that cover a bird’s body
+fig,муф,,,simple,A soft sweet fruit with many small seeds
+finger ring,нихвæр,,,normal,A piece of jewellery worn on a finger
+fisher,балир,,,normal,A person who catches fish
+fist,мæсундзæг,,,simple,A hand with the fingers tightly closed
+flame,илауон,,,normal,The bright burning gas that comes from a fire
+flank,сера,,,normal,The side of an animal’s body or of an army
+flour,инсад,,,simple,"Powder made from grain, used for making bread"
+fluff,пакъу,,,normal,Soft light pieces of wool or feathers
+flute,уадиндзæ,,,hard,A musical instrument played by blowing across a hole
+fondle,талас кæнун,,,simple,To touch gently and lovingly
+forge,курдбадзæ,,,normal,A place where metal is heated and shaped
+fraction,сабантъи,,,hard,Small lead pellets fired from a shotgun
+fraud,фæлевæн,,,normal,Dishonest behaviour intended to gain an advantage
+freedom,сæребарæ,,,normal,The state of being free to act or live as you want
+fry,цорун,,,simple,To cook food in hot fat or oil
+gems,нал,,,normal,Precious stones
+ghoul,пъæзу,,,hard,An evil spirit or monster in folk tales
+giant,гæлгой,,,hard,A huge and very strong being in stories
+gift,саугъа,,,simple,Something given to someone without payment
+glade,æрдозæ,,,normal,An open space in a forest
+glimpse,сикир,,,normal,A very quick look
+glue,сансæ,,,normal,A sticky substance used to join things together
+go backwards,сидзмудзи,,,simple,To move in the direction behind you
+goal,къем,,,simple,The aim someone is trying to achieve
+granite,айнæгдор,,,normal,A very hard grey stone used for building
+gravel,цæхуарæ,,,normal,Small stones often used to cover paths
+greed,зудæ,,,normal,A strong desire for more of something than is needed
+greek,бердзейнаг,,,normal,A person from Greece
+groom,мойнаг,,,normal,A man on his wedding day
+ground,сикъит,,,normal,The surface of the earth
+gum,синæр,,,simple,The firm pink flesh around the teeth
+gutter,цухцурнæ,,,normal,A channel at the edge of a road or roof for carrying away water
+hairless,куассæ,,,normal,Having no hair
+handgun,гобедза,,,normal,A small gun held in one hand
+hang around,гæллеу,,,normal,To wait or stay somewhere without doing anything
+happiness,нивæ,,,normal,The feeling of being happy
+harbor,наууат,,,hard,A place on the coast where ships can shelter or dock
+harrow,похци,,,hard,"A farm tool with spikes, pulled over ploughed land to break up the soil"
+hawser,бидт,,,hard,A thick rope or cable used for mooring or towing a ship
+headache,сæринез,,,normal,A pain in the head
+heap,æнсарæ,,,normal,An untidy pile of things
+hearth,къона,,,hard,The floor of a fireplace
+hearth fence,ундугæ,,,hard,A screen placed in front of a fireplace
+heavy,харакет,,,hard,Having great weight
+hell-fire,туфул,,,normal,The fire of hell
+helmet,така,,,normal,A hard hat that protects the head
+helmet,сæрзæнт,,,normal,A hard hat that protects the head
+hematoma,тогдæппал,,,normal,A swelling of clotted blood beneath the skin
+hewn stone,гæрнадор,,,normal,Stone cut into shape for building
+hiccup,къуæзун,,,simple,A sudden involuntary spasm of the diaphragm causing a sharp sound
+hive,бæтман,,,normal,A box or place where bees live
+hogweed,билбатуг,,,hard,A large plant with clusters of small white flowers
+hollow,мура,,,simple,An empty space inside something
+honor,цитæ,,,normal,Great respect or a sense of what is right
+hoof,сæфтæг,,,normal,"The hard part of the foot of a horse, cow or goat"
+horn,сикъа,,,simple,A hard pointed growth on the head of some animals
+house,хæдзарæ,,,simple,A building for people to live in
+hug,хъури кæнун,,,simple,To put your arms around someone as a sign of affection
+husband,мойнæ,,,normal,A married man in relation to his wife
+image,сорæт,,,normal,A picture or the way someone is perceived
+image,нивæ,,,normal,A picture or the way someone is perceived
+in turn,кезугай,,,simple,One after another in order
+inflate,дунсун,,,simple,To fill something with air or gas
+invisible,салф,,,simple,Impossible to see
+jointer,саласийнæ,,,normal,A tool or machine for joining pieces of wood
+jump,лæуерун,,,simple,To push yourself off the ground with your legs
+king,падзах,,,normal,A man who rules a country
+king,перц,,,normal,A man who rules a country
+knee,зонуг,,,simple,The joint between the thigh and the lower leg
+knight,тонауæг,,,normal,A brave warrior who fought on horseback
+kudos,кад,,,normal,Praise or recognition for an achievement
+ladle,цолпи,,,simple,A large spoon with a deep bowl used for serving liquids
+lake,цадæ,,,simple,A large body of water surrounded by land
+lance,арист,,,hard,A long spear used by soldiers on horseback
+lapdog,серка,,,hard,A small pet dog
+lathe,зурнæ,,,normal,A machine for shaping wood or metal by spinning it
+lawn,дзедзо,,,normal,An area of short grass near a house
+lead,изди,,,hard,A heavy soft grey metal
+left,галеу,,,simple,On the side of the body where the heart is
+lens,цъести фæрдуг,,,normal,A curved piece of glass used to focus light
+leprosy,гæллæханез,,,hard,A serious infectious disease that damages the skin and nerves
+lightning,арвæртивд,,,normal,A flash of light in the sky caused by an electrical discharge during a storm
+line,ханхæ,,,simple,A long thin mark
+lump,къубус,,,simple,A small solid mass especially one growing on or in the body
+lush,пампуси,,,normal,"Thick, green and growing well"
+male hunting female,гит,,,hard,A male animal searching for a female in the mating season
+marrow,хъанз,,,hard,The soft substance inside bones
+mattress,гобан,,,normal,A thick soft pad that you sleep on
+maybe,мусийнæ,,,simple,Perhaps or possibly
+melt,æртайун,,,simple,To turn from solid to liquid because of heat
+mercury,гинасу,,,hard,A heavy silver metal that is liquid at room temperature
+message,уст,,,simple,A short piece of information sent to someone
+miss,сæрзад,,,normal,To fail to hit or reach something
+mockery,гириз,,,hard,Words or actions that make fun of someone
+mosquito,саскъæ,,,simple,A small flying insect that bites and sucks blood
+mother in law,уосимадæ,,,normal,The mother of one's husband or wife
+multiplication,бæрон,,,hard,Adding a number to itself a certain number of times
+mumbler,хомух,,,simple,A person who speaks unclearly without opening their mouth properly
+muzzle,къенбурбос,,,normal,The projecting nose and mouth of an animal
+navel,наффæ,,,simple,The small hollow in the middle of the belly
+niche,гайла,,,normal,A small hollow in a wall
+noise,бис,,,normal,A loud unpleasant sound
+notch,гæлерæ,,,hard,A small V-shaped cut in a surface
+one-sided,сента,,,normal,Having only one side or seeing only one side
+orbit,цъæсти къурфæ,,,normal,The curved path of an object around a star or planet
+oven,пец,,,simple,A closed box or stove for baking or heating food
+overhang,катæ,,,normal,A part that sticks out over something below it
+paddle,беслеу,,,simple,A short pole with a broad blade used to move a boat
+paddle,къохар,,,simple,A short pole with a broad blade used to move a boat
+pallet,пъæрæмит,,,normal,A simple hard bed
+pan,тебæ,,,normal,"A metal pot with a handle, used for cooking"
+pants,хæлаф,,,simple,An item of clothing worn on the lower body
+paradise,дзенет,,,normal,A perfect place where good people go after death
+peak,къонца,,,normal,The pointed top of a mountain
+pearl,сæтæлхуз,,,normal,A small white shiny ball that grows in an oyster
+pendulum,дзедзро,,,normal,A weight hanging from a fixed point that swings back and forth
+pilaf,пæлау,,,simple,A dish of rice cooked with meat and vegetables
+pillar,сæх,,,normal,A tall vertical post used as a support
+pillar,цæгиндзæ,,,simple,A tall vertical post used as a support
+piston,бæрдæн,,,hard,A part of an engine that moves up and down inside a tube
+plow,готон,,,hard,A farm tool pulled across a field to turn over the soil
+pooch,къудуркой,,,normal,An informal word for a dog
+pot,галемæ,,,normal,A deep round container for cooking
+pot,гæлиз,,,normal,A deep round container for cooking
+prey,хуали,,,normal,An animal hunted by another for food
+proud,сæрустур,,,normal,Feeling pleased about something you have done or own
+puke,уомун,,,simple,To vomit
+pumice,цинадор,,,normal,A light porous volcanic rock
+pupil,цъæсти гагу,,,normal,The black circular opening in the center of the eye
+qualitative,келбетон,,,normal,Related to how good something is
+quiver,сайдахъ,,,hard,A case for carrying arrows
+rag,къимбус,,,simple,A piece of old often torn cloth
+rainfall,сахуард,,,simple,Rain that falls; the amount of rain
+refugee,мухадзир,,,hard,A person forced to leave their country
+revolver,гобедза,,,normal,A pistol with a turning cylinder that holds several bullets
+right,рахез,,,simple,On the side of the body opposite the heart
+road,над,,,simple,A hard surface built for vehicles to travel on
+rock,дор,,,simple,A large mass of stone
+roller,наднæмæн,,,hard,A heavy cylinder rolled over ground to flatten it
+root,уедагæ,,,simple,The part of a plant that grows underground
+rope,суйнаг,,,simple,Thick strong cord made of twisted fibers
+round flat stone,сабæк,,,hard,A smooth round stone with a flat shape
+round flat stone,села,,,hard,A smooth round stone with a flat shape
+rowing,бæлæгътæрæн,,,normal,Moving a boat through water using oars
+ruby,лал,,,normal,A red precious stone
+rug,горцъе,,,normal,A small carpet
+rust,изгæ,,,normal,The reddish-brown coating formed on iron exposed to moisture
+saddle,саргъ,,,hard,A leather seat on the back of a horse
+sail,наупæлæз,,,normal,A large piece of cloth on a boat that catches the wind
+satiation,сæлæт,,,hard,The feeling of having eaten enough
+sausage,дзормæ,,,simple,A food made of minced meat in a tube-shaped casing
+scrap,сæстæг,,,normal,A small piece left over from something
+scull,сæригæхцæ,,,normal,The bone structure of the head
+sealing wax,песет,,,hard,Wax that is melted to seal letters
+search,дзæголæ,,,normal,An attempt to find something
+shadow,сатæг,,,simple,A dark area made by something blocking the light
+share,минди,,,normal,A part of something divided among people
+sharp,циргъ,,,normal,Having a fine edge or point able to cut
+shawl,сасуг,,,hard,A large piece of cloth worn around the shoulders or head
+shelf,уæлвæйнæг,,,normal,A flat board fixed to a wall used to store things
+shine,рохс,,,simple,To give out or reflect light
+ship,науæ,,,simple,A large vessel that travels on water
+shooting,нивист,,,normal,Firing a gun
+shooting range,æхсæн,,,normal,A place for practicing shooting at targets
+short,цъубур,,,simple,Not long or tall
+shoulders ride,дзайдзай,,,normal,Being carried on someone's shoulders
+shovel,бел,,,simple,A tool with a broad blade for digging or moving material
+sieve,сарсийнæ,,,normal,A tool with a mesh for separating small pieces from large ones
+silhouette,сауæндар,,,hard,A dark outline of someone or something against a light background
+silk,дарий,,,normal,A fine soft fiber produced by silkworms
+sing,зарун,,,simple,To make musical sounds with the voice
+sky,арв,,,simple,The space above the earth where clouds and the sun appear
+slave,гæлех,,,normal,A person who is owned by another person and works without pay
+sledgehammer,лæто,,,simple,A large heavy hammer used with both hands
+sleeve,сæмæнцæг,,,normal,The part of a piece of clothing that covers the arm
+slim,гурведауцæ,,,normal,Thin in an attractive way
+slope,тæссар,,,normal,A surface with one end higher than the other
+slumber,самæти,,,normal,Sleep
+small,минкъи,,,simple,Not large in size
+small axe,надзахи,,,normal,A hatchet
+smog,асмæ,,,normal,Fog mixed with smoke or pollution
+smoked,стад,,,normal,Preserved or flavored by exposure to smoke
+snout,къенбур,,,normal,The projecting nose and mouth of an animal
+soup plate,хъулуф тæбæгъ,,,normal,A deep plate for soup
+spatter,пурф,,,simple,To scatter small drops of liquid
+spin,урухсун,,,simple,To turn round quickly
+spirit,мон,,,normal,The non-physical part of a person or a strong alcoholic drink
+spit,сæтæ,,,normal,Liquid from the mouth; saliva
+splinter,синдзæ,,,simple,A small sharp piece of wood or glass
+spoon,уедуг,,,simple,A utensil with a small bowl for eating or serving food
+spot,къедта,,,normal,A small round mark or a particular place
+spring,цъæтæ,,,normal,The season after winter or a coiled metal device
+sprouts,забад,,,normal,Young shoots of a plant
+squire,гæрзхæссæг,,,hard,A young man who served a knight
+stairs,асийнæ,,,simple,A set of steps leading from one level to another
+stamp,мухур,,,normal,A tool for pressing a mark or seal onto paper
+stick,къуæцæл,,,simple,A thin piece of wood
+storm,уадæ,,,normal,A violent disturbance of the atmosphere with strong wind and rain
+stretch,бериндзун,,,normal,To extend the body or limbs to full length
+strong man,бога,,,normal,A man with great physical strength
+stump,къодах,,,simple,The part of a tree left after it is cut down
+sugar bowl,сæкæрдонæ,,,normal,A small bowl for sugar
+sulfur,сæуæндон,,,hard,A yellow chemical element that smells bad when burned
+table,фингæ,,,normal,A piece of furniture with a flat top and legs
+tan,дзедзалæ,,,normal,A brown color of skin from sun exposure
+teapot,цайдан,,,simple,A container with a spout used for making and pouring tea
+temptation,монд,,,hard,A desire to do something wrong or unwise
+thesaurus,бæрæгуат,,,normal,A book that lists words with similar meanings
+thorn,синдзæ,,,normal,A sharp point on the stem of a plant
+thought,сагъæс,,,normal,An idea in the mind
+thumb,дзиамбас,,,simple,The short thick finger set apart from the other four
+toilet,пусойнæ,,,simple,A fixture used for urination and defecation
+torch,соли,,,simple,A portable light source or a stick with a flame at one end
+touch,нидзæвун,,,simple,To put your hand or fingers on something
+tremble,резун,,,normal,To shake slightly often from fear or cold
+tripod,гæлизи корæнтæ,,,hard,A stand with three legs
+trough,бæлæгъ,,,normal,A long narrow container for animal food or water
+tuberculosis,сасæг,,,hard,A serious infectious disease that mainly affects the lungs
+tuesday,геуæргибон,,,simple,The day of the week after Monday
+turban,сарæхъ,,,hard,A long cloth wound around the head
+upside down,сæрбунти,,,simple,With the top part at the bottom
+urinary tube,сиппа,,,hard,The tube that carries urine out of the body
+venus,бонвæрнон,,,normal,The planet seen as a bright morning star
+volume,медар,,,normal,The amount of space something occupies or the loudness of sound
+waiting,хезун,,,normal,Remaining until something expected happens
+wallet,кисæ,,,normal,A small flat case for carrying money
+warm,тавун,,,simple,To make something warmer
+washer,цъæлхъос,,,simple,A small flat ring used to seal a joint or spread load
+waterskin,гæбæт,,,hard,A bag made of animal skin for carrying water
+wattle,сахъарали,,,normal,Woven branches used to make walls or fences
+wattle wall,сахъара,,,normal,A wall made of woven sticks
+wave,улæн,,,simple,A moving ridge of water or a gesture of the hand
+wedge,цорк,,,normal,A piece of material tapering to a thin edge
+whetstone,сæрхæ,,,hard,A stone used for sharpening knives and tools
+wick,пелта,,,normal,The string in a candle or lamp that burns
+wide,урух,,,simple,Having a large distance from side to side
+win,уæлахиз,,,simple,To be successful in a contest
+wineglass,синон,,,normal,"A glass with a stem, used for drinking wine"
+wonder,сæмæт,,,hard,Something very surprising and amazing
+wooden bed,урундухъ,,,normal,A bed frame made of wood
+wooden chain,самакъа,,,hard,A chain made of wood
+wrong,æнарæст,,,normal,Not correct or morally bad
+yawn,хомбериндзæ,,,simple,To open the mouth wide and breathe in deeply usually from tiredness
+shoehorn,къелгæнæн,,,normal,A curved tool used to help slide a foot into a shoe
+clew,къубулойнæ,,,normal,A ball of thread or yarn or a clue
+hunchbacked,къупсуйнæ,,,hard,Having a back with a large rounded hump
+coast,билгон,,,hard,The land next to the sea
+wheelbarrow,билбар,,,simple,A small cart with one wheel and two handles
+gurgling,хæбал-хубул,,,normal,The bubbling sound of flowing water
+feed,хацун,,,simple,To give food to a person or animal
+stair,хъæпхæн,,,simple,One step in a set of steps
+degree,хъæпхæн,,,hard,A step or level on a scale
+turbine,зутъи,,,hard,"A machine with blades turned by water, steam or wind to make power"
+boulder,зурæдор,,,normal,A very large rock
+burka,гæлдеу,,,normal,A long felt cloak worn in the Caucasus
+poor fellow,гæллæха,,,simple,A person you feel sorry for
+please,гæллæха,,,simple,A polite word used when asking for something
+hut,уосонгæ,,,normal,A small simple house or shelter
+weariness,уæгæ,,,normal,The state of being very tired
+firewood,хора,,,normal,Wood that is burned as fuel
+neck,хопъалæ,,,simple,The part of the body connecting the head to the shoulders
+carpet,горцъе,,,simple,A thick woven covering for floors
+wood bowl,горда,,,normal,A bowl made of wood
+saber,горда,,,normal,A heavy sword with a curved blade
+ploughshare,госли,,,normal,The sharp blade of a plough that cuts the soil
+plough,готон,,,normal,A farm tool pulled across a field to turn over the soil
+furrow,готонвæд,,,normal,A long narrow cut in the ground made by a plough
+furrow,готондзæф,,,normal,A long narrow cut in the ground made by a plough
+creamer,гоцъона,,,normal,A small jug for cream or milk
+forelock,гоцъора,,,normal,A lock of hair growing just above the forehead
+ice rink,гурæн,,,normal,A place with a smooth surface of ice for skating
+shaver,далакъи,,,normal,A person who shaves or cuts hair; a barber
+caviar,еугæф,,,normal,The salted eggs of a large fish
+compass,керта,,,normal,An instrument with a needle that always points north
+fortress,кесена,,,normal,A large strong building built to defend a place
+top,кинæ,,,simple,A toy that spins on a point
+crane,кипхæ,,,normal,A machine with a long arm for lifting heavy things
+hope chest,кирæ,,,normal,A chest in which a young woman keeps things for her future marriage
+cap,кобса,,,hard,"A soft hat, often with a peak at the front"
+gates,колдуар,,,simple,A large door in a wall or fence
+kefir,кундурсу,,,normal,A sour drink made from fermented milk
+slurry,лæхъерæ,,,hard,A thick mixture of water and mud or other material
+mortar,лæхудзæ,,,hard,A bowl in which things are crushed with a pestle
+sawmill,лухсуадзæн,,,normal,A factory where logs are cut into boards
+medal,майдан,,,simple,A metal disc given as an award
+lunar eclipse,мæйхуар,,,hard,A time when the earth’s shadow covers the moon
+solar eclipse,хордалингæ,,,hard,A time when the moon passes in front of the sun and hides it
+choke,хорх кæнун,,,normal,To be unable to breathe because something blocks the throat
+drought,хорфæлтæр,,,hard,A long period without rain
+sink,хехснæн,,,hard,"A basin with a tap, used for washing"
+touchstone,хердзæ,,,hard,A stone used to test the purity of gold and silver
+tandoor,хегæ,,,hard,A clay oven for baking bread
+pipe,хæтæл,,,simple,A tube through which liquid or gas flows
+rifle,хæтæл,,,normal,A long gun fired from the shoulder
+cane,хæтæл,,,hard,A stick used to help with walking
+heap,хæрхæ,,,normal,An untidy pile of things
+sawdust,хæлхъæ,,,normal,Fine dust that falls when wood is sawn
+egg without shell,хæлцойнæ,,,normal,An egg laid without a hard shell
+shopping bag,хæлцойнæ,,,normal,A bag for carrying things you have bought
+propeller,пернæ,,,simple,A device with turning blades that moves a ship or plane
+resin,песе,,,hard,A sticky substance that comes from trees
+bast shoes,бундзартæ,,,normal,Simple shoes woven from tree bark
+tile,гъосин,,,hard,"A thin flat piece of baked clay used to cover roofs, floors or walls"
+width,уæрхæ,,,hard,How wide something is
+cleaver,уæс,,,hard,A large heavy knife for chopping meat
+cellar,уæрмæ,,,normal,"A room under the ground of a house, used for storing things"
+brew,уæрас,,,hard,"A drink made by fermenting grain, such as beer or kvass"
+barbed wire,хамец,,,hard,"Wire with sharp points, used for fences"
+mess,халхос,,,normal,A dirty or untidy state
+hotel,фусунуат,,,hard,A building where people pay to stay and sleep
+hospital,cæйгæдонæ,,,normal,A building where sick or injured people are treated
+puddle,колæ,,,simple,A small pool of water on the ground
+glasses,кæсæнцæститæ,,,simple,"Two lenses in a frame, worn to help you see"
+kitchen,цæлгæнæн,,,simple,A room where food is cooked
+refrigerator,гаргадонæ,,,simple,A machine for keeping food cold
+plate,тефсег,,,normal,A flat dish from which food is eaten
+bathroom,æртайæндонæ,,,simple,A room with a bath or shower where you wash
+door hook,æркъæу,,,normal,A metal hook used to keep a door closed
+boot,цулухъ,,,normal,A strong shoe that covers the foot and the lower leg
+gutter,цухцурнæ,,,hard,A channel at the edge of a road or roof for carrying away water
+well,цъай,,,normal,A deep hole in the ground from which water is taken
+cleaver,цъалди,,,hard,A large heavy knife for chopping meat
+mittens,æрмкъохтæ,,,simple,Gloves with one part for the thumb and one for the fingers
+wound,æрхæд,,,simple,An injury where the skin is cut or broken
+gloves,æрходтæ,,,normal,Coverings for the hands with separate parts for each finger
+flint,æрцъинг,,,hard,A very hard stone that makes sparks when struck with steel
+soot,æскъорæ,,,normal,Black powder left by smoke
+skeleton,æстæгдар,,,simple,All the bones of a body
+mixer,æстауæн,,,simple,A machine for mixing things
+fainting,æуадзуг,,,normal,Suddenly losing consciousness for a short time
+cook,æфсапъæ,,,simple,A person who prepares food
+firewood,согтæ,,,simple,Wood that is burned as fuel
+needle,содзийнæ,,,simple,A thin pointed piece of metal used for sewing
+hay bundle,лæппæр,,,hard,A bundle of dried grass for feeding animals
+fatman,тъух,,,hard,A very fat man
+ringing,тъиллинг,,,hard,The sound of a bell
+windmill,уадгуройнæ,,,normal,"A building with sails turned by the wind, used for grinding grain"
+bouillon,уардон,,,hard,A clear soup made by boiling meat
+shield,уарт,,,normal,A large flat object held to protect the body from blows
+whistle,уасæн,,,simple,A small instrument that makes a high sound when you blow it
+scales,уæзæбарæн,,,simple,A device for weighing things
+juice,лæдæрс,,,normal,The liquid that comes from fruit or vegetables
+door lock,къума,,,normal,A device that keeps a door closed until opened with a key
+tire,къила,,,hard,A rubber ring around a wheel
+trap,къæппæг,,,hard,A device for catching animals
+curd,къæдорæ,,,normal,"The thick part of soured milk, used to make cheese"
+pantry,къæбец,,,normal,A small room where food is kept
+beggar,къæбæргор,,,hard,A person who lives by asking people for money or food
+footwrap,къахтохæн,,,hard,A strip of cloth wrapped around the foot instead of a sock
+pencil,къариндас,,,simple,"A thin wooden stick with graphite inside, used for writing"
+holster,къадира,,,hard,A leather case for carrying a pistol
+witch,курусдзау,,,normal,A woman believed to have magic powers
+ladle,кусийнæ,,,simple,A large spoon with a deep bowl used for serving liquids
+wicker box,куфæ,,,hard,A box made of woven sticks
+smooth,лагъз,,,normal,Having an even surface without bumps
+box,лагъз,,,simple,A container with a flat base and sides
+wineskin,лалун,,,hard,A bag made of animal skin for holding wine
+pita,лауз,,,normal,A flat round bread
+trench,лæгбадæн,,,hard,A long narrow hole dug in the ground
+stretcher,лæггуф,,,hard,A frame for carrying a sick or injured person
+killer,лæгмар,,,normal,A person who kills someone
+slacker,магоса,,,simple,A person who avoids work
+mine,мадан,,,normal,"A deep hole in the ground from which coal, metal or stones are dug"
+crystal,манг,,,normal,"A clear hard mineral, or high-quality clear glass"
+poison,марг,,,simple,A substance that can kill or harm if swallowed
+waterskin,матара,,,hard,A bag made of animal skin for carrying water
+festering gash,мæнггæс,,,hard,A deep cut that has become infected
+guard,гæс,,,normal,A person who watches over and protects a place or people
+dirt layer,гæппар,,,hard,A layer of dirt on a surface
+bar,гепп,,,normal,A long straight piece of metal or wood
+doll,гекъуна,,,simple,A toy in the shape of a person
+mortar,фæстæ,,,hard,A bowl in which things are crushed with a pestle
+armor,хотухтæ,,,normal,Metal covering worn to protect the body in battle
+click,къалца,,,simple,A short sharp sound
+ski,къахдзон,,,hard,One of a pair of long narrow strips for sliding over snow
+swimmer,накæгæнæг,,,normal,A person who swims
+grater,насхафæн,,,hard,A kitchen tool with a rough surface for cutting food into small pieces
+anchor,науæнгурæ,,,hard,A heavy metal object dropped from a ship to keep it in place
+nerve,науæр,,,normal,A thread in the body that carries messages to and from the brain
+mast,наугъæдæ,,,hard,A tall pole on a ship that holds the sails
+helmsman,наудæрæг,,,hard,The person who steers a ship
+butter,нæлхæ,,,simple,A soft yellow food made from cream
+bullet,нæмуг,,,simple,A small metal object fired from a gun
+corn,нæмуг,,,normal,A single seed of a cereal plant
+unhealthy,нæфæразæг,,,hard,Not in good health; sick
+migraine,нихнез,,,normal,A very bad headache
+disintegration,ниххеу ун,,,hard,Breaking into small pieces
+fresh,нозалæ,,,simple,Recently made or picked; not old
+list,номхигъд,,,normal,A number of names or things written one after another
+scar,нос,,,normal,A mark left on the skin after a wound has healed
+resin,песе,,,hard,A sticky substance that comes from trees
+ottoman,пъандар,,,hard,A low soft seat without a back
+rot,пъура,,,hard,Decay; the state of going bad
+lira,сааз,,,normal,A stringed musical instrument
+step,санкъех,,,simple,A movement of the foot when walking
+bronze,æргъу,,,simple,A yellowish-brown metal made of copper and tin
+reserve,æргъун,,,normal,A supply of something kept for later use
+ham,æрдасарм,,,normal,Salted or smoked meat from a pig’s leg
+hair,æрдо,,,simple,"The strands that grow from the skin, especially on the head"
+hair vessel,æрдодадзин,,,normal,A very thin blood vessel; a capillary
+triangle,æртивæрсуг,,,simple,A shape with three straight sides
+ash,æртходæг,,,normal,The grey powder left after something has burned
+wound,æрхæн,,,normal,An injury where the skin is cut or broken
+splinter,æрхъез,,,hard,A small sharp piece of wood or glass
+cloudlet,æстугæ,,,simple,A small cloud
+helmet,æсхъæрходæ,,,normal,A hard hat that protects the head
+scarecrow,будургъæ,,,normal,"A figure dressed in old clothes, put in a field to scare birds"
+dough,къинсæ,,,simple,A mixture of flour and water that is baked to make bread
+mill,куройнæ,,,simple,A building with a machine for grinding grain into flour
+net,хизæ,,,simple,"Material made of knotted string with holes, used for catching fish"
+mad,агъуд,,,normal,Mentally ill; crazy
+hut,уосонгæ,,,normal,A small simple house or shelter
+blind,хъæрæу,,,simple,Unable to see
+seed,хъапа,,,simple,A small part of a plant from which a new plant grows
+wooden bowl,хъалац,,,normal,A bowl made of wood
+lath,хъауари,,,normal,A thin flat strip of wood
+clit,хъахъæ,,,hard,A small sensitive part of the female genitals
+prostitute,хъахбай,,,hard,A person who has sex for money
+dumpling,хъæбун,,,hard,A small ball of dough cooked in water or soup
+barbed wire,хамец,,,hard,"Wire with sharp points, used for fences"
+wooden bucket,къæстæн,,,normal,A bucket made of wood
+fireplace,тъæрингъос,,,simple,An open place in a wall of a room where a fire is made
+convulsion,хæлæбурцъæ,,,normal,A sudden strong shaking of the body that cannot be controlled
+bag,хизин,,,normal,"A container made of cloth, leather or paper for carrying things"
+draught,уадзунгæ,,,hard,A current of cold air in a room
+servant,унаутæ,,,normal,A person who works in someone else’s house
+pot,æрхагæ,,,simple,A deep round container for cooking
+shot,тъæу,,,normal,The firing of a gun
+roasted corn,дзига,,,normal,Grains of corn cooked over a fire
+new hive,æфсиз,,,normal,A new swarm of bees that has left the old hive
+loan,æфстау,,,normal,Money or a thing that is borrowed and must be returned
+abortion,æфтудтаг,,,hard,The ending of a pregnancy before the baby is born
+profit,æфтуйагæ,,,normal,Money gained from business
+abortion,æфхæлцæ,,,hard,The ending of a pregnancy before the baby is born
+girth,æхтонг,,,hard,A strap around a horse’s belly that holds the saddle
+money,æхца,,,simple,Coins and banknotes used to buy things
+alien,æцæгæлон,,,normal,A stranger; a person from another place
+wallet,æхцадонæ,,,simple,A small flat case for carrying money
+beg,табу-мæндар кæнун,,,hard,To ask for something very strongly and humbly
+tendon,тагæ,,,hard,A strong cord that connects a muscle to a bone
+batten,æрæф,,,hard,A long thin strip of wood
+attic,тугур,,,hard,The space just below the roof of a house
+ceiling,тугур,,,hard,The top inside surface of a room
+overlap,тугур,,,hard,A floor or ceiling made of beams between storeys
+huddled,тугурæй,,,hard,"Pressed closely together or curled up, for example from cold"
+flexible,тасагæ,,,hard,Able to bend easily without breaking
+a married man in his prime,татурус,,,hard,A married man at the best and strongest age of his life
+cowardly,тæппод,,,hard,Easily frightened; lacking courage
+scales,тæразæ,,,hard,A device for weighing things
+joint,тæрвазæ,,,hard,A place where two bones meet
+bird cherry,тæфгъæдæ,,,hard,A tree with white flowers and small black bitter berries
+saber,тесмел,,,hard,A heavy sword with a curved blade
+dugout,тол,,,hard,A shelter dug into the ground

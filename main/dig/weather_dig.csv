@@ -1,24 +1,26 @@
-term,value,context,context value,level
-@topic,Бонигъæдæ,,,
-@author,Kazbek Biasti,,,
-@author.local,Биасти Георги фурт Хъазибег,,,
-winter,зумæг,season,афонæ,simple
-spring,уалдзæг,season,афонæ,simple
-summer,сæрдæ,season,афонæ,simple
-autumn,фæззæг,season,афонæ,simple
-cloudy,мегъгун,,,normal
-cold,уазал,,,simple
-cool,сатæг,,,normal
-dry,сор,,,simple
-foggy,мегъæ,,,simple
-freezing,гъизт,,,simple
-icy,ех,,,normal
-hot,тæвдæ,,,simple
-rainy,уарун,,,simple
-snowy,мет,,,simple
-sunny,хоргун,,,simple
-temperature,температура,,,normal
-thermometer,тæвдæбарæн,,,hard
-warm,гъар,,,simple
-wet,уомæл,,,normal
-windy,дунгæ,,,normal
+term,value,context,context value,level,meaning
+@topic,Бонигъæдæ,,,,
+@author,Kazbek Biasti,,,,
+@author.local,Биасти Георги фурт Хъазибег,,,,
+winter,зумæг,season,афонæ,simple,"The coldest season of the year, between autumn and spring"
+spring,уалдзæг,season,афонæ,simple,"The season between winter and summer, when plants begin to grow"
+summer,сæрдæ,season,афонæ,simple,"The warmest season of the year, between spring and autumn"
+autumn,фæззæг,season,афонæ,simple,"The season between summer and winter, when leaves fall from trees"
+cloudy,мегъгун,,,normal,With a lot of clouds in the sky
+cold,уазал,,,simple,Having a low temperature
+cool,сатæг,,,normal,"Slightly cold, in a pleasant way"
+dry,сор,,,simple,Without rain
+foggy,мегъæ,,,simple,With thick cloud near the ground that makes it hard to see
+freezing,гъизт,,,simple,"Extremely cold, at or below the temperature at which water turns to ice"
+icy,ех,,,normal,"Very cold, or covered with ice"
+hot,тæвдæ,,,simple,Having a high temperature
+rainy,уарун,,,simple,With a lot of rain
+snowy,мет,,,simple,With a lot of snow
+sunny,хоргун,,,simple,With bright sunshine
+temperature,температура,,,normal,How hot or cold something is
+thermometer,тæвдæбарæн,,,hard,An instrument for measuring temperature
+warm,гъар,,,simple,"Fairly hot, in a pleasant way"
+wet,уомæл,,,normal,"Covered with water, or rainy"
+windy,дунгæ,,,normal,With a lot of wind
+hurricane,уад,,,normal,A violent storm with very strong winds
+wind-scoured patch,уаддумдтæ,,,hard,A patch of ground where the wind has blown the snow away

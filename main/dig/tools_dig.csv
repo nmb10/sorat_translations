@@ -1,32 +1,32 @@
-term,value,context,context value,level
-@topic,Косæнгарз,,,
-@author,Kazbek Biasti,,,
-bolt,уттур,,,simple
-nail,зæгæл,,,simple
-screwdriver,лæсгæр зелун,,,simple
-bradawl,туассæ,,,simple
-handsaw,хирх,,,simple
-nut,гайкæ,,,simple
-screw,лæсгæр,,,simple
-wrench,дæгъæл,,,simple
-hammer,дзæбокæ,,,simple
-pipe wrench,хæтæли дæгъæл,,,simple
-pocketknife,хиринкъа,,,simple
-scissors,кæрдæн,,,simple
-chainsaw,рæхис хирх,,,simple
-drill,дрел,,,simple
-brace,арван,,,simple
-axe,фæрæт,,,simple
-jack plane,пъæнæз,,,simple
-chisel,дзагур,,,simple
-crowbar,дорсæттæн,,,normal
-crowbar,сæстæг,,,normal
-pliers,æргæвнæ,,,normal
-pickaxe,къахæн,,,hard
-mallet,гæлмæз,,,normal
-splitting wedge,дзæккур,,,hard
-plough,дзубур,,,normal
-snow shovel,фиййаг,,,hard
-shovel,бел,,,simple
-rake,пахса,,,simple
-nippers,цъаеппаег,,,normal
+term,value,context,context value,level,meaning
+@topic,Косæнгарз,,,,
+@author,Kazbek Biasti,,,,
+bolt,уттур,,,simple,"A metal pin with a head and a thread, used with a nut to hold things together"
+nail,зæгæл,,,simple,A thin pointed piece of metal that you hit with a hammer to join pieces of wood
+screwdriver,лæсгæр зелун,,,simple,A tool for turning screws
+bradawl,туассæ,,,simple,A small pointed tool for making holes in wood
+handsaw,хирх,,,simple,A saw that you use with one hand
+nut,гайкæ,,,simple,A small piece of metal with a threaded hole that screws onto a bolt
+screw,лæсгæр,,,simple,"A thin pointed piece of metal with a spiral thread, turned to fix things together"
+wrench,дæгъæл,,,simple,A tool for holding and turning nuts and bolts
+hammer,дзæбокæ,,,simple,"A tool with a heavy metal head on a handle, used for hitting nails"
+pipe wrench,хæтæли дæгъæл,,,simple,A large adjustable wrench for gripping and turning pipes
+pocketknife,хиринкъа,,,simple,A small knife with a blade that folds into the handle
+scissors,кæрдæн,,,simple,"A tool with two blades joined in the middle, used for cutting paper or cloth"
+chainsaw,рæхис хирх,,,simple,"A saw with a motor and a chain of teeth, used for cutting wood"
+drill,дрел,,,simple,A tool for making holes
+brace,арван,,,simple,"A hand tool with a crank handle, used for drilling holes"
+axe,фæрæт,,,simple,"A tool with a heavy blade on a long handle, used for chopping wood"
+jack plane,пъæнæз,,,simple,A general-purpose plane used for smoothing wood
+chisel,дзагур,,,simple,A tool with a sharp flat end for cutting wood or stone
+crowbar,дорсæттæн,,,normal,A heavy iron bar used for lifting or forcing things open
+crowbar,сæстæг,,,normal,A heavy iron bar used for lifting or forcing things open
+pliers,æргæвнæ,,,normal,"A hand tool with two jaws, used for holding, bending or cutting wire"
+pickaxe,къахæн,,,hard,A tool with a long handle and a pointed iron head for breaking hard ground
+mallet,гæлмæз,,,normal,A hammer with a large wooden or rubber head
+splitting wedge,дзæккур,,,hard,A metal wedge hammered into wood to split it
+plough,дзубур,,,normal,A farm tool pulled across a field to turn over the soil
+snow shovel,фиййаг,,,hard,A wide shovel for clearing snow
+shovel,бел,,,simple,A tool with a broad blade for digging or moving material
+rake,пахса,,,simple,A tool with a long handle and teeth for gathering leaves or smoothing soil
+nippers,цъаеппаег,,,normal,A tool with sharp jaws for cutting wire or nails

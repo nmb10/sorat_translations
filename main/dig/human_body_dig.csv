@@ -1,69 +1,69 @@
-term,value,context,context value,level
-@topic,Адæймаг.Бауæр,,,
-@author,Kazbek Biasti,,,
-@author_local,Биасти Георги фурт Хъазибег,,,
-abdomen,губун,,,simple
-ankle,фадигъолæ,,,hard
-arm,къох,,,simple
-armpit,дæларм,,,normal
-back,фæсонтæ,,,simple
-beard,закъе,,,normal
-big toe,хестæр æнгулдзæ,,,normal
-brain,магъз,,,normal
-buttocks,лæбæзтæ,,,simple
-calf,зæнгæ,,,normal
-cheek,рос,,,simple
-chest,реу,,,simple
-chin,роцъо,,,simple
-ear,гъос,,,simple
-elbow,рæмбуйнæ,,,simple
-esophagus,сауæсхолæ,,,hard
-eyebrow,æрфуг,,,normal
-eyelashes,цæстихауæ,,,normal
-eyelid,тъæфалæ,,,normal
-face,цæсгон,,,simple
-fingernail,них,,,simple
-forearm,базуг,,,normal
-forehead,тæрних,,,simple
-hair,хелæ,,,simple
-heel,зæбæт,,,normal
-hip,суйнæ,,,normal
-index finger,æхсун æнгулдзæ,,,normal
-instep,уæлфад,,,normal
-jaw,æфсæрæ,,,normal
-knee,уæраг,,,simple
-knuckle,мустукъи,,,hard
-leg,къах,,,simple
-leg,фад,,,simple
-lip,билæ,,,simple
-little finger,кæстæр æнгулдзæ,,,normal
-little toe,кæстæр æнгулдзæ,,,normal
-middle finger,рæстæмбес æнгулдзæ,,,normal
-mouth,цъух,,,simple
-mustache,бецъотæ,,,simple
-neck,бæрзæй,,,simple
-nose,фий,,,simple
-nostril,финдзи цъасæ,,,hard
-palm,армитъæпæн,,,normal
-pupil,цæсти гагу,,,hard
-shoulder,усхъæ,,,normal
-sideburn,инхагæ,,,hard
-thigh,суйнæ,,,normal
-throat,гъæлæс,,,hard
-thumb,дзиамбас,,,simple
-toe,æнгулдзæ,,,simple
-toenail,них,,,simple
-tongue,æвзаг,,,simple
-tooth,дæндаг,,,simple
-upper arm,усхъæ,,,simple
-waist,астæу,,,normal
-windpipe,гъæлгъæлагæ,,,hard
-wrist,цонгигъолæ,,,hard
-fist,мæсундзæг,,,simple
-temple,уалхъос,,,normal
-back,къилдун,,,normal
-nape,мæкъур,,,hard
-finger pad,урз,,,hard
-thigh,агъд,,,normal
-foot,дæлфад,,,normal
-armpit,дæлмус,,,normal
+term,value,context,context value,level,meaning
+@topic,Адæймаг.Бауæр,,,,
+@author,Kazbek Biasti,,,,
+@author_local,Биасти Георги фурт Хъазибег,,,,
+abdomen,губун,,,simple,The part of the body between the chest and the hips
+ankle,фадигъолæ,,,hard,The joint connecting the foot to the leg
+arm,къох,,,simple,The upper limb from shoulder to hand
+armpit,дæларм,,,normal,The hollow under the arm at the shoulder
+back,фæсонтæ,,,simple,The rear surface of the body from neck to hips
+beard,закъе,,,normal,Hair that grows on a man's chin and cheeks
+big toe,хестæр æнгулдзæ,,,normal,"The largest toe, on the inner side of the foot"
+brain,магъз,,,normal,The organ inside the skull that controls thought and movement
+buttocks,лæбæзтæ,,,simple,The two fleshy parts at the base of the back
+calf,зæнгæ,,,normal,The back of the lower leg below the knee
+cheek,рос,,,simple,The side of the face below the eye
+chest,реу,,,simple,The front part of the body between the neck and the abdomen
+chin,роцъо,,,simple,The part of the face below the mouth
+ear,гъос,,,simple,The organ used for hearing
+elbow,рæмбуйнæ,,,simple,The joint where the arm bends
+esophagus,сауæсхолæ,,,hard,The tube that carries food from the throat to the stomach
+eyebrow,æрфуг,,,normal,The line of hair above the eye
+eyelashes,цæстихауæ,,,normal,The short hairs edging the eyelids
+eyelid,тъæфалæ,,,normal,The skin that covers the eye when closed
+face,цæсгон,,,simple,The front part of the head
+fingernail,них,,,simple,The hard covering on the tip of a finger
+forearm,базуг,,,normal,The part of the arm between the elbow and the wrist
+forehead,тæрних,,,simple,The part of the face above the eyebrows
+hair,хелæ,,,simple,"The strands that grow from the skin, especially on the head"
+heel,зæбæт,,,normal,The back part of the foot
+hip,суйнæ,,,normal,The joint connecting the leg to the body at the side
+index finger,æхсун æнгулдзæ,,,normal,The finger next to the thumb
+instep,уæлфад,,,normal,The upper part of the foot between the toes and the ankle
+jaw,æфсæрæ,,,normal,The bone structure that holds the teeth and forms the mouth
+knee,уæраг,,,simple,The joint where the leg bends
+knuckle,мустукъи,,,hard,A joint of the finger
+leg,къах,,,simple,The limb used for standing and walking
+leg,фад,,,simple,The limb used for standing and walking
+lip,билæ,,,simple,Either of the two soft edges of the mouth
+little finger,кæстæр æнгулдзæ,,,normal,"The smallest finger, on the outer side of the hand"
+little toe,кæстæр æнгулдзæ,,,normal,"The smallest toe, on the outer side of the foot"
+middle finger,рæстæмбес æнгулдзæ,,,normal,The finger in the centre of the hand
+mouth,цъух,,,simple,The opening in the face used for eating and speaking
+mustache,бецъотæ,,,simple,Hair that grows on the upper lip
+neck,бæрзæй,,,simple,The part of the body connecting the head to the shoulders
+nose,фий,,,simple,The organ used for breathing and smelling
+nostril,финдзи цъасæ,,,hard,Either of the two openings in the nose
+palm,армитъæпæн,,,normal,The inner surface of the hand
+pupil,цæсти гагу,,,hard,The black circular opening in the centre of the eye
+shoulder,усхъæ,,,normal,The joint connecting the arm to the body
+sideburn,инхагæ,,,hard,Hair grown down the side of the face in front of the ears
+thigh,суйнæ,,,normal,The part of the leg between the hip and the knee
+throat,гъæлæс,,,hard,The passage at the back of the mouth leading to the stomach and lungs
+thumb,дзиамбас,,,simple,"The short, thick finger set apart from the other four"
+toe,æнгулдзæ,,,simple,One of the digits at the end of the foot
+toenail,них,,,simple,The hard covering on the tip of a toe
+tongue,æвзаг,,,simple,The muscular organ in the mouth used for tasting and speaking
+tooth,дæндаг,,,simple,One of the hard white structures in the mouth used for biting
+upper arm,усхъæ,,,simple,The part of the arm between the shoulder and the elbow
+waist,астæу,,,normal,The narrow part of the body between the ribs and the hips
+windpipe,гъæлгъæлагæ,,,hard,The tube that carries air to the lungs
+wrist,цонгигъолæ,,,hard,The joint connecting the hand to the arm
+fist,мæсундзæг,,,simple,A hand with the fingers tightly closed
+temple,уалхъос,,,normal,"The flat part on each side of the head, between the eye and the ear"
+back,къилдун,,,normal,The rear surface of the body from neck to hips
+nape,мæкъур,,,hard,The back of the neck
+finger pad,урз,,,hard,The soft fleshy part at the tip of a finger
+thigh,агъд,,,normal,The part of the leg between the hip and the knee
+foot,дæлфад,,,normal,The part of the leg below the ankle that you stand on
+armpit,дæлмус,,,normal,The hollow under the arm at the shoulder
