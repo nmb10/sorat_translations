@@ -2,57 +2,57 @@ term,value,context,context value,level,meaning
 @author,Kazbek Biasti,,,,
 @author.local,Биасти Георги фурт Хъазибег,,,,
 @topic,Уонх,,,,
-bay,гулфæн,,,normal,A part of the sea or a lake that curves into the land
-beach,æртайæн,,,simple,An area of sand or small stones next to the sea or a lake
-bridge,хед,,,simple,"A structure built over a river, road or valley so people can cross it"
-canyon,ком,,,simple,"A deep, narrow valley with steep sides, often with a river at the bottom"
-cave,лæгæт,,,normal,A large natural hole in the side of a hill or under the ground
-cliff,къæдзæх,,,normal,"A high, steep face of rock, often at the edge of the sea"
-cloud,æврагъ,,,simple,A white or grey mass of tiny water drops floating in the sky
-coast,билгон,,,simple,The land next to the sea
-crater,кратер,,,normal,"A large round hole in the ground, made by a volcano or a falling object"
-dam,колгонд,,,normal,A wall built across a river to hold back the water
-desert,æдзæрæг,,,simple,"A large, dry area of land with very little rain and few plants"
-dune,æзменсæ къулдун,,,normal,A hill of sand formed by the wind
-field,будур,,,simple,"An open area of land, often used for growing crops or keeping animals"
-flower,деденуг,,,simple,The colourful part of a plant that produces seeds
-forest,гъæдæ,,,simple,A large area of land covered with trees
-glacier,цъете,,,simple,"A large, slowly moving mass of ice"
-grass,кæрдæг,,,simple,A common plant with thin green leaves that covers the ground
-ground,сикъит,,,simple,The surface of the earth
-hill,къулдун,,,simple,"An area of land that is higher than the land around it, but lower than a mountain"
-island,хъурос,,,simple,A piece of land with water all around it
-jungle,джунгли,,,normal,A thick tropical forest with many trees and plants growing close together
-lake,цадæ,,,normal,A large area of water surrounded by land
-land,зæнхæ,,,simple,"The solid part of the earth, not covered by water"
-leaf,тъаффæ,,,simple,"A flat, usually green part of a plant that grows from a stem or branch"
-meadow,æрдозæ,,,simple,A field of grass and wild flowers
-mine,шахтæ,,,normal,"A deep hole in the ground from which coal, metal or stones are dug"
-moon,мæйæ,,,simple,The large round object that moves around the earth and shines at night
-moss,гъуна,,,normal,"A small, soft green plant that grows on rocks, trees and wet ground"
-mountain,хонх,,,simple,A very high hill
-mud,лахъа,,,simple,"Wet, soft earth"
-ocean,уартдзæф,,,simple,A very large area of salt water that covers much of the earth
-park,парк,,,simple,A public area with grass and trees where people go to walk and relax
-pebble,зурæ,,,normal,"A small, smooth, round stone"
-precipitate,лæбугъ,,,simple,Solid material that settles at the bottom of a liquid
-rainbow,æрдунæ,,,simple,"An arc of colours in the sky, seen when the sun shines through rain"
-river,цæугæдон,,,simple,A large natural stream of water flowing to the sea or a lake
-riverbank,дони билæ,,,normal,The land along the side of a river
-rock,дор,,,simple,"The hard, solid material that forms part of the earth; a large stone"
-sand,æзменсæ,,,simple,Very small grains of rock found on beaches and in deserts
-sea,денгиз,,,simple,The salt water that covers a large part of the earth
-sea shell,сæтæлагъодæ,,,normal,"The hard outer cover of a small sea animal, often found on beaches"
-sky,арв,,,simple,"The space above the earth where you see the sun, moon, stars and clouds"
-soil,сикъит,,,simple,The top layer of the earth in which plants grow
-star,æстъалу,,,simple,"A large ball of burning gas in space, seen as a point of light at night"
-stone,дор,,,simple,A small piece of rock
-tree,бæласæ,,,simple,A tall plant with a wooden trunk and branches
-tunnel,тъунел,,,normal,A long passage under the ground or through a hill
-water,дон,,,simple,"The clear liquid that falls as rain and fills rivers, lakes and seas"
-waterfall,цухцурæг,,,simple,A place where a river falls from a high place to a lower one
-wave,улæн,,,normal,A raised line of water moving across the surface of the sea
-whirlpool,хъулф,,,normal,A place in water where the current turns round very fast in a circle
-wave,цæхъал,,,normal,A raised line of water moving across the surface of the sea
-cliff,къардеу,,,hard,"A high, steep face of rock, often at the edge of the sea"
-snowflake,тъæфил,,,simple,A single small piece of falling snow
+bay,гулфæн,,,normal,"A part of the sea or a lake that curves into the land/Часть моря или озера, вдающаяся в сушу"
+beach,æртайæн,,,simple,An area of sand or small stones next to the sea or a lake/Участок песка или мелких камней у моря или озера
+bridge,хед,,,simple,"A structure built over a river, road or valley so people can cross it/Сооружение над рекой, дорогой или долиной для перехода через них"
+canyon,ком,,,simple,"A deep, narrow valley with steep sides, often with a river at the bottom/Глубокая узкая долина с крутыми склонами, часто с рекой на дне"
+cave,лæгæт,,,normal,A large natural hole in the side of a hill or under the ground/Большая естественная полость в склоне холма или под землёй
+cliff,къæдзæх,,,normal,"A high, steep face of rock, often at the edge of the sea/Высокая крутая скальная стена, часто на берегу моря"
+cloud,æврагъ,,,simple,"A white or grey mass of tiny water drops floating in the sky/Белая или серая масса мельчайших капель воды, плавающая в небе"
+coast,билгон,,,simple,The land next to the sea/Земля у моря
+crater,кратер,,,normal,"A large round hole in the ground, made by a volcano or a falling object/Большая круглая яма в земле, образованная вулканом или упавшим предметом"
+dam,колгонд,,,normal,"A wall built across a river to hold back the water/Стена поперёк реки, сдерживающая воду"
+desert,æдзæрæг,,,simple,"A large, dry area of land with very little rain and few plants/Большая сухая территория с очень малым количеством дождей и растений"
+dune,æзменсæ къулдун,,,normal,"A hill of sand formed by the wind/Холм из песка, образованный ветром"
+field,будур,,,simple,"An open area of land, often used for growing crops or keeping animals/Открытый участок земли, часто используемый для выращивания культур или содержания скота"
+flower,деденуг,,,simple,"The colourful part of a plant that produces seeds/Яркая часть растения, производящая семена"
+forest,гъæдæ,,,simple,"A large area of land covered with trees/Большая территория, покрытая деревьями"
+glacier,цъете,,,simple,"A large, slowly moving mass of ice/Большая медленно движущаяся масса льда"
+grass,кæрдæг,,,simple,"A common plant with thin green leaves that covers the ground/Обычное растение с тонкими зелёными листьями, покрывающее землю"
+ground,сикъит,,,simple,The surface of the earth/Поверхность земли
+hill,къулдун,,,simple,"An area of land that is higher than the land around it, but lower than a mountain/Участок земли выше окружающей местности, но ниже горы"
+island,хъурос,,,simple,"A piece of land with water all around it/Участок суши, со всех сторон окружённый водой"
+jungle,джунгли,,,normal,A thick tropical forest with many trees and plants growing close together/Густой тропический лес с множеством близко растущих деревьев и растений
+lake,цадæ,,,normal,"A large area of water surrounded by land/Большой водоём, окружённый сушей"
+land,зæнхæ,,,simple,"The solid part of the earth, not covered by water/Твёрдая часть земли, не покрытая водой"
+leaf,тъаффæ,,,simple,"A flat, usually green part of a plant that grows from a stem or branch/Плоская, обычно зелёная часть растения, растущая из стебля или ветки"
+meadow,æрдозæ,,,simple,A field of grass and wild flowers/Поле с травой и полевыми цветами
+mine,шахтæ,,,normal,"A deep hole in the ground from which coal, metal or stones are dug/Глубокая яма в земле, из которой добывают уголь, металл или камень"
+moon,мæйæ,,,simple,"The large round object that moves around the earth and shines at night/Большой круглый объект, движущийся вокруг Земли и светящий ночью"
+moss,гъуна,,,normal,"A small, soft green plant that grows on rocks, trees and wet ground/Маленькое мягкое зелёное растение, растущее на камнях, деревьях и влажной земле"
+mountain,хонх,,,simple,A very high hill/Очень высокий холм
+mud,лахъа,,,simple,"Wet, soft earth/Мокрая мягкая земля"
+ocean,уартдзæф,,,simple,"A very large area of salt water that covers much of the earth/Очень большое пространство солёной воды, покрывающее значительную часть Земли"
+park,парк,,,simple,"A public area with grass and trees where people go to walk and relax/Общественное место с травой и деревьями, где люди гуляют и отдыхают"
+pebble,зурæ,,,normal,"A small, smooth, round stone/Маленький гладкий круглый камень"
+precipitate,лæбугъ,,,simple,"Solid material that settles at the bottom of a liquid/Твёрдое вещество, оседающее на дно жидкости"
+rainbow,æрдунæ,,,simple,"An arc of colours in the sky, seen when the sun shines through rain/Цветная дуга в небе, видимая, когда солнце светит сквозь дождь"
+river,цæугæдон,,,simple,"A large natural stream of water flowing to the sea or a lake/Большой естественный поток воды, текущий в море или озеро"
+riverbank,дони билæ,,,normal,The land along the side of a river/Земля вдоль реки
+rock,дор,,,simple,"The hard, solid material that forms part of the earth; a large stone/Твёрдый плотный материал, образующий часть земли; большой камень"
+sand,æзменсæ,,,simple,"Very small grains of rock found on beaches and in deserts/Очень мелкие частицы горных пород, встречающиеся на пляжах и в пустынях"
+sea,денгиз,,,simple,"The salt water that covers a large part of the earth/Солёная вода, покрывающая большую часть Земли"
+sea shell,сæтæлагъодæ,,,normal,"The hard outer cover of a small sea animal, often found on beaches/Твёрдый внешний покров небольшого морского животного, часто встречающийся на пляжах"
+sky,арв,,,simple,"The space above the earth where you see the sun, moon, stars and clouds/Пространство над землёй, где видны солнце, луна, звёзды и облака"
+soil,сикъит,,,simple,"The top layer of the earth in which plants grow/Верхний слой земли, в котором растут растения"
+star,æстъалу,,,simple,"A large ball of burning gas in space, seen as a point of light at night/Большой шар горящего газа в космосе, видимый ночью как светящаяся точка"
+stone,дор,,,simple,A small piece of rock/Маленький кусок камня
+tree,бæласæ,,,simple,A tall plant with a wooden trunk and branches/Высокое растение с деревянным стволом и ветвями
+tunnel,тъунел,,,normal,A long passage under the ground or through a hill/Длинный проход под землёй или сквозь холм
+water,дон,,,simple,"The clear liquid that falls as rain and fills rivers, lakes and seas/Прозрачная жидкость, выпадающая дождём и наполняющая реки, озёра и моря"
+waterfall,цухцурæг,,,simple,"A place where a river falls from a high place to a lower one/Место, где река падает с высоты вниз"
+wave,улæн,,,normal,"A raised line of water moving across the surface of the sea/Поднятая гряда воды, движущаяся по поверхности моря"
+whirlpool,хъулф,,,normal,"A place in water where the current turns round very fast in a circle/Место в воде, где течение очень быстро кружится по кругу"
+wave,цæхъал,,,normal,"A raised line of water moving across the surface of the sea/Поднятая гряда воды, движущаяся по поверхности моря"
+cliff,къардеу,,,hard,"A high, steep face of rock, often at the edge of the sea/Высокая крутая скальная стена, часто на берегу моря"
+snowflake,тъæфил,,,simple,A single small piece of falling snow/Одна маленькая падающая частица снега

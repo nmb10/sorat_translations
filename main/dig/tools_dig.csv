@@ -1,32 +1,32 @@
 term,value,context,context value,level,meaning
 @topic,Косæнгарз,,,,
 @author,Kazbek Biasti,,,,
-bolt,уттур,,,simple,"A metal pin with a head and a thread, used with a nut to hold things together"
-nail,зæгæл,,,simple,A thin pointed piece of metal that you hit with a hammer to join pieces of wood
-screwdriver,лæсгæр зелун,,,simple,A tool for turning screws
-bradawl,туассæ,,,simple,A small pointed tool for making holes in wood
-handsaw,хирх,,,simple,A saw that you use with one hand
-nut,гайкæ,,,simple,A small piece of metal with a threaded hole that screws onto a bolt
-screw,лæсгæр,,,simple,"A thin pointed piece of metal with a spiral thread, turned to fix things together"
-wrench,дæгъæл,,,simple,A tool for holding and turning nuts and bolts
-hammer,дзæбокæ,,,simple,"A tool with a heavy metal head on a handle, used for hitting nails"
-pipe wrench,хæтæли дæгъæл,,,simple,A large adjustable wrench for gripping and turning pipes
-pocketknife,хиринкъа,,,simple,A small knife with a blade that folds into the handle
-scissors,кæрдæн,,,simple,"A tool with two blades joined in the middle, used for cutting paper or cloth"
-chainsaw,рæхис хирх,,,simple,"A saw with a motor and a chain of teeth, used for cutting wood"
-drill,дрел,,,simple,A tool for making holes
-brace,арван,,,simple,"A hand tool with a crank handle, used for drilling holes"
-axe,фæрæт,,,simple,"A tool with a heavy blade on a long handle, used for chopping wood"
-jack plane,пъæнæз,,,simple,A general-purpose plane used for smoothing wood
-chisel,дзагур,,,simple,A tool with a sharp flat end for cutting wood or stone
-crowbar,дорсæттæн,,,normal,A heavy iron bar used for lifting or forcing things open
-crowbar,сæстæг,,,normal,A heavy iron bar used for lifting or forcing things open
-pliers,æргæвнæ,,,normal,"A hand tool with two jaws, used for holding, bending or cutting wire"
-pickaxe,къахæн,,,hard,A tool with a long handle and a pointed iron head for breaking hard ground
-mallet,гæлмæз,,,normal,A hammer with a large wooden or rubber head
-splitting wedge,дзæккур,,,hard,A metal wedge hammered into wood to split it
-plough,дзубур,,,normal,A farm tool pulled across a field to turn over the soil
-snow shovel,фиййаг,,,hard,A wide shovel for clearing snow
-shovel,бел,,,simple,A tool with a broad blade for digging or moving material
-rake,пахса,,,simple,A tool with a long handle and teeth for gathering leaves or smoothing soil
-nippers,цъаеппаег,,,normal,A tool with sharp jaws for cutting wire or nails
+bolt,уттур,,,simple,"A metal pin with a head and a thread, used with a nut to hold things together/Металлический стержень с головкой и резьбой, используемый с гайкой для скрепления деталей"
+nail,зæгæл,,,simple,"A thin pointed piece of metal that you hit with a hammer to join pieces of wood/Тонкий острый кусок металла, который забивают молотком для соединения деревянных деталей"
+screwdriver,лæсгæр зелун,,,simple,A tool for turning screws/Инструмент для закручивания винтов
+bradawl,туассæ,,,simple,A small pointed tool for making holes in wood/Небольшой острый инструмент для проделывания отверстий в дереве
+handsaw,хирх,,,simple,"A saw that you use with one hand/Пила, которой работают одной рукой"
+nut,гайкæ,,,simple,"A small piece of metal with a threaded hole that screws onto a bolt/Небольшая металлическая деталь с резьбовым отверстием, накручиваемая на болт"
+screw,лæсгæр,,,simple,"A thin pointed piece of metal with a spiral thread, turned to fix things together/Тонкий острый кусок металла со спиральной резьбой, который вкручивают для скрепления деталей"
+wrench,дæгъæл,,,simple,A tool for holding and turning nuts and bolts/Инструмент для удержания и закручивания гаек и болтов
+hammer,дзæбокæ,,,simple,"A tool with a heavy metal head on a handle, used for hitting nails/Инструмент с тяжёлой металлической головкой на рукояти для забивания гвоздей"
+pipe wrench,хæтæли дæгъæл,,,simple,A large adjustable wrench for gripping and turning pipes/Большой регулируемый ключ для захвата и вращения труб
+pocketknife,хиринкъа,,,simple,"A small knife with a blade that folds into the handle/Маленький нож с лезвием, складывающимся в рукоятку"
+scissors,кæрдæн,,,simple,"A tool with two blades joined in the middle, used for cutting paper or cloth/Инструмент с двумя лезвиями, соединёнными посередине, для резки бумаги или ткани"
+chainsaw,рæхис хирх,,,simple,"A saw with a motor and a chain of teeth, used for cutting wood/Пила с мотором и цепью с зубьями для распиловки дерева"
+drill,дрел,,,simple,A tool for making holes/Инструмент для проделывания отверстий
+brace,арван,,,simple,"A hand tool with a crank handle, used for drilling holes/Ручной инструмент с коленчатой рукояткой для сверления отверстий"
+axe,фæрæт,,,simple,"A tool with a heavy blade on a long handle, used for chopping wood/Инструмент с тяжёлым лезвием на длинной рукояти для рубки дров"
+jack plane,пъæнæз,,,simple,A general-purpose plane used for smoothing wood/Универсальный рубанок для строгания дерева
+chisel,дзагур,,,simple,A tool with a sharp flat end for cutting wood or stone/Инструмент с острым плоским концом для обработки дерева или камня
+crowbar,дорсæттæн,,,normal,A heavy iron bar used for lifting or forcing things open/Тяжёлый железный стержень для подъёма или взламывания чего-либо
+crowbar,сæстæг,,,normal,A heavy iron bar used for lifting or forcing things open/Тяжёлый железный стержень для подъёма или взламывания чего-либо
+pliers,æргæвнæ,,,normal,"A hand tool with two jaws, used for holding, bending or cutting wire/Ручной инструмент с двумя губками для удержания, сгибания или резки проволоки"
+pickaxe,къахæн,,,hard,A tool with a long handle and a pointed iron head for breaking hard ground/Инструмент с длинной рукоятью и острым железным наконечником для разрыхления твёрдой земли
+mallet,гæлмæз,,,normal,A hammer with a large wooden or rubber head/Молоток с большой деревянной или резиновой головкой
+splitting wedge,дзæккур,,,hard,"A metal wedge hammered into wood to split it/Металлический клин, забиваемый в дерево, чтобы расколоть его"
+plough,дзубур,,,normal,"A farm tool pulled across a field to turn over the soil/Сельскохозяйственное орудие, которое тянут по полю для переворачивания почвы"
+snow shovel,фиййаг,,,hard,A wide shovel for clearing snow/Широкая лопата для уборки снега
+shovel,бел,,,simple,A tool with a broad blade for digging or moving material/Инструмент с широкой лопастью для копания или перемещения материала
+rake,пахса,,,simple,A tool with a long handle and teeth for gathering leaves or smoothing soil/Инструмент с длинной рукоятью и зубьями для сгребания листьев или выравнивания почвы
+nippers,цъаеппаег,,,normal,A tool with sharp jaws for cutting wire or nails/Инструмент с острыми губками для перекусывания проволоки или гвоздей

@@ -2,54 +2,54 @@ term,value,context,context value,level,meaning
 @topic,Арæзтадæ,,,,
 @author,Biasti Kazbek,,,,
 @author.local,Биасти Георги фурт Хъазибег,,,,
-arch,æрдуназгъунст,,,simple,"A curved structure over an opening, such as a door or a bridge"
-building,азгъунст,,,simple,"A structure with walls and a roof, such as a house or a school"
-house,хæдзарæ,,,simple,A building where people live
-wall,фарс,,,simple,A vertical structure that divides or encloses a space
-roof,сæр,,,simple,The structure that covers the top of a building
-floor,астæрд,,,simple,The surface of a room that you walk on
-storey,уæладзуг,,,normal,One level of a building
-foundation,бундор,,,normal,The solid base under a building that supports it
-column,цæгиндзæ,,,normal,A tall vertical post that supports part of a building
-beam,æрхæ,,,normal,A long thick piece of wood or metal that supports a roof or floor
-dome,æрдунæг,,,normal,A round roof shaped like half of a ball
-tower,мæсуг,,,simple,A tall narrow building or part of a building
-bridge,хед,,,simple,"A structure built over a river, road or valley so people can cross it"
-door,дуар,,,simple,A movable panel used to open and close an entrance
-window,къæразæ,,,simple,An opening in a wall that lets in light and air
-stairs,асийнæ,,,simple,A set of steps leading from one level to another
-chimney,тохона,,,normal,A vertical pipe that carries smoke out of a building
-fence,гæрæн,,,simple,A barrier that surrounds an area of land
-gate,колдуар,,,simple,A door in a fence or wall
-brick,агори,,,simple,A hard block of baked clay used for building
-stone,дор,,,simple,A hard solid piece of rock used for building
-cement,цемент,,,normal,A grey powder mixed with water and sand to bind building materials
-concrete,бетон,,,normal,"A hard building material made of cement, sand, stones and water"
-mortar,лæхудзæ,,,hard,A mixture of cement or lime with sand and water used to join bricks or stones
-plaster,исарст,,,normal,A paste that is spread on walls and ceilings and becomes hard when dry
-timber,гъæдæрмæг,,,normal,Wood prepared for use in building
-board,фæйнæг,,,simple,A long thin flat piece of wood
-tile,гъосин,,,normal,A thin piece of baked clay or other material used to cover roofs
-glass,авгæ,,,simple,A hard transparent material used in windows
-nail,зæгæл,,,simple,A thin pointed piece of metal hammered in to join pieces of wood
-scaffolding,бунастард,,,hard,A temporary frame of poles and boards used by builders working on a building
-crane,кипхæ,,,normal,A tall machine used for lifting and moving heavy objects
-builder,амайæг,,,simple,A person whose job is to build or repair houses and other buildings
-architect,архитектор,,,normal,A person whose job is to design buildings
-bricklayer,дорамайæг,,,normal,A person whose job is to build walls with bricks
-carpenter,гъæдгарзгæнæг,,,normal,A person whose job is to make and repair wooden things
-plan,нивæзт,,,simple,A drawing showing the layout of a building or area
-blueprint,ханхуг,,,hard,A detailed technical drawing of a building or machine
-construction,арæзтадæ,,,normal,The process or work of building something
-repair,цалцæг,,,simple,The act of fixing something that is broken or damaged
-road,над,,,simple,A wide way along which vehicles travel
-street,унгæ,,,simple,A public road in a town or city with buildings along it
-square,фæзнæ,,,simple,An open public area in a town surrounded by buildings
-village,гъæу,,,simple,A small group of houses in the countryside
-town,сахар,,,simple,A place with many houses and other buildings where people live and work
-district,уойлат,,,normal,An area of a town or country
-water supply,донвæд,,,hard,A system of pipes that brings water to buildings
-sewer,донфæндаг,,,hard,An underground pipe or system that carries away waste water
-well,цъай,,,normal,A deep hole in the ground from which water is taken
-tunnel,тонел,,,normal,A passage built under the ground or through a mountain
-dam,колгонд,,,normal,A wall built across a river to hold back water
+arch,æрдуназгъунст,,,simple,"A curved structure over an opening, such as a door or a bridge/Изогнутое сооружение над проёмом, например над дверью или мостом"
+building,азгъунст,,,simple,"A structure with walls and a roof, such as a house or a school/Сооружение со стенами и крышей, например дом или школа"
+house,хæдзарæ,,,simple,"A building where people live/Здание, в котором живут люди"
+wall,фарс,,,simple,"A vertical structure that divides or encloses a space/Вертикальная конструкция, разделяющая или ограждающая пространство"
+roof,сæр,,,simple,"The structure that covers the top of a building/Конструкция, покрывающая верх здания"
+floor,астæрд,,,simple,"The surface of a room that you walk on/Поверхность комнаты, по которой ходят"
+storey,уæладзуг,,,normal,One level of a building/Один уровень здания
+foundation,бундор,,,normal,"The solid base under a building that supports it/Прочное основание под зданием, которое его поддерживает"
+column,цæгиндзæ,,,normal,"A tall vertical post that supports part of a building/Высокая вертикальная опора, поддерживающая часть здания"
+beam,æрхæ,,,normal,"A long thick piece of wood or metal that supports a roof or floor/Длинный толстый кусок дерева или металла, поддерживающий крышу или пол"
+dome,æрдунæг,,,normal,A round roof shaped like half of a ball/Круглая крыша в форме половины шара
+tower,мæсуг,,,simple,A tall narrow building or part of a building/Высокое узкое здание или часть здания
+bridge,хед,,,simple,"A structure built over a river, road or valley so people can cross it/Сооружение над рекой, дорогой или долиной для перехода через них"
+door,дуар,,,simple,"A movable panel used to open and close an entrance/Подвижная панель, которой открывают и закрывают вход"
+window,къæразæ,,,simple,"An opening in a wall that lets in light and air/Проём в стене, пропускающий свет и воздух"
+stairs,асийнæ,,,simple,"A set of steps leading from one level to another/Ряд ступеней, ведущих с одного уровня на другой"
+chimney,тохона,,,normal,"A vertical pipe that carries smoke out of a building/Вертикальная труба, выводящая дым из здания"
+fence,гæрæн,,,simple,A barrier that surrounds an area of land/Ограждение вокруг участка земли
+gate,колдуар,,,simple,A door in a fence or wall/Дверь в заборе или стене
+brick,агори,,,simple,A hard block of baked clay used for building/Твёрдый блок из обожжённой глины для строительства
+stone,дор,,,simple,A hard solid piece of rock used for building/Твёрдый цельный кусок камня для строительства
+cement,цемент,,,normal,"A grey powder mixed with water and sand to bind building materials/Серый порошок, который смешивают с водой и песком для связывания строительных материалов"
+concrete,бетон,,,normal,"A hard building material made of cement, sand, stones and water/Твёрдый строительный материал из цемента, песка, камней и воды"
+mortar,лæхудзæ,,,hard,A mixture of cement or lime with sand and water used to join bricks or stones/Смесь цемента или извести с песком и водой для соединения кирпичей или камней
+plaster,исарст,,,normal,"A paste that is spread on walls and ceilings and becomes hard when dry/Паста, которую наносят на стены и потолки и которая твердеет при высыхании"
+timber,гъæдæрмæг,,,normal,"Wood prepared for use in building/Древесина, подготовленная для строительства"
+board,фæйнæг,,,simple,A long thin flat piece of wood/Длинный тонкий плоский кусок дерева
+tile,гъосин,,,normal,A thin piece of baked clay or other material used to cover roofs/Тонкая пластина из обожжённой глины или другого материала для покрытия крыш
+glass,авгæ,,,simple,"A hard transparent material used in windows/Твёрдый прозрачный материал, используемый в окнах"
+nail,зæгæл,,,simple,"A thin pointed piece of metal hammered in to join pieces of wood/Тонкий острый кусок металла, который забивают для соединения деревянных деталей"
+scaffolding,бунастард,,,hard,"A temporary frame of poles and boards used by builders working on a building/Временная конструкция из шестов и досок для строителей, работающих на здании"
+crane,кипхæ,,,normal,A tall machine used for lifting and moving heavy objects/Высокая машина для подъёма и перемещения тяжёлых предметов
+builder,амайæг,,,simple,"A person whose job is to build or repair houses and other buildings/Человек, чья работа — строить или ремонтировать дома и другие здания"
+architect,архитектор,,,normal,"A person whose job is to design buildings/Человек, чья работа — проектировать здания"
+bricklayer,дорамайæг,,,normal,"A person whose job is to build walls with bricks/Человек, чья работа — класть стены из кирпича"
+carpenter,гъæдгарзгæнæг,,,normal,"A person whose job is to make and repair wooden things/Человек, чья работа — изготавливать и чинить деревянные вещи"
+plan,нивæзт,,,simple,"A drawing showing the layout of a building or area/Чертёж, показывающий планировку здания или участка"
+blueprint,ханхуг,,,hard,A detailed technical drawing of a building or machine/Подробный технический чертёж здания или машины
+construction,арæзтадæ,,,normal,The process or work of building something/Процесс или работа по сооружению чего-либо
+repair,цалцæг,,,simple,The act of fixing something that is broken or damaged/Исправление чего-то сломанного или повреждённого
+road,над,,,simple,"A wide way along which vehicles travel/Широкий путь, по которому ездят транспортные средства"
+street,унгæ,,,simple,A public road in a town or city with buildings along it/Общественная дорога в городе со зданиями вдоль неё
+square,фæзнæ,,,simple,"An open public area in a town surrounded by buildings/Открытое общественное место в городе, окружённое зданиями"
+village,гъæу,,,simple,A small group of houses in the countryside/Небольшая группа домов в сельской местности
+town,сахар,,,simple,"A place with many houses and other buildings where people live and work/Место с множеством домов и других зданий, где люди живут и работают"
+district,уойлат,,,normal,An area of a town or country/Часть города или страны
+water supply,донвæд,,,hard,"A system of pipes that brings water to buildings/Система труб, подающая воду в здания"
+sewer,донфæндаг,,,hard,"An underground pipe or system that carries away waste water/Подземная труба или система, отводящая сточные воды"
+well,цъай,,,normal,"A deep hole in the ground from which water is taken/Глубокая яма в земле, из которой берут воду"
+tunnel,тонел,,,normal,"A passage built under the ground or through a mountain/Проход, проложенный под землёй или сквозь гору"
+dam,колгонд,,,normal,"A wall built across a river to hold back water/Стена поперёк реки, сдерживающая воду"

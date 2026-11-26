@@ -1,99 +1,99 @@
 term,value,context,context value,level,meaning
 @topic,Arms,,,,
 @author,Kazbek Biasti,,,,
-shot,сабантъи,,,hard,Small lead pellets fired from a shotgun
-wound,æрхæн,,,,An injury where the skin is cut or broken
-helmet,æсхъæрходæ,,,,A hard hat that protects the head
-bow,æндурæ,,,,"A curved piece of wood with a string, used for shooting arrows"
-saber,æхсаргард,,,,A heavy sword with a curved blade
-sword,целхъ,,,,A weapon with a long metal blade and a handle
-spear,арцæ,,,,A weapon with a long pole and a sharp point
-pike,арист,,,,A weapon with a very long pole and a pointed metal head
-axe,фæрæт,,,,"A tool with a heavy blade on a long handle, used for chopping wood"
-pistol,дамбаца,,,,A small gun held in one hand
-assault rifle,автомат,,,,An automatic rifle that fires many bullets quickly
-machine gun,пулемет,,,,A gun that fires bullets very quickly and continuously
-cannon,дзармадзан,,,,A large heavy gun that fires big shells
-tank,танк,,,,A heavy armoured military vehicle with a large gun
-aircraft,хуæдтæхæг,,,,A flying vehicle with wings and engines
-rocket,ракетæ,,,,A flying weapon driven by burning fuel
-hunting gun,топп,,,,A long gun used for hunting
-rifle,æхснирсæг,,,,A long gun fired from the shoulder
-dagger,хъæма,,,,A short pointed knife used as a weapon
-knife,кард,,,,A tool with a sharp blade for cutting
-musket,мускет,,,,An old type of long gun
-machete,мачете,,,,A large heavy knife with a wide blade
-katana,катана,,,,A long Japanese sword with a curved blade
-arrow,фат,,,,"A thin stick with a sharp point, shot from a bow"
-rapier,шпагæ,,,,A long thin sword used for thrusting
-grenade,гранатæ,,,,A small bomb thrown by hand
-harpoon,барзе,,,,"A spear with a rope, used for hunting fish and whales"
-helmet,сæрзæнт,,,,A hard hat that protects the head
-steel helmet,æсхъæрходæ,,,,A hard hat that protects the head
-shield,уарт,,,,A large flat object held to protect the body from blows
-javelin,гебох,,,,A short light spear for throwing
-brass knuckles,кастет,,,,A metal piece worn over the fingers to make a punch harder
-flail,уæзцонг,,,,A weapon made of a heavy weight on a chain or strap attached to a handle
-whip,æхсæ,,,,"A long leather strap on a handle, used for hitting animals"
-axe butt,фæрæтдзæгот,,,,The blunt back part of an axe head
-mace,хъамуц,,,,"A heavy club with a thick end, used as a weapon"
-cartridge,фат,,,,A case holding a bullet and gunpowder
-gunpowder,топпихуасæ,,,,An explosive powder used in guns
-wad,къæбæл,,,,A plug that holds the powder and shot in place in a gun barrel
-bulletproof vest,æзгъæркъандзол,,,,A vest that protects the body from bullets
-bullet,нæмуг,,,,A small metal object fired from a gun
-mortar,хъумбарæ,,,,A short cannon that fires shells high into the air
-cannonball,хъумбарæ,,,,A heavy round ball fired from a cannon
-bear spear,сагелæ,,,,A heavy spear used for hunting bears
-quiver,садахъ,,,,A case for carrying arrows
-pole,гъелæ,,,,A long thin stick
-pole,гъелæ,,,,A long thin pole
-baton,гъелæ,,,,A short stick used as a weapon
-bat,дзабе,,,,A thick wooden stick used as a weapon
-revolver,левор,,,,A pistol with a turning cylinder that holds several bullets
-broad dagger,фанка,,,,A dagger with a broad blade
-mace,цæфкъобола,,,,"A heavy club with a thick end, used as a weapon"
-cudgel,цæфкъобола,,,,A heavy wooden club
-shot,ципхæ,,,,Small lead pellets fired from a shotgun
-pistol,гобедза,,,,A small gun held in one hand
-quiver,фатдонæ,,,,A case for carrying arrows
-armor,хотухтæ,,,normal,Metal covering worn to protect the body in battle
-bayonet,мудзура,,,normal,A long knife fixed to the end of a rifle
-bullet,нæмуг,,,simple,A small metal object fired from a gun
-handgun,гобедза,,,normal,A small gun held in one hand
-helmet,така,,,normal,A hard hat that protects the head
-helmet,сæрзæнт,,,normal,A hard hat that protects the head
-holster,къадира,,,hard,A leather case for carrying a pistol
-lance,арист,,,hard,A long spear used by soldiers on horseback
-quiver,сайдахъ,,,hard,A case for carrying arrows
-rifle,хæтæл,,,normal,A long gun fired from the shoulder
-saber,тесмел,,,hard,A heavy sword with a curved blade
-saber,горда,,,normal,A heavy sword with a curved blade
-shield,уарт,,,normal,A large flat object held to protect the body from blows
-squire,гæрзхæссæг,,,hard,A young man who served a knight
-knight,тонауæг,,,normal,A brave warrior who fought on horseback
-shot,тъæу,,,normal,The firing of a gun
-shooting,нивист,,,normal,Firing a gun
-crossbow,арбалет,,,,"A weapon that shoots short arrows, with a bow fixed across a wooden stock"
-sling,дорæхсæн,,,,A strap used for throwing stones
-halberd,алебардæ,,,,A long pole weapon with an axe blade and a spike on top
-trident,æртидагъ угард,,,,A spear with three points
-shashka,къæлца,,,,A Caucasian sabre with a slightly curved blade and no guard
-chain mail,æзгъæрхæдонæ,,,,Armour made of small metal rings linked together
-breastplate,мæргъгæ,,,,A piece of armour that covers the chest
-scabbard,кæрдбадзæ,,,,A cover for the blade of a sword or dagger
-hilt,гъæдæ,,,,The handle of a sword or dagger
-blade,дзæккур,,,,The flat sharp cutting part of a knife or sword
-bowstring,æрдунбос,,,,The string of a bow
-arrowhead,биринкъæ,,,,The pointed tip of an arrow
-trigger,æхснун æрдзæг,,,,The small lever on a gun that you pull to fire it
-gun barrel,хæтæл,,,,The metal tube of a gun through which the bullet is fired
-rifle butt,топпигъæдæ,,,,"The wide back end of a rifle, held against the shoulder"
-bandolier,хъатара,,,,A belt worn over the shoulder with pockets for cartridges
-gazyr,бæрцæ,,,,"A small case for a powder charge, sewn on the chest of a Circassian coat"
-powder horn,къæсмус,,,,A horn used to carry gunpowder
-flintlock,ерæдзипп,,,,An old gun fired by a spark from a flint
-bomb,бомбæ,,,,"A container filled with explosives, made to blow up"
-landmine,минæ,,,,A bomb hidden in the ground that explodes when stepped on
-sniper rifle,дæрддзæвин топп,,,,A rifle with a telescopic sight for shooting from far away
-warship,тугъдон науæ,,,,A ship armed for fighting at sea
+shot,сабантъи,,,hard,"Small lead pellets fired from a shotgun/Мелкие свинцовые шарики, которыми стреляют из дробовика"
+wound,æрхæн,,,,"An injury where the skin is cut or broken/Повреждение, при котором кожа порезана или разорвана"
+helmet,æсхъæрходæ,,,,"A hard hat that protects the head/Твёрдый головной убор, защищающий голову"
+bow,æндурæ,,,,"A curved piece of wood with a string, used for shooting arrows/Изогнутая деревянная палка с тетивой для стрельбы стрелами"
+saber,æхсаргард,,,,A heavy sword with a curved blade/Тяжёлый меч с изогнутым клинком
+sword,целхъ,,,,A weapon with a long metal blade and a handle/Оружие с длинным металлическим клинком и рукоятью
+spear,арцæ,,,,A weapon with a long pole and a sharp point/Оружие с длинным древком и острым наконечником
+pike,арист,,,,A weapon with a very long pole and a pointed metal head/Оружие с очень длинным древком и острым металлическим наконечником
+axe,фæрæт,,,,"A tool with a heavy blade on a long handle, used for chopping wood/Инструмент с тяжёлым лезвием на длинной рукояти для рубки дров"
+pistol,дамбаца,,,,"A small gun held in one hand/Небольшое огнестрельное оружие, которое держат одной рукой"
+assault rifle,автомат,,,,"An automatic rifle that fires many bullets quickly/Автоматическая винтовка, быстро выпускающая много пуль"
+machine gun,пулемет,,,,"A gun that fires bullets very quickly and continuously/Огнестрельное оружие, стреляющее пулями очень быстро и непрерывно"
+cannon,дзармадзан,,,,"A large heavy gun that fires big shells/Большое тяжёлое орудие, стреляющее крупными снарядами"
+tank,танк,,,,A heavy armoured military vehicle with a large gun/Тяжёлая бронированная военная машина с большой пушкой
+aircraft,хуæдтæхæг,,,,A flying vehicle with wings and engines/Летательный аппарат с крыльями и двигателями
+rocket,ракетæ,,,,"A flying weapon driven by burning fuel/Летающее оружие, движимое сгорающим топливом"
+hunting gun,топп,,,,A long gun used for hunting/Длинное ружьё для охоты
+rifle,æхснирсæг,,,,"A long gun fired from the shoulder/Длинное ружьё, из которого стреляют с плеча"
+dagger,хъæма,,,,"A short pointed knife used as a weapon/Короткий острый нож, используемый как оружие"
+knife,кард,,,,A tool with a sharp blade for cutting/Инструмент с острым лезвием для резки
+musket,мускет,,,,An old type of long gun/Старинный вид длинного ружья
+machete,мачете,,,,A large heavy knife with a wide blade/Большой тяжёлый нож с широким лезвием
+katana,катана,,,,A long Japanese sword with a curved blade/Длинный японский меч с изогнутым клинком
+arrow,фат,,,,"A thin stick with a sharp point, shot from a bow/Тонкая палочка с острым наконечником, которой стреляют из лука"
+rapier,шпагæ,,,,A long thin sword used for thrusting/Длинный тонкий меч для колющих ударов
+grenade,гранатæ,,,,"A small bomb thrown by hand/Небольшая бомба, которую бросают рукой"
+harpoon,барзе,,,,"A spear with a rope, used for hunting fish and whales/Копьё с верёвкой для охоты на рыбу и китов"
+helmet,сæрзæнт,,,,"A hard hat that protects the head/Твёрдый головной убор, защищающий голову"
+steel helmet,æсхъæрходæ,,,,"A hard hat that protects the head/Твёрдый головной убор, защищающий голову"
+shield,уарт,,,,"A large flat object held to protect the body from blows/Большой плоский предмет, который держат для защиты тела от ударов"
+javelin,гебох,,,,A short light spear for throwing/Короткое лёгкое метательное копьё
+brass knuckles,кастет,,,,"A metal piece worn over the fingers to make a punch harder/Металлическая накладка на пальцы, делающая удар кулаком сильнее"
+flail,уæзцонг,,,,"A weapon made of a heavy weight on a chain or strap attached to a handle/Оружие из тяжёлого груза на цепи или ремне, прикреплённом к рукояти"
+whip,æхсæ,,,,"A long leather strap on a handle, used for hitting animals/Длинный кожаный ремень на рукояти для подгона животных"
+axe butt,фæрæтдзæгот,,,,The blunt back part of an axe head/Тупая задняя часть топора
+mace,хъамуц,,,,"A heavy club with a thick end, used as a weapon/Тяжёлая дубина с утолщённым концом, используемая как оружие"
+cartridge,фат,,,,"A case holding a bullet and gunpowder/Гильза, содержащая пулю и порох"
+gunpowder,топпихуасæ,,,,"An explosive powder used in guns/Взрывчатый порошок, используемый в огнестрельном оружии"
+wad,къæбæл,,,,"A plug that holds the powder and shot in place in a gun barrel/Пробка, удерживающая порох и дробь в стволе ружья"
+bulletproof vest,æзгъæркъандзол,,,,"A vest that protects the body from bullets/Жилет, защищающий тело от пуль"
+bullet,нæмуг,,,,"A small metal object fired from a gun/Небольшой металлический предмет, которым стреляют из огнестрельного оружия"
+mortar,хъумбарæ,,,,"A short cannon that fires shells high into the air/Короткое орудие, стреляющее снарядами высоко вверх"
+cannonball,хъумбарæ,,,,"A heavy round ball fired from a cannon/Тяжёлый круглый шар, которым стреляют из пушки"
+bear spear,сагелæ,,,,A heavy spear used for hunting bears/Тяжёлое копьё для охоты на медведей
+quiver,садахъ,,,,A case for carrying arrows/Футляр для ношения стрел
+pole,гъелæ,,,,A long thin stick/Длинная тонкая палка
+pole,гъелæ,,,,A long thin pole/Длинный тонкий шест
+baton,гъелæ,,,,"A short stick used as a weapon/Короткая палка, используемая как оружие"
+bat,дзабе,,,,"A thick wooden stick used as a weapon/Толстая деревянная палка, используемая как оружие"
+revolver,левор,,,,A pistol with a turning cylinder that holds several bullets/Пистолет с вращающимся барабаном на несколько патронов
+broad dagger,фанка,,,,A dagger with a broad blade/Кинжал с широким клинком
+mace,цæфкъобола,,,,"A heavy club with a thick end, used as a weapon/Тяжёлая дубина с утолщённым концом, используемая как оружие"
+cudgel,цæфкъобола,,,,A heavy wooden club/Тяжёлая деревянная дубина
+shot,ципхæ,,,,"Small lead pellets fired from a shotgun/Мелкие свинцовые шарики, которыми стреляют из дробовика"
+pistol,гобедза,,,,"A small gun held in one hand/Небольшое огнестрельное оружие, которое держат одной рукой"
+quiver,фатдонæ,,,,A case for carrying arrows/Футляр для ношения стрел
+armor,хотухтæ,,,normal,"Metal covering worn to protect the body in battle/Металлическое покрытие, которое носят для защиты тела в бою"
+bayonet,мудзура,,,normal,"A long knife fixed to the end of a rifle/Длинный нож, закреплённый на конце винтовки"
+bullet,нæмуг,,,simple,"A small metal object fired from a gun/Небольшой металлический предмет, которым стреляют из огнестрельного оружия"
+handgun,гобедза,,,normal,"A small gun held in one hand/Небольшое огнестрельное оружие, которое держат одной рукой"
+helmet,така,,,normal,"A hard hat that protects the head/Твёрдый головной убор, защищающий голову"
+helmet,сæрзæнт,,,normal,"A hard hat that protects the head/Твёрдый головной убор, защищающий голову"
+holster,къадира,,,hard,A leather case for carrying a pistol/Кожаный футляр для ношения пистолета
+lance,арист,,,hard,A long spear used by soldiers on horseback/Длинное копьё конных воинов
+quiver,сайдахъ,,,hard,A case for carrying arrows/Футляр для ношения стрел
+rifle,хæтæл,,,normal,"A long gun fired from the shoulder/Длинное ружьё, из которого стреляют с плеча"
+saber,тесмел,,,hard,A heavy sword with a curved blade/Тяжёлый меч с изогнутым клинком
+saber,горда,,,normal,A heavy sword with a curved blade/Тяжёлый меч с изогнутым клинком
+shield,уарт,,,normal,"A large flat object held to protect the body from blows/Большой плоский предмет, который держат для защиты тела от ударов"
+squire,гæрзхæссæг,,,hard,"A young man who served a knight/Молодой человек, служивший рыцарю"
+knight,тонауæг,,,normal,"A brave warrior who fought on horseback/Храбрый воин, сражавшийся верхом на коне"
+shot,тъæу,,,normal,The firing of a gun/Выстрел из ружья
+shooting,нивист,,,normal,Firing a gun/Стрельба из ружья
+crossbow,арбалет,,,,"A weapon that shoots short arrows, with a bow fixed across a wooden stock/Оружие, стреляющее короткими стрелами, с луком, закреплённым поперёк деревянного ложа"
+sling,дорæхсæн,,,,A strap used for throwing stones/Ремень для метания камней
+halberd,алебардæ,,,,A long pole weapon with an axe blade and a spike on top/Оружие на длинном древке с лезвием топора и острием наверху
+trident,æртидагъ угард,,,,A spear with three points/Копьё с тремя остриями
+shashka,къæлца,,,,A Caucasian sabre with a slightly curved blade and no guard/Кавказская сабля со слегка изогнутым клинком без гарды
+chain mail,æзгъæрхæдонæ,,,,Armour made of small metal rings linked together/Доспех из маленьких сцепленных металлических колец
+breastplate,мæргъгæ,,,,"A piece of armour that covers the chest/Часть доспеха, закрывающая грудь"
+scabbard,кæрдбадзæ,,,,A cover for the blade of a sword or dagger/Чехол для клинка меча или кинжала
+hilt,гъæдæ,,,,The handle of a sword or dagger/Рукоять меча или кинжала
+blade,дзæккур,,,,The flat sharp cutting part of a knife or sword/Плоская острая режущая часть ножа или меча
+bowstring,æрдунбос,,,,The string of a bow/Тетива лука
+arrowhead,биринкъæ,,,,The pointed tip of an arrow/Острый наконечник стрелы
+trigger,æхснун æрдзæг,,,,"The small lever on a gun that you pull to fire it/Небольшой рычажок на оружии, на который нажимают для выстрела"
+gun barrel,хæтæл,,,,"The metal tube of a gun through which the bullet is fired/Металлическая трубка оружия, через которую вылетает пуля"
+rifle butt,топпигъæдæ,,,,"The wide back end of a rifle, held against the shoulder/Широкая задняя часть винтовки, которую упирают в плечо"
+bandolier,хъатара,,,,A belt worn over the shoulder with pockets for cartridges/Ремень через плечо с карманами для патронов
+gazyr,бæрцæ,,,,"A small case for a powder charge, sewn on the chest of a Circassian coat/Небольшой футляр для порохового заряда, нашитый на грудь черкески"
+powder horn,къæсмус,,,,A horn used to carry gunpowder/Рог для ношения пороха
+flintlock,ерæдзипп,,,,"An old gun fired by a spark from a flint/Старинное ружьё, стреляющее от искры кремня"
+bomb,бомбæ,,,,"A container filled with explosives, made to blow up/Ёмкость со взрывчаткой, предназначенная для взрыва"
+landmine,минæ,,,,"A bomb hidden in the ground that explodes when stepped on/Бомба, спрятанная в земле и взрывающаяся, когда на неё наступают"
+sniper rifle,дæрддзæвин топп,,,,A rifle with a telescopic sight for shooting from far away/Винтовка с оптическим прицелом для стрельбы издалека
+warship,тугъдон науæ,,,,"A ship armed for fighting at sea/Корабль, вооружённый для боя на море"

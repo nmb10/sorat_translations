@@ -2,25 +2,25 @@ term,value,context,context value,level,meaning
 @topic,Бонигъæдæ,,,,
 @author,Kazbek Biasti,,,,
 @author.local,Биасти Георги фурт Хъазибег,,,,
-winter,зумæг,season,афонæ,simple,"The coldest season of the year, between autumn and spring"
-spring,уалдзæг,season,афонæ,simple,"The season between winter and summer, when plants begin to grow"
-summer,сæрдæ,season,афонæ,simple,"The warmest season of the year, between spring and autumn"
-autumn,фæззæг,season,афонæ,simple,"The season between summer and winter, when leaves fall from trees"
-cloudy,мегъгун,,,normal,With a lot of clouds in the sky
-cold,уазал,,,simple,Having a low temperature
-cool,сатæг,,,normal,"Slightly cold, in a pleasant way"
-dry,сор,,,simple,Without rain
-foggy,мегъæ,,,simple,With thick cloud near the ground that makes it hard to see
-freezing,гъизт,,,simple,"Extremely cold, at or below the temperature at which water turns to ice"
-icy,ех,,,normal,"Very cold, or covered with ice"
-hot,тæвдæ,,,simple,Having a high temperature
-rainy,уарун,,,simple,With a lot of rain
-snowy,мет,,,simple,With a lot of snow
-sunny,хоргун,,,simple,With bright sunshine
-temperature,температура,,,normal,How hot or cold something is
-thermometer,тæвдæбарæн,,,hard,An instrument for measuring temperature
-warm,гъар,,,simple,"Fairly hot, in a pleasant way"
-wet,уомæл,,,normal,"Covered with water, or rainy"
-windy,дунгæ,,,normal,With a lot of wind
-hurricane,уад,,,normal,A violent storm with very strong winds
-wind-scoured patch,уаддумдтæ,,,hard,A patch of ground where the wind has blown the snow away
+winter,зумæг,season,афонæ,simple,"The coldest season of the year, between autumn and spring/Самое холодное время года, между осенью и весной"
+spring,уалдзæг,season,афонæ,simple,"The season between winter and summer, when plants begin to grow/Время года между зимой и летом, когда растения начинают расти"
+summer,сæрдæ,season,афонæ,simple,"The warmest season of the year, between spring and autumn/Самое тёплое время года, между весной и осенью"
+autumn,фæззæг,season,афонæ,simple,"The season between summer and winter, when leaves fall from trees/Время года между летом и зимой, когда с деревьев опадают листья"
+cloudy,мегъгун,,,normal,With a lot of clouds in the sky/С большим количеством облаков на небе
+cold,уазал,,,simple,Having a low temperature/Имеющий низкую температуру
+cool,сатæг,,,normal,"Slightly cold, in a pleasant way/Слегка холодный, приятно"
+dry,сор,,,simple,Without rain/Без дождя
+foggy,мегъæ,,,simple,"With thick cloud near the ground that makes it hard to see/С густыми облаками у земли, из-за которых плохо видно"
+freezing,гъизт,,,simple,"Extremely cold, at or below the temperature at which water turns to ice/Очень холодный, при температуре замерзания воды или ниже"
+icy,ех,,,normal,"Very cold, or covered with ice/Очень холодный или покрытый льдом"
+hot,тæвдæ,,,simple,Having a high temperature/Имеющий высокую температуру
+rainy,уарун,,,simple,With a lot of rain/С обильным дождём
+snowy,мет,,,simple,With a lot of snow/С обильным снегом
+sunny,хоргун,,,simple,With bright sunshine/С ярким солнечным светом
+temperature,температура,,,normal,How hot or cold something is/Насколько горячим или холодным является что-либо
+thermometer,тæвдæбарæн,,,hard,An instrument for measuring temperature/Прибор для измерения температуры
+warm,гъар,,,simple,"Fairly hot, in a pleasant way/Довольно тёплый, приятно"
+wet,уомæл,,,normal,"Covered with water, or rainy/Покрытый водой или дождливый"
+windy,дунгæ,,,normal,With a lot of wind/С сильным ветром
+hurricane,уад,,,normal,A violent storm with very strong winds/Сильная буря с очень сильными ветрами
+wind-scoured patch,уаддумдтæ,,,hard,"A patch of ground where the wind has blown the snow away/Участок земли, с которого ветер сдул снег"
